@@ -1,1 +1,1 @@
-# medicinais_jbrj.github.io
+# Coleção Temática de Plantas Medicinais
