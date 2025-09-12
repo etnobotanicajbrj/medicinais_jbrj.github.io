@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sobre Nós
-permalink: [medicinais_jbrj.github.io/sobre](https://luisaridolph.github.io/medicinais_jbrj.github.io/)
+permalink: (https://luisaridolph.github.io/medicinais_jbrj.github.io/sobre)
 ---
 
 # Sobre Nós
