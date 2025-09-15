@@ -11,7 +11,7 @@ body {
 
 /* Estilos para o cabeçalho e navegação */
 header {
-    background-color: #2E6F40 !important; /* Nova cor de fundo */
+    background-color: #7ac28e !important; /* Nova cor de fundo */
     padding: 8px 0 !important; /* Cabeçalho mais estreito */
     width: 100% !important;
 }
@@ -82,7 +82,7 @@ main {
 
 /* Estilos para o rodapé */
 .page-footer {
-    background-color: #84B067 !important; /* Nova cor de fundo */
+    background-color: #a37552 !important; /* Nova cor de fundo */
     color: white !important;
     text-align: center !important;
     padding: 15px 0 !important; /* Rodapé mais estreito */
