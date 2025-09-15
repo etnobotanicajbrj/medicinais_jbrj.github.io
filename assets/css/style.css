@@ -25,7 +25,7 @@ header {
     margin: 0 !important;
     padding: 0 !important;
     display: flex !important; /* Alinha os itens na horizontal */
-    justify-content: flex-start !important; /* Centraliza os itens horizontalmente */
+    justify-content: flex-end !important; /* Centraliza os itens horizontalmente */
     flex-wrap: wrap !important; /* Permite que os itens quebrem a linha em telas menores */
 }
 
@@ -47,12 +47,12 @@ header {
 
 /* Estilo para o link ao passar o mouse */
 .horizontal-nav a:hover {
-    background-color: #f1faf0 !important;
+    background-color: #c8d4c7 !important;
 }
 
 /* Estilo para o link da página atual (se estiver ativo) */
 .horizontal-nav a.active {
-    background-color: #f1faf0 !important; /* Cor de destaque para a página atual */
+    background-color: #c8d4c7 !important; /* Cor de destaque para a página atual */
     border-bottom: 2px solid white !important; /* Linha branca sob o link ativo */
 }
 
