@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visite a Coleção
+title: Visite a Coleção!
 permalink: /visite/
 ---
 
