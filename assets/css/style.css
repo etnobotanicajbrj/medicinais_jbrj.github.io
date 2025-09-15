@@ -36,10 +36,10 @@ header {
 
 /* Estilos para os links (a) */
 .horizontal-nav a {
-    color: white !important;
+    color: black !important;
     text-decoration: none !important; /* Remove o sublinhado */
     font-weight: bold !important;
-    padding: 10px 15px !important;
+    padding: 15px 20px !important;
     display: block !important;
     transition: background-color 0.3s ease !important;
     border-radius: 5px !important;
