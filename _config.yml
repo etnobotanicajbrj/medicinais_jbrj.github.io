@@ -11,7 +11,7 @@ baseurl: "/medicinais_jbrj.github.io"
 # Links de Navegação do Site
 header_links:
   - title: Sobre
-    url: /sobre/
+    url: https://luisaridolph.github.io/medicinais_jbrj.github.io/sobre 
   - title: Equipe
     url: /equipe/
   - title: Publicações
