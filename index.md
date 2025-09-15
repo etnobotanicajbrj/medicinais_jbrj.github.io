@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: default 
 title: Home
 ---
-
-# Bem-vindo ao Meu Site!
-
-Olá, mundo! Este é um exemplo de site criado com **GitHub Pages** e **Jekyll**.
+#### Bem-vindo ao meu Site!
+Explore nosso site usando o menu de navegação acima.
