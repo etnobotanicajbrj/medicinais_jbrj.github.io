@@ -1,12 +1,12 @@
 # Site settings
-title: Meu Primeiro Site
-description: Um site simples e elegante feito com GitHub Pages.
-author: Seu Nome
+title: Coleção Temática de Plantas Medicinais
+description: Um site simples feito com GitHub Pages.
+author: Viviane S. Fonseca Kruel
 
 # Base URL
 # Se seu site não estiver no domínio principal, use o nome do repositório
-baseurl: "" 
-# Exemplo se o repositório fosse 'meu-projeto': baseurl: "/meu-projeto"
+baseurl: "/medicinais_jbrj.github.io" 
+# Exemplo se o repositório fosse 'medicinais_jbrj.github.io': baseurl: "/medicinais_jbrj.github.io"
 
 # Build settings
 # O tema é essencial. Você pode usar um tema padrão como "minima"
