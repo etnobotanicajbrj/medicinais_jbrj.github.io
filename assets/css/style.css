@@ -1,40 +1,43 @@
-/* Estilos globais básicos para o corpo do site */
+/* Estilos globais para o corpo do site */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     line-height: 1.6;
+    display: flex; /* Define o body como um container flexbox */
+    flex-direction: column; /* Organiza os itens (header, main, footer) em uma coluna */
+    min-height: 100vh; /* Garante que o body tenha no mínimo 100% da altura da tela */
 }
 
 /* Estilos para o cabeçalho e navegação */
 header {
-    background-color: #2E6F40 !important; /* Cor de fundo escura para o cabeçalho */
-    padding: 10px 0 !important;
+    background-color: #2E6F40 !important; /* Nova cor de fundo */
+    padding: 8px 0 !important; /* Cabeçalho mais estreito */
     width: 100% !important;
 }
 
 /* Container da navegação horizontal */
 .horizontal-nav {
-    margin: 0 auto; /* Centraliza o container */
-    max-width: 1200px; /* Limita a largura para melhor visualização em telas grandes */
+    margin: 0 auto;
+    max-width: 1200px;
 }
 
 /* Estilos para a lista (ul) */
 .horizontal-nav ul {
     list-style: none !important;
     margin: 0 !important;
-    padding: 0 20px !important; /* Adicione um padding para não colar o logo nas bordas */
+    padding: 0 20px !important;
     display: flex !important;
-    justify-content: space-between !important; /* Alinha o logo à esquerda e os links à direita */
-    align-items: flex-end !important; /* Centraliza verticalmente o logo e os links */
+    justify-content: flex-end !important;
+    align-items: center !important;
     flex-wrap: wrap !important;
 }
 
 /* Estilo para a imagem do logo */
 .header-logo {
-    height: 70px !important; /* Ajuste a altura do seu logo aqui */
-    width: auto !important; /* Mantém a proporção da imagem */
-    margin-right: 15px !important; /* Espaço entre o logo e o primeiro link */
+    height: 65px !important; /* Altura da logo ajustada */
+    width: auto !important;
+    margin-right: 20px !important;
 }
 
 /* Esconde o marcador de lista para o logo */
@@ -42,15 +45,15 @@ header {
     margin: 0 !important;
 }
 
-/* Estilos para os itens da lista (li) */
+/* Estilos para os itens da lista (li) - apenas para os links de texto */
 .horizontal-nav li {
-    margin: 0 15px !important; /* Espaçamento entre os links */
+    margin: 0 15px !important;
 }
 
 /* Estilos para os links (a) */
 .horizontal-nav a {
     color: white !important;
-    text-decoration: none !important; /* Remove o sublinhado */
+    text-decoration: none !important;
     font-weight: bold !important;
     padding: 10px 15px !important;
     display: block !important;
@@ -60,13 +63,14 @@ header {
 
 /* Estilo para o link ao passar o mouse */
 .horizontal-nav a:hover {
-    background-color: #c8d4c7 !important;
+    background-color: #c8d4c7 !important; /* Nova cor de destaque */
+    color: #2E6F40 !important; /* Cor do texto no hover */
 }
 
 /* Estilo para o link da página atual (se estiver ativo) */
 .horizontal-nav a.active {
-    background-color: #c8d4c7 !important; /* Cor de destaque para a página atual */
-    border-bottom: 2px solid white !important; /* Linha branca sob o link ativo */
+    background-color: #c8d4c7 !important; /* Nova cor de destaque */
+    color: #2E6F40 !important; /* Cor do texto na página atual */
 }
 
 /* Estilos para o conteúdo principal */
@@ -74,14 +78,15 @@ main {
     padding: 20px;
     max-width: 900px;
     margin: 0 auto;
-    flex-grow: 1; /* Faz o conteúdo principal crescer e ocupar o espaço restante */
+    flex-grow: 1; /* Faz o conteúdo principal crescer e empurrar o rodapé */
 }
+
 /* Estilos para o rodapé */
 .page-footer {
-    background-color: #2E6F40 !important;
+    background-color: #68BA7F !important; /* Nova cor de fundo */
     color: white !important;
     text-align: center !important;
-    padding: 10px 0 !important;
+    padding: 15px 0 !important; /* Rodapé mais estreito */
     margin-top: 50px !important;
 }
 
