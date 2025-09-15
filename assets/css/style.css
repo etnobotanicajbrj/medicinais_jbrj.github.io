@@ -25,7 +25,7 @@ header {
 .horizontal-nav ul {
     list-style: none !important;
     margin: 0 !important;
-    padding: 0 20px !important;
+    padding: 0 15px !important;
     display: flex !important;
     justify-content: space-between !important; /* Logo na esquerda, links na direita */
     align-items: center !important;
@@ -34,7 +34,7 @@ header {
 
 /* Estilo para a imagem do logo */
 .header-logo {
-    height: 65px !important; /* Altura da logo ajustada */
+    height: 70px !important; /* Altura da logo ajustada */
     width: auto !important;
     margin-right: 20px !important;
 }
