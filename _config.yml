@@ -1,12 +1,12 @@
 # Site settings
 title: Coleção Temática de Plantas Medicinais
-description: Um site simples feito com GitHub Pages.
+description: Um site simples e elegante feito com GitHub Pages.
 author: Viviane S. Fonseca Kruel
 
 # Base URL
 # Se seu site não estiver no domínio principal, use o nome do repositório
-baseurl: "luisaridolph.github.io/medicinais_jbrj.github.io/" 
-# Exemplo se o repositório fosse 'medicinais_jbrj.github.io': baseurl: "/medicinais_jbrj.github.io"
+baseurl: "/medicinais_jbrj.github.io" 
+# Exemplo se o repositório fosse 'meu-projeto': baseurl: "/meu-projeto"
 
 # Build settings
 # O tema é essencial. Você pode usar um tema padrão como "minima"
@@ -17,7 +17,7 @@ theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
-  
+
 # Links de Navegação do Site
 nav_links:
   - title: Sobre
