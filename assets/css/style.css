@@ -32,9 +32,9 @@ header {
 
 /* Estilo para a imagem do logo */
 .header-logo {
-    height: 60px !important; /* Ajuste a altura do seu logo aqui */
+    height: 75px !important; /* Ajuste a altura do seu logo aqui */
     width: auto !important; /* Mantém a proporção da imagem */
-    margin-right: 20px !important; /* Espaço entre o logo e o primeiro link */
+    margin-right: 15px !important; /* Espaço entre o logo e o primeiro link */
 }
 
 /* Esconde o marcador de lista para o logo */
@@ -52,7 +52,7 @@ header {
     color: white !important;
     text-decoration: none !important; /* Remove o sublinhado */
     font-weight: bold !important;
-    padding: 15px 20px !important;
+    padding: 10px 15px !important;
     display: block !important;
     transition: background-color 0.3s ease !important;
     border-radius: 5px !important;
