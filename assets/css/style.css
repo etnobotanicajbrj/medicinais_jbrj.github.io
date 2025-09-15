@@ -8,7 +8,7 @@ body {
 
 /* Estilos para o cabeçalho e navegação */
 header {
-    background-color: #84B067 !important; /* Cor de fundo escura para o cabeçalho */
+    background-color: #2E6F40 !important; /* Cor de fundo escura para o cabeçalho */
     padding: 15px 0 !important;
     width: 100% !important;
 }
@@ -25,7 +25,7 @@ header {
     margin: 0 !important;
     padding: 0 !important;
     display: flex !important; /* Alinha os itens na horizontal */
-    justify-content: center !important; /* Centraliza os itens horizontalmente */
+    justify-content: flex-start !important; /* Centraliza os itens horizontalmente */
     flex-wrap: wrap !important; /* Permite que os itens quebrem a linha em telas menores */
 }
 
@@ -36,7 +36,7 @@ header {
 
 /* Estilos para os links (a) */
 .horizontal-nav a {
-    color: black !important;
+    color: white !important;
     text-decoration: none !important; /* Remove o sublinhado */
     font-weight: bold !important;
     padding: 15px 20px !important;
@@ -47,12 +47,12 @@ header {
 
 /* Estilo para o link ao passar o mouse */
 .horizontal-nav a:hover {
-    background-color: #FFFAFA !important;
+    background-color: #f1faf0 !important;
 }
 
 /* Estilo para o link da página atual (se estiver ativo) */
 .horizontal-nav a.active {
-    background-color: #FFFAFA !important; /* Cor de destaque para a página atual */
+    background-color: #f1faf0 !important; /* Cor de destaque para a página atual */
     border-bottom: 2px solid white !important; /* Linha branca sob o link ativo */
 }
 
