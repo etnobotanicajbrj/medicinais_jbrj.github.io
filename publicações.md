@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publicações
-permalink: /publicações/
+permalink: /publicacoes/
 ---
 
 ## Publicações e Materiais de Divulgação
