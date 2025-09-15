@@ -5,7 +5,7 @@ author: Viviane S. Fonseca Kruel
 
 # Base URL
 # Se seu site não estiver no domínio principal, use o nome do repositório
-baseurl: "/medicinais_jbrj.github.io" 
+baseurl: "luisaridolph.github.io/medicinais_jbrj.github.io/" 
 # Exemplo se o repositório fosse 'medicinais_jbrj.github.io': baseurl: "/medicinais_jbrj.github.io"
 
 # Build settings
