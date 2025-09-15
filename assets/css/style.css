@@ -34,9 +34,9 @@ header {
 
 /* Estilo para a imagem do logo */
 .header-logo {
-    height: 70px !important; /* Altura da logo ajustada */
+    height: 80px !important; /* Altura da logo ajustada */
     width: auto !important;
-    margin-right: 20px !important;
+    margin-right: 10px !important;
 }
 
 /* Esconde o marcador de lista para o logo */
