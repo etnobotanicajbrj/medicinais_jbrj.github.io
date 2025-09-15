@@ -8,7 +8,7 @@ body {
 
 /* Estilos para o cabeçalho e navegação */
 header {
-    background-color: #3e6e3e !important; /* Cor de fundo escura para o cabeçalho */
+    background-color: #84B067 !important; /* Cor de fundo escura para o cabeçalho */
     padding: 15px 0 !important;
     width: 100% !important;
 }
@@ -47,12 +47,12 @@ header {
 
 /* Estilo para o link ao passar o mouse */
 .horizontal-nav a:hover {
-    background-color: #575757 !important;
+    background-color: #FFFAFA !important;
 }
 
 /* Estilo para o link da página atual (se estiver ativo) */
 .horizontal-nav a.active {
-    background-color: #575757 !important; /* Cor de destaque para a página atual */
+    background-color: #FFFAFA !important; /* Cor de destaque para a página atual */
     border-bottom: 2px solid white !important; /* Linha branca sob o link ativo */
 }
 
