@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Sobre Nós
-permalink: medicinais_jbrj.github.io/sobre
+title: Contato
+permalink: /contato/
 ---
 
-# Sobre Nós
+# Contato
 
-Aqui você pode falar sobre a missão, a história e os valores do seu projeto.
+Aqui estará os possíveis contatos da coleção, como horários de funcionamento...
