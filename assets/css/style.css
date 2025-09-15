@@ -21,14 +21,13 @@ header {
     margin: 0 auto;
     max-width: 1200px;
 }
-
 /* Estilos para a lista (ul) */
 .horizontal-nav ul {
     list-style: none !important;
     margin: 0 !important;
     padding: 0 20px !important;
     display: flex !important;
-    justify-content: flex-end !important;
+    justify-content: space-between !important; /* Logo na esquerda, links na direita */
     align-items: center !important;
     flex-wrap: wrap !important;
 }
@@ -83,7 +82,7 @@ main {
 
 /* Estilos para o rodapé */
 .page-footer {
-    background-color: #68BA7F !important; /* Nova cor de fundo */
+    background-color: #84B067 !important; /* Nova cor de fundo */
     color: white !important;
     text-align: center !important;
     padding: 15px 0 !important; /* Rodapé mais estreito */
