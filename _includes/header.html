@@ -1,14 +1,15 @@
 <header>
     <nav class="horizontal-nav">
         <ul>
+            <li class="logo-item">
+                <a href="{{ site.baseurl }}/">
+                    <img src="{{ site.baseurl }}/assets/images/logoEtno.png" alt="Logo do Site" class="header-logo">
+                </a>
+            </li>
             <li><a href="{{ site.baseurl }}/" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
-            
             <li><a href="{{ site.baseurl }}/sobre/" class="{% if page.url contains '/sobre/' %}active{% endif %}">Sobre</a></li>
-            
             <li><a href="{{ site.baseurl }}/equipe/" class="{% if page.url contains '/equipe/' %}active{% endif %}">Equipe</a></li>
-            
             <li><a href="{{ site.baseurl }}/publicacoes/" class="{% if page.url contains '/publicacoes/' %}active{% endif %}">Publicações</a></li>
-            
             <li><a href="{{ site.baseurl }}/contato/" class="{% if page.url contains '/contato/' %}active{% endif %}">Contato</a></li>
         </ul>
     </nav>
