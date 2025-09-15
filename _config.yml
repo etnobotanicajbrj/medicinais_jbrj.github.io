@@ -12,8 +12,20 @@ baseurl: "/medicinais_jbrj.github.io"
 # O tema é essencial. Você pode usar um tema padrão como "minima"
 theme: minima
 
+# Links de Navegação do Site
+header_links:
+  - title: Sobre
+    url: /sobre/
+  - title: Equipe
+    url: /equipe/
+  - title: Publicações
+    url: /publicacoes/
+  - title: Jogos
+    url: /jogos/
+  - title: Contato
+    url: /contato/
+
 # Exclusões
-# Arquivos ou pastas que o Jekyll deve ignorar
 exclude:
   - Gemfile
   - Gemfile.lock
