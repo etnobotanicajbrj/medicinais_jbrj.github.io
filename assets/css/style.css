@@ -32,7 +32,7 @@ header {
 
 /* Estilo para a imagem do logo */
 .header-logo {
-    height: 75px !important; /* Ajuste a altura do seu logo aqui */
+    height: 70px !important; /* Ajuste a altura do seu logo aqui */
     width: auto !important; /* Mantém a proporção da imagem */
     margin-right: 15px !important; /* Espaço entre o logo e o primeiro link */
 }
@@ -74,14 +74,15 @@ main {
     padding: 20px;
     max-width: 900px;
     margin: 0 auto;
+    flex-grow: 1; /* Faz o conteúdo principal crescer e ocupar o espaço restante */
 }
 /* Estilos para o rodapé */
 .page-footer {
-    background-color: #333 !important; /* Cor de fundo escura */
+    background-color: #2E6F40 !important;
     color: white !important;
     text-align: center !important;
-    padding: 20px 0 !important;
-    margin-top: 50px !important; /* Adiciona espaço entre o conteúdo e o rodapé */
+    padding: 10px 0 !important;
+    margin-top: 50px !important;
 }
 
 .page-footer p {
