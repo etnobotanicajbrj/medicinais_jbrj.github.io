@@ -1,0 +1,24 @@
+/* Estilos para o cabeçalho */
+.site-nav ul {
+  list-style: none; /* Remove os marcadores de lista */
+  margin: 0;
+  padding: 0;
+  display: flex; /* Permite que os itens da lista fiquem em linha */
+  gap: 20px; /* Adiciona espaço entre os links (ajuste este valor como quiser) */
+}
+
+.site-nav li {
+  /* Não precisa de mais nada aqui, já que o display: flex resolve */
+}
+
+.site-nav .page-link {
+  display: block;
+  padding: 10px 0;
+  text-decoration: none; /* Remove o sublinhado dos links */
+  color: #555; /* Cor do texto (ajuste como quiser) */
+  font-weight: bold;
+}
+
+.site-nav .page-link:hover {
+  color: #000; /* Cor ao passar o mouse */
+}
