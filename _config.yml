@@ -1,25 +1,30 @@
 # Site settings
-title: Coleção Temática de Plantas Medicinais
-description: Um site simples feito com GitHub Pages.
-author: Viviane S. Fonseca Kruel (pesquisadora JBRJ)
+title: Meu Primeiro Site
+description: Um site simples e elegante feito com GitHub Pages.
+author: Seu Nome
 
 # Base URL
 # Se seu site não estiver no domínio principal, use o nome do repositório
-baseurl: "/medicinais_jbrj.github.io" 
+baseurl: "" 
 # Exemplo se o repositório fosse 'meu-projeto': baseurl: "/meu-projeto"
 
+# Build settings
+# O tema é essencial. Você pode usar um tema padrão como "minima"
+theme: minima
+
+# Exclusões
+# Arquivos ou pastas que o Jekyll deve ignorar
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  
 # Links de Navegação do Site
-header_links:
+nav_links:
   - title: Sobre
-    url: /sobre/ 
+    url: /sobre/
   - title: Equipe
     url: /equipe/
   - title: Publicações
     url: /publicacoes/
   - title: Contato
     url: /contato/
-
-# Exclusões
-exclude:
-  - Gemfile
-  - Gemfile.lock
