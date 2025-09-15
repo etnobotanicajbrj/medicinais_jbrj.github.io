@@ -21,12 +21,25 @@ header {
 
 /* Estilos para a lista (ul) */
 .horizontal-nav ul {
-    list-style: none !important; /* Remove os marcadores de lista */
+    list-style: none !important;
     margin: 0 !important;
-    padding: 0 !important;
-    display: flex !important; /* Alinha os itens na horizontal */
-    justify-content: flex-end !important; /* Centraliza os itens horizontalmente */
-    flex-wrap: wrap !important; /* Permite que os itens quebrem a linha em telas menores */
+    padding: 0 20px !important; /* Adicione um padding para não colar o logo nas bordas */
+    display: flex !important;
+    justify-content: space-between !important; /* Alinha o logo à esquerda e os links à direita */
+    align-items: flex-end !important; /* Centraliza verticalmente o logo e os links */
+    flex-wrap: wrap !important;
+}
+
+/* Estilo para a imagem do logo */
+.header-logo {
+    height: 40px !important; /* Ajuste a altura do seu logo aqui */
+    width: auto !important; /* Mantém a proporção da imagem */
+    margin-right: 20px !important; /* Espaço entre o logo e o primeiro link */
+}
+
+/* Esconde o marcador de lista para o logo */
+.horizontal-nav .logo-item {
+    margin: 0 !important;
 }
 
 /* Estilos para os itens da lista (li) */
