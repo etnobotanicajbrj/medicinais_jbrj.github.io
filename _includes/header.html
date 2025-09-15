@@ -1,19 +1,15 @@
-<header class="site-header">
-  <div class="wrapper">
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      {{ site.title | escape }}
-    </a>
-
-    <nav class="site-nav">
-      <ul>
-        {% for item in site.header_links %}
-          <li>
-            <a class="page-link" href="{{ item.url | relative_url }}">
-              {{ item.title | escape }}
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
+<header>
+    <nav class="horizontal-nav">
+        <ul>
+            <li><a href="{{ site.baseurl }}/" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
+            
+            <li><a href="{{ site.baseurl }}/sobre/" class="{% if page.url contains '/sobre/' %}active{% endif %}">Sobre</a></li>
+            
+            <li><a href="{{ site.baseurl }}/equipe/" class="{% if page.url contains '/equipe/' %}active{% endif %}">Equipe</a></li>
+            
+            <li><a href="{{ site.baseurl }}/publicacoes/" class="{% if page.url contains '/publicacoes/' %}active{% endif %}">Publicações</a></li>
+            
+            <li><a href="{{ site.baseurl }}/contato/" class="{% if page.url contains '/contato/' %}active{% endif %}">Contato</a></li>
+        </ul>
     </nav>
-  </div>
 </header>
