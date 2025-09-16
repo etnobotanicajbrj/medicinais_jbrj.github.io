@@ -92,3 +92,19 @@ main {
 .page-footer p {
     margin: 0 !important;
 }
+
+/* Estilos para o botão */
+.button-link {
+    display: inline-block !important;
+    background-color: #68BA7F !important; /* Cor de fundo do botão */
+    color: white !important;
+    text-decoration: none !important; /* Remove o sublinhado do link */
+    font-weight: bold !important;
+    padding: 12px 25px !important;
+    border-radius: 5px !important;
+    transition: background-color 0.3s ease !important;
+}
+
+.button-link:hover {
+    background-color: #4C8E5A !important; /* Cor de fundo mais escura ao passar o mouse */
+}
