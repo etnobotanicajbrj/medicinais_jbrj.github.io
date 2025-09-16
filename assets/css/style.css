@@ -93,16 +93,37 @@ main {
     margin: 0 !important;
 }
 
-/* Estilos para o botão */
-.button-link {
+/* Estilos para o botão Primário */
+.button-primary {
     display: inline-block !important;
-    background-color: #68BA7F !important; /* Cor de fundo do botão */
+    background-color: #68BA7F !important;
     color: white !important;
-    text-decoration: none !important; /* Remove o sublinhado do link */
+    text-decoration: none !important;
     font-weight: bold !important;
     padding: 12px 25px !important;
     border-radius: 5px !important;
     transition: background-color 0.3s ease !important;
+}
+
+.button-primary:hover {
+    background-color: #4C8E5A !important;
+}
+
+/* Estilos para o botão Secundário */
+.button-secondary {
+    display: inline-block !important;
+    background-color: #2E6F40 !important;
+    color: white !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
+    padding: 12px 12px !important;
+    border-radius: 5px !important;
+    transition: background-color 0.3s ease !important;
+}
+
+.button-secondary:hover {
+    background-color: #245833 !important;
+}
 }
 
 .button-link:hover {
