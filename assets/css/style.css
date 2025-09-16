@@ -25,7 +25,7 @@ header {
 .horizontal-nav ul {
     list-style: none !important;
     margin: 0 !important;
-    padding: 0 15px !important;
+    padding: 0 10px !important;
     display: flex !important;
     justify-content: space-between !important; /* Logo na esquerda, links na direita */
     align-items: center !important;
@@ -34,9 +34,9 @@ header {
 
 /* Estilo para a imagem do logo */
 .header-logo {
-    height: 80px !important; /* Altura da logo ajustada */
+    height: 85px !important; /* Altura da logo ajustada */
     width: auto !important;
-    margin-right: 10px !important;
+    margin-right: 8px !important;
 }
 
 /* Esconde o marcador de lista para o logo */
@@ -46,7 +46,7 @@ header {
 
 /* Estilos para os itens da lista (li) - apenas para os links de texto */
 .horizontal-nav li {
-    margin: 0 15px !important;
+    margin: 0 10px !important;
 }
 
 /* Estilos para os links (a) */
@@ -57,7 +57,7 @@ header {
     padding: 10px 15px !important;
     display: block !important;
     transition: background-color 0.3s ease !important;
-    border-radius: 5px !important;
+    border-radius: 3px !important;
 }
 
 /* Estilo para o link ao passar o mouse */
