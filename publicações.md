@@ -3,16 +3,6 @@ layout: default
 title: Publicações
 permalink: /publicacoes/
 ---
-<div class="sidebar-nav">
-    <h4>Seções:</h4>
-    <ul>
-        <li><a href="#artigos">Artigos</a></li>
-        <li><a href="#cartilhas">Cartilhas e Guias</a></li>
-        <li><a href="#livros">Livros</a></li>
-        <li><a href="#jogos">Jogos</a></li>
-    </ul>
-</div>
-
 # Publicações
 
 <hr>
