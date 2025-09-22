@@ -129,11 +129,11 @@ main {
 .button-link:hover {
     background-color: #4C8E5A !important; /* Cor de fundo mais escura ao passar o mouse */
 }
-
 /* Estilos para os títulos */
-h1, h2, {
-    color: #2E6F40 !important; /* Cor do cabeçalho */
+main h1, main h2 {
+    color: #2E6F40 !important; /* Cor mais forte para os títulos */
 }
+
 /* Estilos para a caixa de destaque */
 .destaque-caixa {
     background-color: #f0f7f4 !important; /* Cor de fundo suave que combina com o tema */
@@ -141,6 +141,6 @@ h1, h2, {
     padding: 15px !important;
     margin: 20px 0 !important; /* Espaço acima e abaixo da caixa */
     border-radius: 5px !important;
-    font-style: italic !important;
+    font-style: normal !important;
     color: #444 !important;
 }
