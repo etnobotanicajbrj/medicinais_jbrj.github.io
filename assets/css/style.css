@@ -139,6 +139,8 @@ main {
     border-radius: 5px !important;
     font-style: normal !important;
     color: #444 !important;
+    font-weight: bold !important; /* Adicionado para deixar todo o texto em negrito */
+}
 }
 /* Estilos para a linha divisória */
 hr {
