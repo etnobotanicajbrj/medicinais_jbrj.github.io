@@ -2,7 +2,7 @@
 layout: default 
 title: Home
 ---
-# Laboratório de Etnobotânica
+# Grupo de Etnobotânica
 ### Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
 
 Explore nosso site usando o menu de navegação acima.
