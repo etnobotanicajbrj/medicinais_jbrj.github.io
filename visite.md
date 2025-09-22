@@ -88,7 +88,7 @@ Finalmente, chegamos ao canteiro do **Sistema Digestório**, com a famosa **espi
 
 Ao longo desses canteiros, você pôde notar a incrível precisão do conhecimento medicinal, mostrando a relação íntima entre as plantas e o nosso corpo.
 
-### Plantas Alimentícias Não-Convencionais (PANCs) e Zonas de Troca
+### Plantas Alimentícias Não-Convencionais (PANCs)
 
 Este conjunto começa com as **Plantas Alimentícias Não-Convencionais**, ou **PANCs**. São espécies comestíveis que, apesar de não fazerem parte do nosso consumo diário, possuem um alto valor nutricional. O mais fascinante é que, para muitas comunidades, essas plantas são consideradas **alimento-medicina**, unindo nutrição e saúde em uma só espécie.
 
@@ -109,7 +109,7 @@ Neste setor, não deixe de notar a **pitanga** (*Eugenia uniflora*) no canteiro 
 
 A **pitanga** é um nome comum que se refere a diversas plantas, mas a espécie mais conhecida é a *Eugenia uniflora*, um arbusto nativo do Brasil, conhecido por seus frutos saborosos de cor vibrante. O uso da pitanga no país é tão antigo que já era documentado no século XVII na obra *Historia Naturalis Brasiliae*, ressaltando a sua importância na culinária e na medicina popular. O fruto, além de ser consumido in natura, é usado em sucos, geleias e doces. As folhas, por sua vez, são empregadas em chás com propriedades medicinais, principalmente como um anti-inflamatório e antioxidante. A planta é oficialmente reconhecida e faz parte da **Relação Nacional de Plantas Medicinais de Interesse ao SUS (RENISUS)**.
 
-Para fechar o passeio, o canteiro **Contribuição Brasileira** destaca plantas como o **caapi** ou **cipó-caapi**, ou **mariri** (*Banisteriopsis caapi*), é uma liana (trepadeira lenhosa) nativa da bacia amazônica, reverenciada por diversos povos indígenas como uma planta sagrada e medicinal. Por séculos, ela tem sido o principal ingrediente da ayahuasca, uma bebida psicoativa usada em rituais de cura e comunicação espiritual. A eficácia da bebida reside na sinergia entre o caapi e outras plantas, como a **chacrona** ou **rainha** (*Psychotria viridis*), que é rica em DMT. Enquanto a chacrona contém a substância psicoativa, o caapi, com seus alcaloides, permite que o DMT se torne ativo quando ingerido, tornando a mistura funcional. Embora o cipó-caapi seja um elemento central em práticas espirituais e culturais, a ciência moderna o tem estudado ativamente. O uso e a pesquisa com o caapi e a ayahuasca são controlados e regulamentados, mas o interesse científico continua a explorar seus potenciais terapêuticos, especialmente no tratamento de depressão e transtornos de ansiedade.
+Para fechar a caminhada, o canteiro **Contribuição Brasileira** destaca plantas como o **caapi** ou **cipó-caapi**, ou **mariri** (*Banisteriopsis caapi*), é uma liana (trepadeira lenhosa) nativa da bacia amazônica, reverenciada por diversos povos indígenas como uma planta sagrada e medicinal. Por séculos, ela tem sido o principal ingrediente da ayahuasca, uma bebida psicoativa usada em rituais de cura e comunicação espiritual. A eficácia da bebida reside na sinergia entre o caapi e outras plantas, como a **chacrona** ou **rainha** (*Psychotria viridis*), que é rica em DMT. Enquanto a chacrona contém a substância psicoativa, o caapi, com seus alcaloides, permite que o DMT se torne ativo quando ingerido, tornando a mistura funcional. Embora o cipó-caapi seja um elemento central em práticas espirituais e culturais, a ciência moderna o tem estudado ativamente. O uso e a pesquisa com o caapi e a ayahuasca são controlados e regulamentados, mas o interesse científico continua a explorar seus potenciais terapêuticos, especialmente no tratamento de depressão e transtornos de ansiedade.
 
 ---
 
@@ -121,7 +121,7 @@ A importância das plantas para a saúde é um conhecimento ancestral que, hoje,
 
 ---
 ## Reflexão - A Urgência da Conservação Biocultural
-Para encerrar nosso passeio, queremos convidar você para uma reflexão.
+Para encerrar, queremos convidar você para uma reflexão.
 
 A diversidade de plantas que você viu aqui é apenas uma amostra da riqueza inestimável da natureza. E a importância delas vai muito além dos saberes tradicionais.
 
