@@ -130,16 +130,27 @@ main {
     background-color: #4C8E5A !important; /* Cor de fundo mais escura ao passar o mouse */
 }
 
-/* Estilos para a caixa de destaque */
-.destaque-caixa {
+/* Estilos para a caixa de informação */
+.caixa-info {
     background-color: #f0f7f4 !important; /* Cor de fundo suave que combina com o tema */
     border-left: 5px solid #2E6F40 !important; /* Borda lateral para destaque */
     padding: 15px !important;
-    margin: 20px 0 !important; /* Espaço acima e abaixo da caixa */
+    margin: 20px 0 !important;
     border-radius: 5px !important;
     font-style: normal !important;
     color: #444 !important;
-    font-weight: bold !important; /* Adicionado para deixar todo o texto em negrito */
+    font-weight: bold !important;
+}
+
+/* Estilos para a caixa de alerta (novo estilo) */
+.caixa-alerta {
+    background-color: #fff9e6 !important; /* Cor de fundo amarela clara */
+    border-left: 5px solid #ffcc00 !important; /* Borda lateral amarela/laranja */
+    padding: 15px !important;
+    margin: 20px 0 !important;
+    border-radius: 5px !important;
+    color: #5a5a5a !important;
+    font-weight: bold !important;
 }
 }
 /* Estilos para a linha divisória */
