@@ -11,10 +11,10 @@ Olá e seja muito bem-vindo(a) à **Coleção Temática de Plantas Medicinais!**
 Este é um espaço único no Jardim Botânico do Rio de Janeiro, um verdadeiro "laboratório a céu aberto".
 Por meio da exposição ***"Saberes e Olhares Diversos"***, este roteiro foi preparado para que você caminhe pela Coleção por conta própria, descobrindo a conexão entre as plantas, a ciência e os saberes tradicionais.
 
-<p style="text-align: flex-start;">
+<p style="text-align: justify;">
     <a href="https://drive.google.com/file/d/1O1NTkjZgFvp4RaTAlduH9NVkBPh_j4Cy/view?usp=sharing" class="button-secondary" target="_blank">Áudio</a>
 </p>
-
+---
 ## Agora que você já está aqui, vamos conhecer a história por trás deste espaço e os objetivos que guiam o nosso trabalho.
 
 Nossa Coleção foi iniciada em 1986 por uma iniciativa das pesquisadoras do Jardim Botânico do Rio de Janeiro, Yara Britto e Tania Sampaio. Hoje, o trabalho é continuado pela pesquisadora Viviane Fonseca-Kruel e sua equipe, que dão continuidade a esse legado.
@@ -44,7 +44,7 @@ O nome popular é a porta de entrada para os saberes ancestrais e tradicionais. 
 É aí que o nome científico se torna essencial. Ele funciona como um ‘passaporte universal’ da planta, garantindo que a sua identificação seja única e precisa. Por isso, no Jardim Botânico, nosso foco é ter a identificação científica correta, para que os dados sobre as espécies sejam sempre confiáveis.
 
 Agora que já entendemos onde estamos, é hora de começar a nossa caminhada para conhecer as plantas, suas histórias e descobertas. Vamos caminhar?
-
+---
 ## Caminhando pelos Canteiros
 ### Saúde e Cotidiano: Um Olhar Holístico
 Este conjunto se encontra à esquerda do totem do mapa e ele nos mostra que o caminho para a saúde está nas práticas do dia a dia. É uma visão alinhada com o conceito da **Organização Mundial de Saúde**, que define a saúde como um estado de completo bem-estar físico, mental e social, e não apenas a ausência de doenças.
