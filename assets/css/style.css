@@ -160,16 +160,18 @@ hr {
     margin: 40px auto !important; /* Espaço acima e abaixo da linha */
     width: 100% !important; /* Tamanho da linha na tela */
 }
-/* Estilos para a guia lateral fixa */
+/* Estilos para a guia lateral */
 .sidebar-nav {
-    position: fixed !important;
-    top: 100px !important; /* Distância do topo */
-    right: 20px !important; /* Distância da direita */
-    width: 200px !important; /* Largura da guia */
+    position: static !important;
+    top: auto !important;
+    right: auto !important;
+    width: 250px !important; /* Aumentamos a largura para ela se acomodar melhor */
+    float: right !important; /* Faz o elemento flutuar à direita, mas dentro do fluxo do documento */
     background-color: #f8f8f8 !important;
     border: 1px solid #ccc !important;
     padding: 15px !important;
     border-radius: 8px !important;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
-    z-index: 1000 !important; /* Mantém a guia sobre outros elementos */
+    z-index: auto !important;
+    margin-left: 20px !important; /* Adiciona espaçamento entre a guia e o texto */
 }
