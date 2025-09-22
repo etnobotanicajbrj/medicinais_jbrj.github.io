@@ -160,3 +160,44 @@ hr {
     margin: 40px auto !important; /* Espaço acima e abaixo da linha */
     width: 100% !important; /* Tamanho da linha na tela */
 }
+
+/* Estilos para a guia lateral fixa */
+.sidebar-nav {
+    position: fixed !important;
+    top: 100px !important; /* Distância do topo */
+    right: 20px !important; /* Distância da direita */
+    width: 200px !important; /* Largura da guia */
+    background-color: #f8f8f8 !important;
+    border: 1px solid #ccc !important;
+    padding: 15px !important;
+    border-radius: 8px !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
+    z-index: 1000 !important; /* Mantém a guia sobre outros elementos */
+}
+
+/* Estilos para os links dentro da guia lateral */
+.sidebar-nav h4 {
+    margin-top: 0 !important;
+}
+
+.sidebar-nav ul {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.sidebar-nav li {
+    margin-bottom: 10px !important;
+}
+
+.sidebar-nav a {
+    color: #2E6F40 !important; /* Cor do link */
+    text-decoration: none !important;
+    font-weight: bold !important;
+    transition: color 0.3s ease !important;
+}
+
+.sidebar-nav a:hover {
+    color: #68BA7F !important;
+    text-decoration: underline !important;
+}
