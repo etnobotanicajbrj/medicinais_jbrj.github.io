@@ -11,7 +11,7 @@ Olá e seja muito bem-vindo(a) à **Coleção Temática de Plantas Medicinais!**
 Este é um espaço único no Jardim Botânico do Rio de Janeiro, um verdadeiro "laboratório a céu aberto".
 Por meio da exposição ***"Saberes e Olhares Diversos"***, este roteiro foi preparado para que você caminhe pela Coleção por conta própria, descobrindo a conexão entre as plantas, a ciência e os saberes tradicionais.
 
-<p style="text-align: justify;">
+<p style="text-align: center;">
     <a href="https://drive.google.com/file/d/1O1NTkjZgFvp4RaTAlduH9NVkBPh_j4Cy/view?usp=sharing" class="button-secondary" target="_blank">Áudio</a>
 </p>
 
