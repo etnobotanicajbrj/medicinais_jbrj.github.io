@@ -35,7 +35,7 @@ Nesta coleção, você vai encontrar cerca de **170 espécies** medicinais. São
 
 Você vai notar que as plantas estão organizadas em quatro grandes temas, cada um identificado por uma faixa de cor própria nas placas. Nós temos: **Saúde & Cotidiano** (faixa laranja), com plantas que nos auxiliam no dia a dia; **Ciência & Cultura** (faixa azul), que mostra como as plantas inspiram a arte e a saúde; **Sistemas do Corpo Humano** (faixa verde), onde você encontra as plantas indicadas para cada parte do nosso corpo; e a **Zona de Trocas** (faixa roxa), que conta a história da fitoterapia brasileira influenciada por plantas de todo o mundo.
 
-<div class="destaque-caixa">
+<div class="caixa-alerta">
     Só um lembrete importante antes de começarmos: por favor, não toque ou coma nenhuma das plantas, pois algumas podem ser tóxicas ⚠️
 </div>
 
@@ -135,12 +135,12 @@ Ao perdermos nossas plantas, perdemos não apenas a biodiversidade, mas também 
 
 Que a sua visita inspire em você a consciência sobre a importância de proteger as plantas e os conhecimentos que elas guardam, ajudando a salvaguardar o nosso valioso **patrimônio biocultural** para as futuras gerações.
 
-<div class="destaque-caixa">
+<div class="caixa-info">
     A importância das plantas para a saúde é um conhecimento ancestral que vem sendo reconhecido e valorizado.
 </div>
-<div class="destaque-caixa">
+<div class="caixa-info">
     As plantas continuam sendo uma fonte vital de pesquisa, e muitos dos medicamentos que usamos hoje têm sua origem nelas.
 </div>
-<div class="destaque-caixa">
+<div class="caixa-info">
    A perda de vegetação em seus ambientes naturais, o desmatamento, o fogo e a mineração levam à extinção de espécies. Ao perdermos as plantas, perdemos a biodiversidade, conhecimentos ancestrais e um potencial farmacológico imensurável.
 </div>
