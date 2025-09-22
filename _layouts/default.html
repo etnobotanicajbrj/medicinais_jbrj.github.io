@@ -6,7 +6,21 @@
     <title>{{ page.title }} | Coleção de Plantas Medicinais</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
-    <body>
+<body>
+
+    {% include header.html %}
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer class="page-footer">
+        <p>&copy; 2025 - Viviane S. Fonseca Kruel (como citar)</p>
+    </footer>
+
+</body>
+</html>
+<body>
 
     <header>
         </header>
@@ -28,17 +42,3 @@
         </footer>
 
 </body>
-<body>
-
-    {% include header.html %}
-
-    <main>
-        {{ content }}
-    </main>
-
-    <footer class="page-footer">
-        <p>&copy; 2025 - Viviane S. Fonseca Kruel (como citar)</p>
-    </footer>
-
-</body>
-</html>
