@@ -6,7 +6,7 @@ permalink: /visite/
 
 # Visita Autoguiada: Coleção Temática de Plantas Medicinais
 
-Olá e seja muito bem-vindo(a) à **Coleção Temática de Plantas Medicinais!** 
+Olá, seja muito bem-vindo(a)!
 
 Este é um espaço único no Jardim Botânico do Rio de Janeiro, um verdadeiro "laboratório a céu aberto".
 Por meio da exposição ***"Saberes e Olhares Diversos"***, este roteiro foi preparado para que você caminhe pela Coleção por conta própria, descobrindo a conexão entre as plantas, a ciência e os saberes tradicionais.
@@ -17,7 +17,7 @@ Por meio da exposição ***"Saberes e Olhares Diversos"***, este roteiro foi pre
 
 ---
 
-## Agora que você já está aqui, vamos conhecer a história por trás deste espaço e os objetivos que guiam o nosso trabalho.
+## Vamos conhecer a história por trás deste espaço e os objetivos que guiam o nosso trabalho.
 
 Nossa Coleção foi iniciada em 1986 por uma iniciativa das pesquisadoras do Jardim Botânico do Rio de Janeiro, Yara Britto e Tania Sampaio. Hoje, o trabalho é continuado pela pesquisadora Viviane Fonseca-Kruel e sua equipe, que dão continuidade a esse legado.
 
