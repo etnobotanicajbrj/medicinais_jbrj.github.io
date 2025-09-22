@@ -162,7 +162,7 @@ hr {
 }
 /* Estilos para a guia lateral */
 .sidebar-nav {
-    position: fixed !important;
+    position: static !important;
     top: auto !important;
     right: auto !important;
     width: 250px !important; /* Aumentamos a largura para ela se acomodar melhor */
