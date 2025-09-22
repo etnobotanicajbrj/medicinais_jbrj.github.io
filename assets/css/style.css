@@ -77,9 +77,9 @@ main {
     padding: 20px;
     max-width: 900px;
     margin: 0 auto;
-    flex-grow: 1; /* Faz o conteúdo principal crescer e empurrar o rodapé */
+    flex-grow: 1;
+    text-align: justify !important; /* Adicionado para justificar o texto */
 }
-
 /* Estilos para o rodapé */
 .page-footer {
     background-color: #a37552 !important; /* Nova cor de fundo */
