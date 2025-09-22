@@ -6,18 +6,23 @@ permalink: /visite/
 
 # Visita Autoguiada: Coleção Temática de Plantas Medicinais do JBRJ
 
-Olá e seja muito bem-vindo(a) à **Coleção Temática de Plantas Medicinais!** Este é um espaço único no Jardim Botânico do Rio de Janeiro, um verdadeiro "laboratório a céu aberto".
+Olá e seja muito bem-vindo(a) à **Coleção Temática de Plantas Medicinais!** 
+
+Este é um espaço único no Jardim Botânico do Rio de Janeiro, um verdadeiro "laboratório a céu aberto".
 Por meio da exposição ***"Saberes e Olhares Diversos"***, este roteiro foi preparado para que você caminhe pela Coleção por conta própria, descobrindo a conexão entre as plantas, a ciência e os saberes tradicionais.
 
 <p style="text-align: flex-start;">
     <a href="https://drive.google.com/file/d/1O1NTkjZgFvp4RaTAlduH9NVkBPh_j4Cy/view?usp=sharing" class="button-secondary" target="_blank">Áudio</a>
 </p>
 
-## *Agora que você já está aqui, vamos conhecer a história por trás deste espaço e os objetivos que guiam o nosso trabalho.*
+## Agora que você já está aqui, vamos conhecer a história por trás deste espaço e os objetivos que guiam o nosso trabalho.
 
 Nossa Coleção foi iniciada em 1986 por uma iniciativa das pesquisadoras do Jardim Botânico do Rio de Janeiro, Yara Britto e Tania Sampaio. Hoje, o trabalho é continuado pela pesquisadora Viviane Fonseca-Kruel e sua equipe, que dão continuidade a esse legado.
 
-Trabalhamos com três objetivos centrais: **documentar** o uso das plantas medicinais no Brasil; **conscientizar** sobre a importância de conservar tanto as plantas quanto os saberes associados a elas; e **apoiar** a educação e o engajamento do público neste espaço de aprendizado não-formal.
+Trabalhamos com três objetivos centrais: 
+- **Documentar** o uso das plantas medicinais no Brasil;
+- **Conscientizar** sobre a importância de conservar tanto as plantas quanto os saberes associados a elas;
+- **Apoiar** a educação e o engajamento do público neste espaço de aprendizado não-formal.
 
 ### Roteiro da Visita
 Para começar, observe o antigo **muro de pedras** que circunda a Coleção. Ele é um vestígio de uma Casa de Pólvora do período colonial (no século 19 - 1808), sendo hoje uma das áreas mais antigas e históricas do Jardim Botânico do Rio de Janeiro.
@@ -28,9 +33,9 @@ Nesta coleção, você vai encontrar cerca de **170 espécies** medicinais. São
 
 Você vai notar que as plantas estão organizadas em quatro grandes temas, cada um identificado por uma faixa de cor própria nas placas. Nós temos: **Saúde & Cotidiano** (faixa laranja), com plantas que nos auxiliam no dia a dia; **Ciência & Cultura** (faixa azul), que mostra como as plantas inspiram a arte e a saúde; **Sistemas do Corpo Humano** (faixa verde), onde você encontra as plantas indicadas para cada parte do nosso corpo; e a **Zona de Trocas** (faixa roxa), que conta a história da fitoterapia brasileira influenciada por plantas de todo o mundo.
 
-> Só um lembrete importante antes de começarmos: por favor, não toque ou coma nenhuma das plantas, pois algumas podem ser tóxicas. ⚠️
-
-Agora que já entendemos onde estamos, é hora de começar a nossa caminhada para conhecer as plantas, suas histórias e descobertas. Vamos caminhar?
+<div class="destaque-caixa">
+    Só um lembrete importante antes de começarmos: por favor, não toque ou coma nenhuma das plantas, pois algumas podem ser tóxicas ⚠️
+</div>
 
 Para guiar a sua visita, observe as placas de identificação das espécies. Você verá que cada uma delas apresenta tanto o nome popular quanto o nome científico da planta. Essa dualidade é muito importante.
 
@@ -38,7 +43,9 @@ O nome popular é a porta de entrada para os saberes ancestrais e tradicionais. 
 
 É aí que o nome científico se torna essencial. Ele funciona como um ‘passaporte universal’ da planta, garantindo que a sua identificação seja única e precisa. Por isso, no Jardim Botânico, nosso foco é ter a identificação científica correta, para que os dados sobre as espécies sejam sempre confiáveis.
 
-## *Caminhando pelos Canteiros*
+Agora que já entendemos onde estamos, é hora de começar a nossa caminhada para conhecer as plantas, suas histórias e descobertas. Vamos caminhar?
+
+## Caminhando pelos Canteiros
 ### Saúde e Cotidiano: Um Olhar Holístico
 Este conjunto se encontra à esquerda do totem do mapa e ele nos mostra que o caminho para a saúde está nas práticas do dia a dia. É uma visão alinhada com o conceito da **Organização Mundial de Saúde**, que define a saúde como um estado de completo bem-estar físico, mental e social, e não apenas a ausência de doenças.
 
