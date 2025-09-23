@@ -1,33 +1,25 @@
 ---
-layout: sidebar
+layout: default
 title: Publicações
 permalink: /publicacoes/
 ---
 
 # Publicações e Materiais de Divulgação
 
-<hr>
 
-<h2 id="artigos">Artigos</h2>
+## Artigos
 
-<p>Aqui você encontrará uma seleção dos nossos artigos e publicações científicas...</p>
-<p>...</p>
-<p>...</p>
+Aqui você encontrará uma seleção dos nossos artigos e publicações científicas...
 
-<h2 id="cartilhas">Cartilhas e Guias</h2>
+## Cartilhas e Guias
 
-<p>Aqui você encontrará nossas cartilhas e guias práticos sobre o uso de plantas medicinais...</p>
-<p>...</p>
-<p>...</p>
+Aqui você encontrará nossas cartilhas e guias práticos sobre o uso de plantas medicinais...
 
-<h2 id="livros">Livros</h2>
+## Livros
 
-<p>Aqui você encontrará nossos jogos, livros e materiais didáticos...</p>
-<p>...</p>
-<p>...</p>
+Aqui você encontrará nossos jogos, livros e materiais didáticos...
 
-<h2 id="jogos">Jogos</h2>
 
-<p>Aqui você encontrará nossos jogos, livros e materiais didáticos...</p>
-<p>...</p>
-<p>...</p>
+## Jogos
+
+Aqui você encontrará nossos jogos, livros e materiais didáticos...
