@@ -14,6 +14,8 @@ header {
     background-color: #7ac28e !important; /* Nova cor de fundo */
     padding: 8px 0 !important; /* Cabeçalho mais estreito */
     width: 100% !important;
+    position: relative !important; /* Essencial para que o z-index funcione */
+    z-index: 1001 !important; /* Um valor alto para garantir que fique por cima */
 }
 
 /* Container da navegação horizontal */
@@ -156,13 +158,13 @@ main {
 /* Estilos para a linha divisória */
 hr {
     border: none;
-    border-top: 1px solid #68BA7F !important; /* Cor e espessura da linha */
+    border-top: 1px solid #2E6F40 !important; /* Cor e espessura da linha */
     margin: 40px auto !important; /* Espaço acima e abaixo da linha */
     width: 100% !important; /* Tamanho da linha na tela */
 }
 /* Estilos para a guia lateral */
 .sidebar-nav {
-    background-color: #f0f7f4 !important; /* Cor de fundo mais clara */
+    background-color:  #c8d4c7 !important; /* Cor de fundo mais clara */
     position: fixed !important;
     top: 80px !important; /* Começa abaixo do cabeçalho */
     left: 0 !important;
