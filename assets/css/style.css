@@ -76,11 +76,11 @@ header {
 
 /* Estilos para o conteúdo principal */
 main {
-    padding: 20px;
+    padding: 20px 40px; /* 20px top/bottom, 40px left/right */
     max-width: 900px;
     margin: 0 auto;
     flex-grow: 1;
-    text-align: justify !important; /* Adicionado para justificar o texto */
+    text-align: justify;
 }
 /* Estilos para o rodapé */
 .page-footer {
@@ -158,7 +158,7 @@ main {
 /* Estilos para a linha divisória */
 hr {
     border: none;
-    border-top: 1px solid #2E6F40 !important; /* Cor e espessura da linha */
+    border-top: 1.5px solid #2E6F40 !important; /* Cor e espessura da linha */
     margin: 40px auto !important; /* Espaço acima e abaixo da linha */
     width: 100% !important; /* Tamanho da linha na tela */
 }
