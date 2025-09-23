@@ -4,18 +4,16 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    display: flex; /* Define o body como um container flexbox */
-    flex-direction: column; /* Organiza os itens (header, main, footer) em uma coluna */
-    min-height: 100vh; /* Garante que o body tenha no mínimo 100% da altura da tela */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 /* Estilos para o cabeçalho e navegação */
 header {
-    background-color: #7ac28e !important; /* Nova cor de fundo */
-    padding: 8px 0 !important; /* Cabeçalho mais estreito */
+    background-color: #2E6F40 !important;
+    padding: 8px 0 !important;
     width: 100% !important;
-    position: relative !important; /* Essencial para que o z-index funcione */
-    z-index: 1001 !important; /* Um valor alto para garantir que fique por cima */
 }
 
 /* Container da navegação horizontal */
