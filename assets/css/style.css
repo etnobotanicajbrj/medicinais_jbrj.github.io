@@ -160,25 +160,23 @@ hr {
     margin: 40px auto !important; /* Espaço acima e abaixo da linha */
     width: 100% !important; /* Tamanho da linha na tela */
 }
-/* Estilos para a guia lateral */
+/* Estilos para a guia lateral (versão minimalista) */
 .sidebar-nav {
-    position: static !important;
-    top: auto !important;
-    right: auto !important;
-    width: 250px !important; /* Aumentamos a largura para ela se acomodar melhor */
-    float: right !important; /* Faz o elemento flutuar à direita, mas dentro do fluxo do documento */
-    background-color: #f8f8f8 !important;
-    border: 0.5px solid #f8f8f8 !important;
-    padding: 5px !important;
-    border-radius: 8px !important;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
-    z-index: auto !important;
-    margin-left: 10px !important; /* Adiciona espaçamento entre a guia e o texto */
+    position: fixed !important; /* Para que ela continue flutuando e seguindo a rolagem */
+    top: 100px !important;
+    left: 20px !important; /* Mudei para a esquerda, mas você pode usar 'right' se preferir */
+    width: 250px !important; /* Mantenha a largura para que os links não fiquem amontoados */
+    background-color: transparent !important; /* Remove o fundo */
+    border: none !important; /* Remove a borda */
+    padding: 0 !important; /* Remove o padding */
+    box-shadow: none !important; /* Remove a sombra */
+    z-index: 1000 !important;
 }
 
 /* Estilos para os links dentro da guia lateral */
 .sidebar-nav h4 {
     margin-top: 0 !important;
+    color: #2E6F40 !important;
 }
 
 .sidebar-nav ul {
@@ -192,7 +190,7 @@ hr {
 }
 
 .sidebar-nav a {
-    color: #2E6F40 !important; /* Cor do link */
+    color: #2E6F40 !important;
     text-decoration: none !important;
     font-weight: bold !important;
     transition: color 0.3s ease !important;
