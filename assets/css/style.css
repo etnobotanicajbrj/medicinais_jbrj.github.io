@@ -166,7 +166,7 @@ hr {
 .sidebar-nav {
     background-color:  #c8d4c7 !important; /* Cor de fundo mais clara */
     position: fixed !important;
-    top: 80px !important; /* Começa abaixo do cabeçalho */
+    top: 100px !important; /* Começa abaixo do cabeçalho */
     left: 0 !important;
     height: calc(100vh - 80px) !important;
     width: 250px !important;
