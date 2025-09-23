@@ -164,7 +164,7 @@ hr {
 .sidebar-nav {
     background-color: transparent !important; /* Fundo transparente */
     position: fixed !important;
-    top: 80px !important; /* Começa abaixo do cabeçalho, com base na altura da imagem do logo */
+    top: 95px !important; /* Começa abaixo do cabeçalho, com base na altura da imagem do logo */
     left: 20px !important;
     height: calc(100vh - 80px) !important; /* Ocupa a altura restante da tela */
     width: 250px !important;
