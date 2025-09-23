@@ -162,7 +162,7 @@ hr {
 }
 /* Estilos para a guia lateral (novo estilo) */
 .sidebar-nav {
-    background-color: #2E6F40 !important; /* Cor de fundo do cabeçalho */
+    background-color: transparent!important; /* Cor de fundo do cabeçalho */
     position: fixed !important;
     top: 0 !important; /* Alinha a guia ao topo da página */
     left: 0 !important; /* Alinha a guia à esquerda da página */
@@ -183,7 +183,7 @@ hr {
 }
 
 .sidebar-nav a {
-    color: white !important; /* Cor do link */
+    color: #2E6F40 !important; /* Cor do link */
     text-decoration: none !important;
     font-weight: bold !important;
     padding: 15px 25px !important;
@@ -192,8 +192,8 @@ hr {
 }
 
 .sidebar-nav a:hover {
-    background-color: #c8d4c7 !important;
-    color: #2E6F40 !important;
+    background-color: #7ac28e !important;
+    color: white !important;
 }
 
 /* Ajusta o conteúdo principal para não ficar atrás do sidebar */
