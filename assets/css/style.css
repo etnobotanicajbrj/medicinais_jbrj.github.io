@@ -160,23 +160,16 @@ hr {
     margin: 40px auto !important; /* Espaço acima e abaixo da linha */
     width: 100% !important; /* Tamanho da linha na tela */
 }
-/* Estilos para a guia lateral (versão minimalista) */
+/* Estilos para a guia lateral (novo estilo) */
 .sidebar-nav {
-    position: fixed !important; /* Para que ela continue flutuando e seguindo a rolagem */
-    top: 100px !important;
-    left: 20px !important; /* Mudei para a esquerda, mas você pode usar 'right' se preferir */
-    width: 250px !important; /* Mantenha a largura para que os links não fiquem amontoados */
-    background-color: transparent !important; /* Remove o fundo */
-    border: none !important; /* Remove a borda */
-    padding: 0 !important; /* Remove o padding */
-    box-shadow: none !important; /* Remove a sombra */
+    background-color: #2E6F40 !important; /* Cor de fundo do cabeçalho */
+    position: fixed !important;
+    top: 0 !important; /* Alinha a guia ao topo da página */
+    left: 0 !important; /* Alinha a guia à esquerda da página */
+    height: 100vh !important; /* Faz a guia ocupar toda a altura da tela */
+    width: 250px !important; /* Largura da guia */
+    padding-top: 80px !important; /* Espaço para não sobrepor o cabeçalho */
     z-index: 1000 !important;
-}
-
-/* Estilos para os links dentro da guia lateral */
-.sidebar-nav h4 {
-    margin-top: 0 !important;
-    color: #2E6F40 !important;
 }
 
 .sidebar-nav ul {
@@ -186,17 +179,29 @@ hr {
 }
 
 .sidebar-nav li {
-    margin-bottom: 10px !important;
+    margin-bottom: 0 !important;
 }
 
 .sidebar-nav a {
-    color: #2E6F40 !important;
+    color: white !important; /* Cor do link */
     text-decoration: none !important;
     font-weight: bold !important;
-    transition: color 0.3s ease !important;
+    padding: 15px 25px !important;
+    display: block !important;
+    transition: background-color 0.3s ease !important;
 }
 
 .sidebar-nav a:hover {
-    color: #68BA7F !important;
-    text-decoration: underline !important;
+    background-color: #c8d4c7 !important;
+    color: #2E6F40 !important;
+}
+
+/* Ajusta o conteúdo principal para não ficar atrás do sidebar */
+main {
+    margin-left: 270px !important; /* Cria um espaço para o sidebar */
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    flex-grow: 1;
+    text-align: justify !important;
 }
