@@ -160,18 +160,19 @@ hr {
     margin: 40px auto !important; /* Espaço acima e abaixo da linha */
     width: 100% !important; /* Tamanho da linha na tela */
 }
-/* Estilos para a guia lateral (novo estilo) */
+/* Estilos para a guia lateral (versão minimalista) */
 .sidebar-nav {
-    background-color: transparent!important; /* Cor de fundo do cabeçalho */
+    background-color: transparent !important; /* Fundo transparente */
     position: fixed !important;
-    top: 0 !important; /* Alinha a guia ao topo da página */
-    left: 0 !important; /* Alinha a guia à esquerda da página */
-    height: 100vh !important; /* Faz a guia ocupar toda a altura da tela */
-    width: 250px !important; /* Largura da guia */
-    padding-top: 80px !important; /* Espaço para não sobrepor o cabeçalho */
-    z-index: 1000 !important;
+    top: 80px !important; /* Começa abaixo do cabeçalho, com base na altura da imagem do logo */
+    left: 20px !important;
+    height: calc(100vh - 80px) !important; /* Ocupa a altura restante da tela */
+    width: 250px !important;
+    padding-top: 0 !important; /* Remove o padding extra */
+    z-index: 999 !important; /* z-index um pouco menor para o cabeçalho ficar por cima */
 }
 
+/* Estilos para os links dentro da guia lateral */
 .sidebar-nav ul {
     list-style: none !important;
     padding: 0 !important;
@@ -183,17 +184,18 @@ hr {
 }
 
 .sidebar-nav a {
-    color: #2E6F40 !important; /* Cor do link */
+    color: #2E6F40 !important; /* Cor da letra verde */
     text-decoration: none !important;
     font-weight: bold !important;
-    padding: 15px 25px !important;
+    padding: 10px 15px !important;
     display: block !important;
-    transition: background-color 0.3s ease !important;
+    border-radius: 5px !important; /* Borda arredondada */
+    transition: background-color 0.3s ease !important, color 0.3s ease !important;
 }
 
 .sidebar-nav a:hover {
-    background-color: #7ac28e !important;
-    color: white !important;
+    background-color: #2E6F40 !important; /* Fundo verde do cabeçalho ao passar o mouse */
+    color: white !important; /* Letra branca ao passar o mouse */
 }
 
 /* Ajusta o conteúdo principal para não ficar atrás do sidebar */
