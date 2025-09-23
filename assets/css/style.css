@@ -154,14 +154,14 @@ main {
     color: #5a5a5a !important;
     font-weight: bold !important;
 }
-}
 /* Estilos para a linha divisória */
 hr {
     border: none;
-    border-top: 1.5px solid #2E6F40 !important; /* Cor e espessura da linha */
-    margin: 40px auto !important; /* Espaço acima e abaixo da linha */
-    width: 100% !important; /* Tamanho da linha na tela */
+    border-top: 2px solid #7ac28e !important; /* Cor e espessura da linha */
+    margin: 40px auto !important;
+    width: 100% !important; /* Linha com 100% da largura */
 }
+
 /* Estilos para a guia lateral */
 .sidebar-nav {
     background-color:  transparent !important; /* Cor de fundo mais clara */
