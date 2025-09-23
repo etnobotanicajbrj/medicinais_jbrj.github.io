@@ -160,16 +160,17 @@ hr {
     margin: 40px auto !important; /* Espaço acima e abaixo da linha */
     width: 100% !important; /* Tamanho da linha na tela */
 }
-/* Estilos para a guia lateral (versão minimalista) */
+/* Estilos para a guia lateral */
 .sidebar-nav {
-    background-color: transparent !important; /* Fundo transparente */
+    background-color: #f0f7f4 !important; /* Cor de fundo mais clara */
     position: fixed !important;
-    top: 95px !important; /* Começa abaixo do cabeçalho, com base na altura da imagem do logo */
-    left: 20px !important;
-    height: calc(100vh - 80px) !important; /* Ocupa a altura restante da tela */
+    top: 80px !important; /* Começa abaixo do cabeçalho */
+    left: 0 !important;
+    height: calc(100vh - 80px) !important;
     width: 250px !important;
-    padding-top: 0 !important; /* Remove o padding extra */
-    z-index: 999 !important; /* z-index um pouco menor para o cabeçalho ficar por cima */
+    padding-top: 0 !important;
+    z-index: 999 !important;
+    overflow-y: auto !important; /* Adiciona rolagem se a lista de links for muito longa */
 }
 
 /* Estilos para os links dentro da guia lateral */
@@ -189,7 +190,7 @@ hr {
     font-weight: bold !important;
     padding: 10px 15px !important;
     display: block !important;
-    border-radius: 5px !important; /* Borda arredondada */
+    border-radius: 5px !important;
     transition: background-color 0.3s ease !important, color 0.3s ease !important;
 }
 
@@ -200,7 +201,7 @@ hr {
 
 /* Ajusta o conteúdo principal para não ficar atrás do sidebar */
 main {
-    margin-left: 270px !important; /* Cria um espaço para o sidebar */
+    margin-left: 270px !important;
     padding: 20px;
     max-width: 900px;
     margin: 0 auto;
