@@ -76,11 +76,11 @@ header {
 
 /* Estilos para o conteúdo principal */
 main {
-    padding: 20px 40px; /* 20px top/bottom, 40px left/right */
+    padding: 20px;
     max-width: 900px;
     margin: 0 auto;
     flex-grow: 1;
-    text-align: justify;
+    text-align: justify !important;
 }
 /* Estilos para o rodapé */
 .page-footer {
