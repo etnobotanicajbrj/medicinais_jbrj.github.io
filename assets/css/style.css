@@ -164,9 +164,9 @@ hr {
 }
 /* Estilos para a guia lateral */
 .sidebar-nav {
-    background-color:  #c8d4c7 !important; /* Cor de fundo mais clara */
+    background-color:  transparent !important; /* Cor de fundo mais clara */
     position: fixed !important;
-    top: 100px !important; /* Começa abaixo do cabeçalho */
+    top: 120px !important; /* Começa abaixo do cabeçalho */
     left: 0 !important;
     height: calc(100vh - 80px) !important;
     width: 250px !important;
