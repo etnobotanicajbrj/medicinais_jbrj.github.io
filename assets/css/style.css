@@ -166,3 +166,18 @@ hr {
     display: block !important;
     margin: 20px auto !important; /* Centraliza o player na página */
 }
+/* Para centralizar uma imagem, garantindo que o texto não flua ao redor */
+.imagem-centralizada {
+    display: block !important;
+    margin: 20px auto !important; /* Centraliza a div no espaço disponível */
+    max-width: 600px !important; /* Define um tamanho máximo para a imagem */
+    width: 100% !important; /* Garante que seja responsiva */
+    border-radius: 8px !important;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
+}
+
+.imagem-centralizada img {
+    width: 100% !important; /* A imagem preenche a div pai */
+    height: auto !important;
+    display: block !important;
+}
