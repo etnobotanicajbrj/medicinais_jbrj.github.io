@@ -34,7 +34,9 @@ Nesta coleção, você vai encontrar cerca de **170 espécies** medicinais. São
 
 ***Para se orientar, você pode seguir o mapa abaixo ou no totem, logo na entrada.***
 
-<img src="[assets/images/mapa.png](https://github.com/etnobotanicajbrj/medicinais_jbrj.github.io/blob/c9ea53dabf93d91029d2e6b4d5d12045f377eb6f/assets/images/mapa.png)" width="500">
+<div class="imagem-centralizada">
+    <img src="{{ site.baseurl }}/assets/images/mapa.png" alt="Mapa da Coleção com indicando canterios e as edificações">
+</div>
 
 Você vai notar que as plantas estão organizadas em quatro grandes temas, cada um identificado por uma faixa de cor própria nas placas. Nós temos: **Saúde & Cotidiano** (faixa laranja), com plantas que nos auxiliam no dia a dia; **Ciência & Cultura** (faixa azul), que mostra como as plantas inspiram a arte e a saúde; **Sistemas do Corpo Humano** (faixa verde), onde você encontra as plantas indicadas para cada parte do nosso corpo; e a **Zona de Trocas** (faixa roxa), que conta a história da fitoterapia brasileira influenciada por plantas de todo o mundo. Fique atento às placas, elas trazem informações sobre cada canteiro e sobre as espécies e seus usos medicinais. Se observar uma placa sem a respectiva planta, pode ser que ela esteja em fim de ciclo, mas em breve seu ciclo renovará. Afinal, esta é uma coleção viva!
 
