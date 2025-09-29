@@ -159,3 +159,10 @@ hr {
     margin: 40px auto !important;
     width: 100% !important; /* Linha com 100% da largura */
 }
+/* Estilos para o player de áudio */
+.audio-player {
+    width: 100% !important; /* Faz o player ocupar toda a largura disponível */
+    max-width: 600px !important; /* Limita o tamanho máximo do player */
+    display: block !important;
+    margin: 20px auto !important; /* Centraliza o player na página */
+}
