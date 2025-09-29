@@ -8,10 +8,6 @@ permalink: /visite/
 
 *Este roteiro é acompanhado por um **áudio** de narração. Para acessá-lo, **basta clicar no áudio abaixo.** Recomendamos que faça a visita no seu ritmo, pausando o áudio sempre que achar necessário, para observar e aprender*
 
-<p style="text-align: center;">
-    <a href="https://drive.google.com/file/d/1O1NTkjZgFvp4RaTAlduH9NVkBPh_j4Cy/view?usp=sharing" class="button-secondary" target="_blank">ÁUDIO</a>
-</p>
-
 <audio controls class="audio-player">
     <source src="{{ site.baseurl }}/assets/audio/audio_guia.ogg" type="audio/mpeg">
     
@@ -37,6 +33,8 @@ Para começar, observe, ao seu redor, o antigo **muro de pedras** que circunda a
 Nesta coleção, você vai encontrar cerca de **170 espécies** medicinais. São cultivadas ervas, arbustos e trepadeiras de diferentes origens, tanto **nativas** do Brasil quanto **exóticas**, e de diferentes ciclos de vida, anual e perene. Todas elas têm uma história para contar sobre a nossa biodiversidade e as diferentes culturas que as utilizam, mostrando como as plantas estão profundamente ligadas à nossa saúde e bem-estar, unindo a ciência aos saberes mais antigos.
 
 ***Para se orientar, você pode seguir o mapa abaixo ou no totem, logo na entrada.***
+
+<img src="[assets/images/mapa.png](https://github.com/etnobotanicajbrj/medicinais_jbrj.github.io/blob/c9ea53dabf93d91029d2e6b4d5d12045f377eb6f/assets/images/mapa.png)" width="500">
 
 Você vai notar que as plantas estão organizadas em quatro grandes temas, cada um identificado por uma faixa de cor própria nas placas. Nós temos: **Saúde & Cotidiano** (faixa laranja), com plantas que nos auxiliam no dia a dia; **Ciência & Cultura** (faixa azul), que mostra como as plantas inspiram a arte e a saúde; **Sistemas do Corpo Humano** (faixa verde), onde você encontra as plantas indicadas para cada parte do nosso corpo; e a **Zona de Trocas** (faixa roxa), que conta a história da fitoterapia brasileira influenciada por plantas de todo o mundo. Fique atento às placas, elas trazem informações sobre cada canteiro e sobre as espécies e seus usos medicinais. Se observar uma placa sem a respectiva planta, pode ser que ela esteja em fim de ciclo, mas em breve seu ciclo renovará. Afinal, esta é uma coleção viva!
 
