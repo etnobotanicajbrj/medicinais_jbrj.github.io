@@ -13,7 +13,7 @@ permalink: /visite/
 </p>
 
 <audio controls class="audio-player">
-    <source src="{{ site.baseurl }}/assets/audio/audio_guia.mp3" type="audio/mpeg">
+    <source src="{{ site.baseurl }}/assets/audio/audio_guia.ogg" type="audio/mpeg">
     
     Seu navegador não suporta a tag de áudio.
 </audio>
