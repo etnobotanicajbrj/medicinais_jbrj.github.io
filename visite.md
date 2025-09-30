@@ -108,7 +108,7 @@ Próximo à sala de pesquisa (ponto C do mapa) entramos na **Zona de Trocas**. E
 
 A **citronela** (_Cymbopogon winterianus_), no canteiro 30, é uma planta herbácea da família das Poaceae, originária do sul da Ásia. Ela é amplamente conhecida por seu óleo essencial com um forte e agradável aroma cítrico, sendo seu uso mais popular como **repelente de insetos**. O cheiro da citronela mascara os odores que atraem mosquitos e outros insetos, tornando-se uma solução natural e eficaz. Além disso, a planta é utilizada em perfumes, sabonetes e velas, e também possui propriedades antifúngicas e anti-inflamatórias na medicina popular.
 
-A **pimenta-do-reino** (_Piper nigrum_), no canteiro 33, é uma trepadeira nativa do sul da Índia e uma das especiarias mais antigas e valorizadas do mundo, tendo sido usada como moeda de troca em diversas civilizações. Embora seja um tempero global, sua chegada e popularização no Brasil são relativamente recentes: foi introduzida no estado do Pará a partir da década de 1930, por **imigrantes japoneses** que adaptaram seu cultivo ao clima amazônico. Atualmente, o Brasil é um dos maiores produtores e exportadores da especiaria, que é consumida em grão, moída ou em pó, sendo um dos temperos mais versáteis da culinária mundial.
+A **pimenta-do-reino** (_Piper nigrum_), no canteiro 31, é uma trepadeira nativa do sul da Índia e uma das especiarias mais antigas e valorizadas do mundo, tendo sido usada como moeda de troca em diversas civilizações. Embora seja um tempero global, sua chegada e popularização no Brasil são relativamente recentes: foi introduzida no estado do Pará a partir da década de 1930, por **imigrantes japoneses** que adaptaram seu cultivo ao clima amazônico. Atualmente, o Brasil é um dos maiores produtores e exportadores da especiaria, que é consumida em grão, moída ou em pó, sendo um dos temperos mais versáteis da culinária mundial.
 
 No canteiro 33, **Contribuição Brasileira**, não deixe de notar a **pitanga** (_Eugenia uniflora_). Nativa do Brasil, suas folhas e frutos têm usos medicinais variados e o fruto é popular na nossa culinária.
 
@@ -135,19 +135,13 @@ As plantas continuam sendo uma fonte vital de pesquisa para a ciência ‘modern
 
 É exatamente por essa importância que a conservação é um tema de urgência.
 
-As plantas medicinais e os saberes a elas associados estão seriamente ameaçados pela perda da vegetação em seus ambientes naturais. Ações como o desmatamento, o fogo e a mineração levam à extinção de espécies.
-
-Ao perdermos nossas plantas, perdemos não apenas a biodiversidade, mas também conhecimentos ancestrais e um potencial farmacológico imensurável que ainda nem tivemos a chance de descobrir.
-
-Que a sua visita **inspire em você** a consciência sobre a importância de proteger as plantas e os conhecimentos que elas guardam, ajudando a salvaguardar o nosso valioso **patrimônio biocultural** para as futuras gerações.
-
+<div class="caixa-info">
+   As plantas medicinais e os saberes a elas associados estão seriamente ameaçados pela perda da vegetação em seus ambientes naturais. Ações como o desmatamento, o fogo e a mineração levam à extinção de espécies.
+</div>
 
 <div class="caixa-info">
-    A importância das plantas para a saúde é um conhecimento ancestral que vem sendo reconhecido e valorizado.
+    Ao perdermos nossas plantas, perdemos não apenas a biodiversidade, mas também conhecimentos ancestrais e um potencial farmacológico imensurável que ainda nem tivemos a chance de descobrir.
 </div>
-<div class="caixa-info">
-    As plantas continuam sendo uma fonte vital de pesquisa, e muitos dos medicamentos que usamos hoje têm sua origem nelas.
-</div>
-<div class="caixa-info">
-   A perda de vegetação em seus ambientes naturais, o desmatamento, o fogo e a mineração levam à extinção de espécies. Ao perdermos as plantas, perdemos a biodiversidade, conhecimentos ancestrais e um potencial farmacológico imensurável.
-</div>
+
+Que a visita **inspire em você** a consciência sobre a importância de proteger as plantas e os conhecimentos que elas guardam, ajudando a salvaguardar o nosso valioso **patrimônio biocultural** para as futuras gerações.
+
