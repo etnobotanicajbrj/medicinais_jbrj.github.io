@@ -46,7 +46,7 @@ header {
 
 /* Estilos para os itens da lista (li) - apenas para os links de texto */
 .horizontal-nav li {
-    margin: 0 10px !important;
+    margin: 0 5px !important;
 }
 
 /* Estilos para os links (a) */
