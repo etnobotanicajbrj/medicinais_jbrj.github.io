@@ -74,8 +74,8 @@ Próximo às janelas da sala de aula (ponto A do mapa) está o canteiro 1, **"La
         </figure>
         
         <figure class="imagem-flex-item">
-            <img src="{{ site.baseurl }}/assets/images/guine.jpg" alt="guine">
-            <figcaption> Guiné (Fonseca-Kruel, K.)</figcaption>
+              <img src="{{ site.baseurl }}/assets/images/guine.jpg" alt="guine">
+            <figcaption class="legenda-item"> Guiné (Fonseca-Kruel, K.)</figcaption>
         </figure>
         
     </div>
