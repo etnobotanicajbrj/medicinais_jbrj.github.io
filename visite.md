@@ -90,7 +90,7 @@ Ao lado do pequeno lago, está o canteiro 2, **"Temperos da Vida"**, que nos mos
     </figure>
 
     <figure class="item-galeria">
-        <img src="{{ site.baseurl }}/assets/img/manjericao.jpg" alt="manjericao">
+        <img src="{{ site.baseurl }}/assets/images/manjericao.jpg" alt="manjericao">
         <figcaption> Manjericão (Fonseca-Kruel, K.)</figcaption>
     </figure>
 
