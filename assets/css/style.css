@@ -249,12 +249,12 @@ hr {
     flex-direction: column !important;
     
     /* DEFINA A ALTURA MÁXIMA PARA CADA ITEM */
-    max-height: 400px !important; /* Ajuste este valor (ex: 250px) para diminuir o bloco todo */
+    max-height: 500px !important; /* Ajuste este valor (ex: 250px) para diminuir o bloco todo */
 }
 /* Estilos da Imagem */
 .imagem-flex-item img {
     width: 100% !important;
-    height: 200px !important; /* <-- Diminua este valor (ex: 120px) para imagens menores */
+    height: 400px !important; /* <-- Diminua este valor (ex: 120px) para imagens menores */
     display: block !important;
     object-fit: cover !important; 
 }
