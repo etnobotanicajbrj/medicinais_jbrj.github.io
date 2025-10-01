@@ -4,9 +4,12 @@ title: Visite a Coleção!
 permalink: /visite/
 ---
 
-# Seu roteiro de Visita Autoguiada Coleção Temática de Plantas Medicinais do JBRJ
+# Roteiro de Visita Autoguiada Coleção Temática de Plantas Medicinais do JBRJ
+#### Descubra as Plantas Medicinais no Jardim Botânico do Rio de Janeiro
 
-*Este roteiro é acompanhado por um **áudio** de narração. Para acessá-lo, **basta clicar no áudio abaixo.** Recomendamos que faça a visita no seu ritmo, pausando o áudio sempre que achar necessário, para observar e aprender*
+*Bem-vindo ao nosso primeiro roteiro autoguiado! Para iniciar sua jornada pela Coleção Temática de Plantas Medicinais, **basta dar o play no áudio** de aproximadamente 30 minutos **abaixo**.*
+
+*Recomendamos que você faça a visita no seu próprio ritmo. Sinta-se à vontade para pausar o áudio sempre que quiser observar, absorver e aprender mais sobre a natureza ao seu redor.*
 
 <audio controls class="audio-player">
     <source src="{{ site.baseurl }}/assets/audio/audio_visita.mp3" type="audio/mpeg">    
@@ -60,13 +63,49 @@ Virando à esquerda depois da entrada, estão os canteiros ligados ao conjunto 1
 
 As plantas aqui, com seu papel na imunidade e no equilíbrio, são um lembrete vivo dessa ideia.
 
-Próximo à sala de aula (ponto A do mapa) está o canteiro 1, **"Lavar a Alma"**. Sinta o cheiro da **arruda** e do **alecrim** ... A arruda (*Ruta graveolens*), o alecrim (*Salvia rosmarinus*) e a guiné (*Petiveria alliacea*) são plantas com forte simbolismo e uso na cultura brasileira, mesmo não sendo nativas. Amplamente utilizadas em rituais de proteção e limpeza espiritual, essas espécies refletem a rica diversidade de tradições religiosas, como as de matriz africana e as indígenas. Além de seu uso simbólico, cada uma também é empregada na medicina popular, embora com cautela, já que a arruda e a guiné possuem certa toxicidade.
+Próximo às janelas da sala de aula (ponto A do mapa) está o canteiro 1, **"Lavar a Alma"**. Sinta o cheiro da **arruda** e do **alecrim** ... A arruda (*Ruta graveolens*), o alecrim (*Salvia rosmarinus*) e a guiné (*Petiveria alliacea*) são plantas com forte simbolismo e uso na cultura brasileira, mesmo não sendo nativas. Amplamente utilizadas em rituais de proteção e limpeza espiritual, essas espécies refletem a rica diversidade de tradições religiosas, como as de matriz africana e as indígenas. Além de seu uso simbólico, cada uma também é empregada na medicina popular, embora com cautela, já que a arruda e a guiné possuem certa toxicidade.
+
+<div class="galeria-embutida">
+    
+    <figure class="item-galeria">
+        <img src="{{ site.baseurl }}/assets/img/alecrim.jpg" alt="alecrim">
+        <figcaption> Alecrim (_Salvia rosmarinus_) - Fonseca-Kruel, K.</figcaption>
+    </figure>
+
+    <figure class="item-galeria">
+        <img src="{{ site.baseurl }}/assets/img/guine.jpg" alt="guine">
+        <figcaption> Guiné (*Petiveria alliacea*) - Fonseca-Kruel, K.</figcaption>
+    </figure>
+
+    <div style="clear: both;"></div>
+</div>
 
 Ao lado do pequeno lago, está o canteiro 2, **"Temperos da Vida"**, que nos mostra como a medicina e a culinária estão profundamente conectadas. Sinta o aroma do **orégano** (*Origanum vulgare*) e do **manjericão** (*Ocimum basilicum*). Além de dar sabor, essas plantas têm propriedades que ajudam na digestão e trazem saúde para o nosso dia a dia.
 
+<div class="galeria-embutida">
+    
+    <figure class="item-galeria">
+        <img src="{{ site.baseurl }}/assets/img/oregano.jpg" alt="oregano">
+        <figcaption> Orégano (_Origanum vulgare_) - Fonseca-Kruel, K.</figcaption>
+    </figure>
+
+    <figure class="item-galeria">
+        <img src="{{ site.baseurl }}/assets/img/manjericao.jpg" alt="manjericao">
+        <figcaption> Manjericão (_Ocimum basilicum_) - Fonseca-Kruel, K.</figcaption>
+    </figure>
+
+    <div style="clear: both;"></div>
+</div>
+
 O maior canteiro desse grande tema é o canteiro 3, **"Saúde & Beleza"**. Veja se reconhece a famosa **babosa** (*Aloe vera*). Ela é muito utilizada em cosméticos e, na medicina tradicional, é um remédio popular para tratar queimaduras e hidratar a pele e os cabelos.
 
+<div class="imagem-centralizada">
+    <img src="{{ site.baseurl }}/assets/images/babosa.jpg" alt="babosa">
+    <figcaption> Babosa (_Aloe vera_) -Fonseca-Kruel, K.</figcaption>
+</div>
+
 Os canteiros desse primeiro conjunto nos mostram como as plantas estão presentes em todas as esferas da nossa vida, do corpo ao espírito.
+
 
 ### Ciência e Cultura
 A partir do portão de entrada, virando à direita, atrás do totem com o mapa, estão reunidas as espécies do **Conjunto 2**, na cor azul, do canteiro 4 ao 8. Aqui, as plantas nos mostram a fascinante união entre a **ciência, a tradição e a cultura.**
