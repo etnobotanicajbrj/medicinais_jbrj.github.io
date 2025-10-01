@@ -235,37 +235,41 @@ hr {
 
 /* Estilo para cada Imagem (O item flexível que cria a coluna) */
 .imagem-flex-item {
-    /* Faz o item ocupar uma parte igual do espaço (33% ou 50%, dependendo da quantidade) */
     flex: 1 1 0 !important; 
     padding: 0 !important;
-    margin: 0 !important; /* Margem controlada pelo 'gap' do flexbox */
+    margin: 0 !important; 
     min-width: 100px;
-    background-color: white !important; /* Fundo branco para a área da imagem/legenda */
+    background-color: white !important; 
     border: 1px solid #eee !important;
     border-radius: 6px !important;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) !important;
     overflow: hidden !important;
     display: flex !important;
-    flex-direction: column !important; /* Permite alinhar a imagem e a legenda em coluna */
+    flex-direction: column !important;
+    
+    /* DEFINA A ALTURA MÁXIMA PARA CADA ITEM */
+    max-height: 250px !important; /* Ajuste este valor (ex: 250px) para diminuir o bloco todo */
 }
 
 /* Estilos da Imagem */
 .imagem-flex-item img {
     width: 100% !important;
-    /* Ajusta a imagem para ocupar o espaço disponível sem quebrar o layout */
-    height: auto !important; 
+    
+    /* FORÇA A IMAGEM A TER UMA ALTURA FIXA E UNIFORME */
+    height: 150px !important; /* Ajuste esta altura (ex: 150px) para deixar as imagens menores */
+    
     display: block !important;
-    /* object-fit: cover !important; Removido para evitar cortes inesperados, mas pode ser adicionado se precisar que as imagens preencham uma altura fixa. */
+    
+    /* CORTA O EXCESSO SEM DISTORCER A IMAGEM ORIGINAL */
+    object-fit: cover !important; 
 }
-
 /* Estilo para a Legenda Individual */
 .imagem-flex-item .legenda-item {
     padding: 8px !important;
     font-size: 0.85em !important;
     color: #333 !important;
     background-color: #f0f0f0 !important; 
-    text-align: center !important;
+    text-align: center !important; /* Centraliza o texto da legenda */
     border-top: 1px solid #ccc !important;
-    /* ESSENCIAL: Garante que a legenda fique no final da caixa */
     margin-top: auto !important;
 }
