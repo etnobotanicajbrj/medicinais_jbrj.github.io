@@ -7,6 +7,7 @@ permalink: /equipe/
 # Equipe do Grupo de Etnobotânica
 
 Este grupo de pesquisa do **Instituto de Pesquisas Jardim Botânico do Rio de Janeiro** é composto por pesquisadores, pós-graduandos, graduandos e voluntários que realizam projetos relacionados à Etnobotânica.,
+
 ---
 
 ### Pesquisadora-Chefe e Curadora
@@ -22,20 +23,18 @@ Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênf
 ---
 
 ### Estudantes e Colaboradores
+
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/camila.png" alt="Camila">
 </div> 
-
-#### Camila Nascimento Dantas [🔗](http://lattes.cnpq.br/4396367747910248)
-##### Voluntária na Coleção Temática de Plantas Medicinais
-
+<p> **Camila Nascimento Dantas** [🔗](http://lattes.cnpq.br/4396367747910248)</p>
+<p>Voluntária na Coleção Temática de Plantas Medicinais</p>
 
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/luiz_fernando.png" alt="Luiz Fernando">
 </div> 
-
-#### Me. Luiz Fernando de Melo  [🔗](http://lattes.cnpq.br/4258771891384632)
-##### Doutorando no PPGP/ENBT
+<p>**Me. Luiz Fernando de Melo**  [🔗](http://lattes.cnpq.br/4258771891384632)</p>
+<p>Doutorando no PPGP/ENBT</p>
 
 
 <div class="imagem-com-texto-esquerda">
