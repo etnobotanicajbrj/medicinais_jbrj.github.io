@@ -191,6 +191,8 @@ hr {
     border-radius: 50% !important; /* Torna o contêiner circular */
     overflow: hidden !important; /* Esconde o que sai do círculo */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
+    /* PROPRIEDADE CHAVE: Força o texto a seguir o formato circular */
+    shape-outside: inset() !important; 
 }
 
 .imagem-com-texto-esquerda img {
