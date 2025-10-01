@@ -15,7 +15,7 @@ Este grupo de pesquisa do **Instituto de Pesquisas Jardim Botânico do Rio de Ja
 
 #### Dra. Viviane Stern da Fonseca Kruel [🔗](http://lattes.cnpq.br/0560294487722709)
 
-Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênfase nos biomas Mata Atlântica e Amazônia, fortalecendo a interação entre saberes científicos e tradicionais, além de apoiar ações de repatriamento de conhecimentos. É pesquisadora em Etnobotânica no Jardim Botânico do Rio de Janeiro, onde atua como curadora da Coleção Temática de Plantas Medicinais e da Coleção Etnobotânica (RBetno). Atua como docente nos programas de Pós-Graduação em Botânica (acadêmico), Biodiversidade em Unidades de Conservação (profissional, JBRJ-ICMBio) e na Especialização em Plantas Medicinais e Fitoterapia (Universidade Federal do Rio de Janeiro/JBRJ/ABFIT). Viviane é mãe de trigêmeos: Ana, João e Eduardo.
+Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênfase nos biomas Mata Atlântica e Amazônia, fortalecendo a interação entre saberes científicos e tradicionais, além de apoiar ações de repatriamento de conhecimentos. É pesquisadora em Etnobotânica no Jardim Botânico do Rio de Janeiro, e curadora da Coleção Temática de Plantas Medicinais e da Coleção Etnobotânica (RBetno). Atua como docente nos Programas de Pós-Graduação Acadêmico em Botânica (PPGA/ENBT) e Profissional em Biodiversidade em Unidades de Conservação (PPGP/ENBT | JBRJ-ICMBio) e na Especialização em Plantas Medicinais e Fitoterapia (UFRJ/JBRJ/ABFIT). Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 
 ### Estudantes e Colaboradores
 <div class="imagem-com-texto-esquerda">
@@ -23,38 +23,46 @@ Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênf
 </div> 
 
 #### Camila Nascimento Dantas [🔗](http://lattes.cnpq.br/4396367747910248)
-###### Voluntária na Coleção Temática de Plantas Medicinais
+##### Voluntária na Coleção Temática de Plantas Medicinais
 
-Bacharela em Ciências Biológicas pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio). Atualmente, é voluntária na Coleção Temática de Plantas Medicinais do Instituto de Pesquisas Jardim Botânico do Rio de Janeiro. Possui interesse em divulgação científica e em etnobotânica.
+<div class="imagem-com-texto-esquerda">
+    <img src="{{ site.baseurl }}/assets/images/luiz_fernando.png" alt="Luiz Fernando">
+</div> 
 
-foto 
-Fernando Melo
-Descrição
+#### Me. Luiz Fernando de Melo  [🔗](http://lattes.cnpq.br/4258771891384632)
+##### Doutorando no PPGP/ENBT
 
-foto 
-Giovana Schulze de Macedo
-Descrição
+<div class="imagem-com-texto-esquerda">
+    <img src="{{ site.baseurl }}/assets/images/luisa.png" alt="Luisa">
+</div> 
 
-foto 
-Luisa Ridolph
-Descrição
+#### Luisa Ridolph [🔗](http://lattes.cnpq.br/5593552951372724)
+##### Mestranda no PPGA/ENBT
 
-foto 
-Maria Paula Vasconcelos
-Descrição
+<div class="imagem-com-texto-esquerda">
+    <img src="{{ site.baseurl }}/assets/images/mateus.png" alt="Mateus">
+</div> 
+ 
+#### Me. Mateus Salim [🔗](http://lattes.cnpq.br/0248529376853174)
+##### Doutorando no PPGA/ENBT
 
-foto 
-Mateus Salim
-Descrição
+<div class="imagem-com-texto-esquerda">
+    <img src="{{ site.baseurl }}/assets/images/nicky.png" alt="nicky">
+</div>
 
-foto 
-Nicky van Luijk
-Descrição
+#### Me. Nicky van Luijk [🔗](http://lattes.cnpq.br/3013537979299517)
+##### Mestranda no PPGP/ENBT
 
-foto 
-Rosana C. Santos
-Descrição
+<div class="imagem-com-texto-esquerda">
+    <img src="{{ site.baseurl }}/assets/images/rosana.png" alt="Rosana">
+</div>
 
-foto 
-Thalita Lima
-Descrição
+#### Dra. Rosana C. Santos [🔗](http://lattes.cnpq.br/2754673352772277)
+##### Pós-doutoranda no PPGA/ENBT
+
+<div class="imagem-com-texto-esquerda">
+    <img src="{{ site.baseurl }}/assets/images/thalita.png" alt="Thalita">
+</div>
+ 
+#### Thalita Lima [🔗](http://lattes.cnpq.br/9806013473257535)
+##### Bolsista do Programa de Iniciação Científica (PIBIC/JBRJ)
