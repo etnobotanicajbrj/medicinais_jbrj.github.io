@@ -10,7 +10,7 @@ Este grupo de pesquisa do **Instituto de Pesquisas Jardim Botânico do Rio de Ja
 
 ---
 
-### Pesquisadora-Chefe e Curadora
+## Pesquisadora-Chefe e Curadora
 
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/viviane.png" alt="Viviane">
@@ -22,17 +22,16 @@ Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênf
 
 ---
 
-### Estudantes e Colaboradores
+## Estudantes e Colaboradores
 
-<div class="imagem-com-texto-esquerda">
+<div class="limpar">
     <img src="{{ site.baseurl }}/assets/images/camila.png" alt="Camila">
 </div> 
 
-#### Camila Nascimento Dantas** [🔗](http://lattes.cnpq.br/4396367747910248)
+#### Camila Nascimento Dantas [🔗](http://lattes.cnpq.br/4396367747910248)
 ##### Voluntária na Coleção Temática de Plantas Medicinais
 
-<hr>
-
+<div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/luiz_fernando.png" alt="Luiz Fernando">
 </div> 
@@ -40,8 +39,7 @@ Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênf
 #### Me. Luiz Fernando de Melo [🔗](http://lattes.cnpq.br/4258771891384632)
 ##### Doutorando no PPGP/ENBT</p>
 
-<hr>
-
+<div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/luisa.png" alt="Luisa">
 </div> 
