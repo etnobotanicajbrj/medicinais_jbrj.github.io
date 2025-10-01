@@ -16,11 +16,8 @@ Este grupo de pesquisa do **Instituto de Pesquisas Jardim Botânico do Rio de Ja
     <img src="{{ site.baseurl }}/assets/images/viviane.png" alt="Viviane">
 </div> 
 
-#### Dra. Viviane Stern da Fonseca Kruel [🔗](http://lattes.cnpq.br/0560294487722709)
-
-Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênfase nos biomas Mata Atlântica e Amazônia, fortalecendo a interação entre saberes científicos e tradicionais, além de apoiar ações de repatriamento de conhecimentos. 
-
-É pesquisadora no Jardim Botânico do Rio de Janeiro, e curadora da Coleção Temática de Plantas Medicinais e da Coleção Etnobotânica (RBetno). Atua como docente nos Programas de Pós-Graduação Acadêmico em Botânica (PPGA/ENBT) e Profissional em Biodiversidade em Unidades de Conservação (PPGP/ENBT | JBRJ-ICMBio) e na Especialização em Plantas Medicinais e Fitoterapia (UFRJ/JBRJ/ABFIT).  Viviane é mãe de trigêmeos: Ana, João e Eduardo.
+#### Dra. Viviane Stern da Fonseca Kruel [🔗](http://lattes.cnpq.br/0560294487722709) 
+É pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temática de Plantas Medicinais e da Coleção Etnobotânica (RBetno). Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênfase nos biomas Mata Atlântica e Amazônia, fortalecendo a interação entre saberes científicos e tradicionais, além de apoiar ações de repatriamento de conhecimentos. Atua como docente nos Programas de Pós-Graduação Acadêmico em Botânica (PPGA/ENBT) e Profissional em Biodiversidade em Unidades de Conservação (PPGP/ENBT | JBRJ-ICMBio) e na Especialização em Plantas Medicinais e Fitoterapia (UFRJ/JBRJ/ABFIT). Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 
 ---
 
