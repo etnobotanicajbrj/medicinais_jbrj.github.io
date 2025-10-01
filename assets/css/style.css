@@ -249,3 +249,59 @@ hr {
     width: 48% !important; 
     margin: 0 1% 20px 1% !important;
 }
+/* Container Principal do Bloco */
+.imagem-bloco-container {
+    margin: 20px 0 !important;
+    border: 1px solid #ccc !important;
+    border-left: 5px solid #2E6F40 !important; /* Borda lateral verde */
+    border-radius: 4px !important;
+    background-color: #f9f9f9 !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05) !important;
+    overflow: hidden; /* Garante que as imagens não escapem do container */
+}
+
+/* Contêiner Flex para as Imagens (alinha lado a lado) */
+.imagens-flex {
+    display: flex !important; /* Habilita o alinhamento horizontal */
+    flex-wrap: wrap !important; /* Permite que as imagens quebrem a linha se não couberem */
+    padding: 0 !important;
+    margin: 0 !important;
+    gap: 5px; /* Espaço entre as imagens */
+}
+
+/* Estilo para cada item (imagem + legenda) */
+.imagem-flex-item {
+    flex: 1 1 0 !important;
+    padding: 0 !important;
+    margin: 0 5px 20px 5px !important; /* Adicionado margem horizontal para espaçamento */
+    min-width: 100px;
+    background-color: white !important; /* Fundo branco para as imagens */
+    border: 1px solid #eee !important;
+    border-radius: 6px !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) !important;
+    overflow: hidden !important;
+}
+
+.imagem-flex-item img {
+    width: 100% !important;
+    height: 100% !important;
+    display: block !important;
+    object-fit: cover !important; /* Garante que a imagem preencha o espaço sem distorcer */
+}
+
+.legenda-bloco h4 {
+    color: #2E6F40 !important;
+    margin-top: 0 !important;
+    margin-bottom: 3px !important;
+    font-size: 1em !important;
+}
+
+/* Estilo para a Legenda Individual */
+.imagem-flex-item .legenda-item {
+    padding: 10px 8px !important;
+    font-size: 0.85em !important;
+    color: #555 !important;
+    background-color: #f0f0f0 !important; /* Fundo suave para destaque */
+    text-align: center !important;
+    border-top: 1px solid #eee !important;
+}
