@@ -207,101 +207,65 @@ hr {
     height: 1px !important; /* Ajuda a garantir que a separação seja visível */
     margin: 30px 0 !important; /* Adiciona um espaço de separação vertical entre os blocos */
 }
-/* Estilos para o contêiner da galeria embutida */
-.galeria-embutida {
-    margin: 30px auto !important;
-    max-width: 100% !important;
-    overflow: hidden !important;
-}
 
-/* Estilos para cada item (imagem + legenda) */
-.item-galeria {
-    /* Define a largura de cada coluna para que 3 caibam lado a lado, com espaço */
-    width: 48% !important; 
-    float: left !important; /* Faz os itens ficarem lado a lado */
-    margin: 0 1.1% 20px 1.1% !important; /* Espaçamento entre os itens */
-    padding: 0 !important;
-    text-align: center !important;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
-    border-radius: 6px !important;
-    background-color: #f8f8f8 !important; /* Fundo suave para a área da imagem/legenda */
-}
+/* ================================================================= */
+/* 1. ESTILOS PARA IMAGENS LADO A LADO COM LEGENDA INDIVIDUAL (GALERIA FLEXBOX) */
+/* ================================================================= */
 
-/* Estilos para as imagens dentro da galeria */
-.item-galeria img {
-    width: 100% !important;
-    height: auto !important;
-    display: block !important;
-    border-radius: 6px 6px 0 0 !important; /* Borda arredondada apenas no topo */
-}
-
-/* Estilos para as legendas */
-.item-galeria figcaption {
-    padding: 10px 5px !important;
-    font-size: 0.9em !important;
-    color: #555 !important;
-    line-height: 1.4 !important;
-    text-align: center !important;
-}
-
-/* Ajuste para 2 imagens: se quiser que elas fiquem maiores, com 2 colunas */
-.galeria-embutida-dupla .item-galeria {
-    width: 48% !important; 
-    margin: 0 1% 20px 1% !important;
-}
 /* Container Principal do Bloco */
 .imagem-bloco-container {
     margin: 20px 0 !important;
     border: 1px solid #ccc !important;
-    border-left: 5px solid #2E6F40 !important; /* Borda lateral verde */
+    border-left: 5px solid #2E6F40 !important; /* Borda lateral verde para destaque */
     border-radius: 4px !important;
     background-color: #f9f9f9 !important;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05) !important;
-    overflow: hidden; /* Garante que as imagens não escapem do container */
+    overflow: hidden !important; /* Garante que tudo fique dentro da caixa */
 }
 
 /* Contêiner Flex para as Imagens (alinha lado a lado) */
 .imagens-flex {
     display: flex !important; /* Habilita o alinhamento horizontal */
-    flex-wrap: wrap !important; /* Permite que as imagens quebrem a linha se não couberem */
-    padding: 0 !important;
+    flex-wrap: wrap !important;
+    padding: 10px !important; /* Espaçamento interno */
     margin: 0 !important;
-    gap: 5px; /* Espaço entre as imagens */
+    gap: 10px; /* Espaço entre as imagens */
+    align-items: stretch; /* Garante que todas as caixas tenham a mesma altura */
 }
 
-/* Estilo para cada item (imagem + legenda) */
+/* Estilo para cada Imagem (O item flexível que cria a coluna) */
 .imagem-flex-item {
-    flex: 1 1 0 !important;
+    /* Faz o item ocupar uma parte igual do espaço (33% ou 50%, dependendo da quantidade) */
+    flex: 1 1 0 !important; 
     padding: 0 !important;
-    margin: 0 5px 20px 5px !important; /* Adicionado margem horizontal para espaçamento */
+    margin: 0 !important; /* Margem controlada pelo 'gap' do flexbox */
     min-width: 100px;
-    background-color: white !important; /* Fundo branco para as imagens */
+    background-color: white !important; /* Fundo branco para a área da imagem/legenda */
     border: 1px solid #eee !important;
     border-radius: 6px !important;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) !important;
     overflow: hidden !important;
+    display: flex !important;
+    flex-direction: column !important; /* Permite alinhar a imagem e a legenda em coluna */
 }
 
+/* Estilos da Imagem */
 .imagem-flex-item img {
     width: 100% !important;
-    height: 100% !important;
+    /* Ajusta a imagem para ocupar o espaço disponível sem quebrar o layout */
+    height: auto !important; 
     display: block !important;
-    object-fit: cover !important; /* Garante que a imagem preencha o espaço sem distorcer */
-}
-
-.legenda-bloco h4 {
-    color: #2E6F40 !important;
-    margin-top: 0 !important;
-    margin-bottom: 3px !important;
-    font-size: 1em !important;
+    /* object-fit: cover !important; Removido para evitar cortes inesperados, mas pode ser adicionado se precisar que as imagens preencham uma altura fixa. */
 }
 
 /* Estilo para a Legenda Individual */
 .imagem-flex-item .legenda-item {
-    padding: 10px 8px !important;
+    padding: 8px !important;
     font-size: 0.85em !important;
-    color: #555 !important;
-    background-color: #f0f0f0 !important; /* Fundo suave para destaque */
+    color: #333 !important;
+    background-color: #f0f0f0 !important; 
     text-align: center !important;
-    border-top: 1px solid #eee !important;
+    border-top: 1px solid #ccc !important;
+    /* ESSENCIAL: Garante que a legenda fique no final da caixa */
+    margin-top: auto !important;
 }
