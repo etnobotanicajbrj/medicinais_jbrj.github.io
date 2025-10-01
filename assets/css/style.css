@@ -258,6 +258,27 @@ hr {
     display: block !important;
     object-fit: cover !important; 
 }
+/* Regra para IMAGENS ÚNICAS: Força a manter a proporção e centraliza */
+.imagem-bloco-container .imagens-flex:has(.imagem-flex-item:only-child) .imagem-flex-item {
+    /* Desabilita o flex: 1 1 0 para evitar que ocupe a largura total de forma estranha */
+    flex: none !important; 
+    
+    /* Centraliza o item único no bloco (opcional) */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    
+    /* Limita a largura para que a imagem não fique GIGANTE (ex: 80% do bloco) */
+    width: 80% !important; 
+}
+
+/* Regra para a IMG em caso de item único */
+.imagem-bloco-container .imagens-flex:has(.imagem-flex-item:only-child) img {
+    /* Remove a altura FIXA e volta para o modo AUTOMÁTICO */
+    height: auto !important; 
+    
+    /* Remove o corte forçado para o caso de imagem única */
+    object-fit: unset !important; 
+}
 
 /* Estilo para a Legenda Individual */
 .imagem-flex-item .legenda-item {
