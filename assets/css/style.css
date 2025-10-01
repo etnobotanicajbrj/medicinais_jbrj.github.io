@@ -214,13 +214,14 @@ hr {
 
 /* Container Principal do Bloco */
 .imagem-bloco-container {
-    margin: 20px 0 !important;
+    margin: 20px auto !important; /* Centraliza o bloco na página */
+    max-width: 500px !important; /* <--- AJUSTE AQUI: Tamanho MÁXIMO do bloco */
     border: 1px solid #ccc !important;
-    border-left: 5px solid #2E6F40 !important; /* Borda lateral verde para destaque */
+    border-left: 5px solid #2E6F40 !important; 
     border-radius: 4px !important;
     background-color: #f9f9f9 !important;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05) !important;
-    overflow: hidden !important; /* Garante que tudo fique dentro da caixa */
+    overflow: hidden !important; 
 }
 
 /* Contêiner Flex para as Imagens (alinha lado a lado) */
@@ -248,21 +249,16 @@ hr {
     flex-direction: column !important;
     
     /* DEFINA A ALTURA MÁXIMA PARA CADA ITEM */
-    max-height: 250px !important; /* Ajuste este valor (ex: 250px) para diminuir o bloco todo */
+    max-height: 400px !important; /* Ajuste este valor (ex: 250px) para diminuir o bloco todo */
 }
-
 /* Estilos da Imagem */
 .imagem-flex-item img {
     width: 100% !important;
-    
-    /* FORÇA A IMAGEM A TER UMA ALTURA FIXA E UNIFORME */
-    height: 150px !important; /* Ajuste esta altura (ex: 150px) para deixar as imagens menores */
-    
+    height: 200px !important; /* <-- Diminua este valor (ex: 120px) para imagens menores */
     display: block !important;
-    
-    /* CORTA O EXCESSO SEM DISTORCER A IMAGEM ORIGINAL */
     object-fit: cover !important; 
 }
+
 /* Estilo para a Legenda Individual */
 .imagem-flex-item .legenda-item {
     padding: 8px !important;
