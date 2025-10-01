@@ -215,7 +215,7 @@ hr {
 /* Container Principal do Bloco */
 .imagem-bloco-container {
     margin: 20px auto !important; /* Centraliza o bloco na página */
-    max-width: 500px !important; /* <--- AJUSTE AQUI: Tamanho MÁXIMO do bloco */
+    max-width: 600px !important; /* <--- AJUSTE AQUI: Tamanho MÁXIMO do bloco */
     border: 1px solid #ccc !important;
     border-left: 5px solid #2E6F40 !important; 
     border-radius: 4px !important;
@@ -231,7 +231,7 @@ hr {
     padding: 10px !important; /* Espaçamento interno */
     margin: 0 !important;
     gap: 10px; /* Espaço entre as imagens */
-    align-items: stretch; /* Garante que todas as caixas tenham a mesma altura */
+    align-items: center; /* Garante que todas as caixas tenham a mesma altura */
 }
 
 /* Estilo para cada Imagem (O item flexível que cria a coluna) */
@@ -254,7 +254,7 @@ hr {
 /* Estilos da Imagem */
 .imagem-flex-item img {
     width: 100% !important;
-    height: 400px !important; /* <-- Diminua este valor (ex: 120px) para imagens menores */
+    height: 300px !important; /* <-- Diminua este valor (ex: 120px) para imagens menores */
     display: block !important;
     object-fit: cover !important; 
 }
