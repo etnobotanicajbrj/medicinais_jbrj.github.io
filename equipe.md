@@ -24,7 +24,7 @@ Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênf
 
 ## Estudantes e Colaboradores
 
-<div class="limpar">
+<div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/camila.png" alt="Camila">
 </div> 
 
@@ -47,7 +47,7 @@ Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênf
 #### Luisa Ridolph [🔗](http://lattes.cnpq.br/5593552951372724)
 ##### Mestranda no PPGA/ENBT
 
-
+<div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/mateus.png" alt="Mateus">
 </div> 
@@ -55,7 +55,7 @@ Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênf
 #### Me. Mateus Salim [🔗](http://lattes.cnpq.br/0248529376853174)
 ##### Doutorando no PPGA/ENBT
 
-
+<div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/nicky.png" alt="nicky">
 </div>
@@ -63,7 +63,7 @@ Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênf
 #### Me. Nicky van Luijk [🔗](http://lattes.cnpq.br/3013537979299517)
 ##### Mestranda no PPGP/ENBT
 
-
+<div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/rosana.png" alt="Rosana">
 </div>
@@ -71,7 +71,7 @@ Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênf
 #### Dra. Rosana C. Santos [🔗](http://lattes.cnpq.br/2754673352772277)
 ##### Pós-doutoranda no PPGA/ENBT
 
-
+<div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/thalita.png" alt="Thalita">
 </div>
