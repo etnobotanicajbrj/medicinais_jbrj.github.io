@@ -68,13 +68,13 @@ Próximo às janelas da sala de aula (ponto A do mapa) está o canteiro 1, **"La
 <div class="galeria-embutida">
     
     <figure class="item-galeria">
-        <img src="{{ site.baseurl }}/assets/img/alecrim.jpg" alt="alecrim">
-        <figcaption> Alecrim (_Salvia rosmarinus_) - Fonseca-Kruel, K.</figcaption>
+        <img src="{{ site.baseurl }}/assets/images/alecrim.jpg" alt="alecrim">
+        <figcaption> Alecrim (Fonseca-Kruel, K.)</figcaption>
     </figure>
 
     <figure class="item-galeria">
-        <img src="{{ site.baseurl }}/assets/img/guine.jpg" alt="guine">
-        <figcaption> Guiné (*Petiveria alliacea*) - Fonseca-Kruel, K.</figcaption>
+        <img src="{{ site.baseurl }}/assets/images/guine.jpg" alt="guine">
+        <figcaption> Guiné (Fonseca-Kruel, K.)</figcaption>
     </figure>
 
     <div style="clear: both;"></div>
@@ -85,13 +85,13 @@ Ao lado do pequeno lago, está o canteiro 2, **"Temperos da Vida"**, que nos mos
 <div class="galeria-embutida">
     
     <figure class="item-galeria">
-        <img src="{{ site.baseurl }}/assets/img/oregano.jpg" alt="oregano">
-        <figcaption> Orégano (_Origanum vulgare_) - Fonseca-Kruel, K.</figcaption>
+        <img src="{{ site.baseurl }}/assets/images/oregano.jpg" alt="oregano">
+        <figcaption> Orégano (Fonseca-Kruel, K.)</figcaption>
     </figure>
 
     <figure class="item-galeria">
         <img src="{{ site.baseurl }}/assets/img/manjericao.jpg" alt="manjericao">
-        <figcaption> Manjericão (_Ocimum basilicum_) - Fonseca-Kruel, K.</figcaption>
+        <figcaption> Manjericão (Fonseca-Kruel, K.)</figcaption>
     </figure>
 
     <div style="clear: both;"></div>
@@ -99,9 +99,14 @@ Ao lado do pequeno lago, está o canteiro 2, **"Temperos da Vida"**, que nos mos
 
 O maior canteiro desse grande tema é o canteiro 3, **"Saúde & Beleza"**. Veja se reconhece a famosa **babosa** (*Aloe vera*). Ela é muito utilizada em cosméticos e, na medicina tradicional, é um remédio popular para tratar queimaduras e hidratar a pele e os cabelos.
 
-<div class="imagem-centralizada">
-    <img src="{{ site.baseurl }}/assets/images/babosa.jpg" alt="babosa">
-    <figcaption> Babosa (_Aloe vera_) -Fonseca-Kruel, K.</figcaption>
+<div class="galeria-embutida">
+    
+    <figure class="item-galeria">
+        <img src="{{ site.baseurl }}/assets/images/babosa.jpg" alt="babosa">
+        <figcaption> Orégano (Fonseca-Kruel, K.)</figcaption>
+    </figure>
+    
+    <div style="clear: both;"></div>
 </div>
 
 Os canteiros desse primeiro conjunto nos mostram como as plantas estão presentes em todas as esferas da nossa vida, do corpo ao espírito.
