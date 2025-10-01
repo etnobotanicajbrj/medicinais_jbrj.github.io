@@ -184,17 +184,24 @@ hr {
 
 /* Estilo para a imagem alinhada à esquerda com texto ao redor */
 .imagem-com-texto-esquerda {
-    float: left !important; /* Faz a imagem flutuar à esquerda */
-    margin: 0 25px 15px 0 !important; /* Espaçamento: top, right, bottom, left */
-    width: 40% !important; /* Tamanho da imagem em relação ao contêiner */
-    max-width: 200px !important; /* Limite máximo para a imagem */
-    border-radius: 8px !important;
-    overflow: hidden !important;
+    float: left !important;
+    margin: 0 25px 15px 0 !important;
+    width: 150px !important; /* Largura fixa para o contêiner circular */
+    height: 150px !important; /* Altura fixa igual à largura para o contêiner circular */
+    border-radius: 50% !important; /* Torna o contêiner circular */
+    overflow: hidden !important; /* Esconde o que sai do círculo */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
 }
 
 .imagem-com-texto-esquerda img {
-    width: 100% !important; /* A imagem preenche a div pai */
-    height: auto !important;
+    width: 100% !important; /* Imagem ocupa 100% da largura do contêiner */
+    height: 100% !important; /* Imagem ocupa 100% da altura do contêiner */
+    object-fit: cover !important; /* <--- ESSA É A PROPRIEDADE CHAVE */
     display: block !important;
+}
+/* Força o próximo elemento a começar em uma nova linha, abaixo dos floats */
+.limpar-float {
+    clear: both !important;
+    height: 1px !important; /* Ajuda a garantir que a separação seja visível */
+    margin: 30px 0 !important; /* Adiciona um espaço de separação vertical entre os blocos */
 }
