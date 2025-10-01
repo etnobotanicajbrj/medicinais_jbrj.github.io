@@ -27,15 +27,20 @@ Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênf
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/camila.png" alt="Camila">
 </div> 
-<p> **Camila Nascimento Dantas** [🔗](http://lattes.cnpq.br/4396367747910248)</p>
-<p>Voluntária na Coleção Temática de Plantas Medicinais</p>
+
+#### Camila Nascimento Dantas** [🔗](http://lattes.cnpq.br/4396367747910248)
+##### Voluntária na Coleção Temática de Plantas Medicinais
+
+<hr>
 
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/luiz_fernando.png" alt="Luiz Fernando">
 </div> 
-<p>**Me. Luiz Fernando de Melo**  [🔗](http://lattes.cnpq.br/4258771891384632)</p>
-<p>Doutorando no PPGP/ENBT</p>
 
+#### Me. Luiz Fernando de Melo [🔗](http://lattes.cnpq.br/4258771891384632)
+##### Doutorando no PPGP/ENBT</p>
+
+<hr>
 
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/luisa.png" alt="Luisa">
