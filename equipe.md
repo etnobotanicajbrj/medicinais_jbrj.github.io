@@ -37,7 +37,7 @@ Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênf
 </div> 
 
 #### Me. Luiz Fernando de Melo [🔗](http://lattes.cnpq.br/4258771891384632)
-##### Doutorando no PPGP/ENBT</p>
+##### Doutorando no PPGP/ENBT
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
