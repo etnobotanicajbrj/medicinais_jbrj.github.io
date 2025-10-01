@@ -9,8 +9,7 @@ permalink: /visite/
 *Este roteiro é acompanhado por um **áudio** de narração. Para acessá-lo, **basta clicar no áudio abaixo.** Recomendamos que faça a visita no seu ritmo, pausando o áudio sempre que achar necessário, para observar e aprender*
 
 <audio controls class="audio-player">
-    <source src="{{ site.baseurl }}/assets/audio/audio_guia.ogg" type="audio/mpeg">
-    
+    <source src="{{ site.baseurl }}/assets/audio/audio_visita.mp3" type="audio/mpeg">    
     Seu navegador não suporta a tag de áudio.
 </audio>
 
@@ -114,26 +113,28 @@ No canteiro 33, **Contribuição Brasileira**, não deixe de notar a **pitanga**
 
 A **pitanga** é um nome comum que se refere a diversas plantas, mas a espécie mais conhecida é a _Eugenia uniflora_, um arbusto nativo do Brasil, conhecido por seus frutos saborosos de cor vibrante. O uso da pitanga no país é tão antigo que já era documentado no século XVII na obra _Historia Naturalis Brasiliae_, ressaltando a sua importância na culinária e na medicina popular. O fruto, além de ser consumido in natura, é usado em sucos, geleias e doces. As folhas, por sua vez, são empregadas em chás com propriedades medicinais, principalmente como um anti-inflamatório e antioxidante. A planta é oficialmente reconhecida e faz parte da **Relação Nacional de Plantas Medicinais de Interesse ao SUS (RENISUS)**.
 
-Para fechar o passeio, ainda no canteiro 33, destacamos plantas como o **caapi ou cipó-caapi, ou mariri** (_Banisteriopsis caapi_), é uma liana (trepadeira lenhosa) nativa da bacia amazônica, reverenciada por diversos povos indígenas como uma planta sagrada e medicinal. Por séculos, ela tem sido o principal ingrediente da ayahuasca, uma bebida psicoativa usada em rituais de cura e comunicação espiritual. A eficácia da bebida reside na sinergia entre o caapi e outras plantas, como a chacrona ou rainha (_Psychotria viridis_), que é rica em DMT. Enquanto a chacrona contém a substância psicoativa, o caapi, com seus alcaloides, permite que o DMT se torne ativo quando ingerido, tornando a mistura funcional. Embora o cipó-caapi seja um elemento central em práticas espirituais e culturais, a ciência moderna o tem estudado ativamente. O uso e a pesquisa com o caapi e a ayahuasca são controlados e regulamentados, mas o interesse científico continua a explorar seus potenciais terapêuticos, especialmente no tratamento de depressão e transtornos de ansiedade.
+Para fechar o passeio pelas plantas, ainda no canteiro 33, destacamos espécies como o **caapi ou cipó-caapi, ou mariri** (_Banisteriopsis caapi_). É uma liana (trepadeira lenhosa) nativa da bacia amazônica, reverenciada por diversos povos indígenas como uma planta sagrada e medicinal. Por séculos, ela tem sido o principal ingrediente da ayahuasca, uma bebida psicoativa usada em rituais de cura e comunicação espiritual. A eficácia da bebida reside na sinergia entre o caapi e outras plantas, como a chacrona ou rainha (Psychotria viridis), presente neste mesmo canteiro, que é rica em uma substância chamada DMT. Enquanto a chacrona contém a substância psicoativa, o caapi, com seus alcaloides, permite que o DMT se torne ativo quando ingerido, tornando a mistura funcional. Embora o cipó-caapi seja um elemento central em práticas espirituais e culturais, a ciência moderna o tem estudado ativamente. O uso e a pesquisa com o caapi e a ayahuasca são controlados e regulamentados, mas o interesse científico continua a explorar seus potenciais terapêuticos, especialmente no tratamento de depressão e transtornos de ansiedade.
 
 ---
 
 ## Finalização: Exposição
-#### Setor B
-Para finalizar nosso passeio, vamos ao Setor B, espaço coberto, onde fica a **exposição permanente** da Coleção.
+### Setor B
+Agora, convidamos você a conhecer o Setor B, espaço coberto no centro da Coleção, onde fica a **exposição permanente**.
 
-Aqui, você é convidado a aprofundar o que viu nos canteiros, entendendo as definições de uma planta medicinal e a diferença entre fitoterápicos e fitofármacos.
-A importância das plantas para a saúde é um conhecimento ancestral que, hoje, é reconhecido e valorizado, inclusive pela **Organização Mundial da Saúde (OMS)**, que as considera uma fonte primária de cuidado para muitas comunidades em todo o mundo.
+Aqui, você é convidado a aprofundar o que viu nos canteiros, entendendo, por exemplo, as definições de uma planta medicinal e a diferença entre fitoterápicos e fitofármacos.
+
+A importância das plantas para a saúde é um conhecimento ancestral que, atualmente, é reconhecido e valorizado, inclusive pela **Organização Mundial da Saúde (OMS)**, que reconhece as plantas como fonte primária de cuidado para muitas comunidades em todo o mundo.
 
 ---
 ## Reflexão - A Urgência da Conservação Biocultural
-Para encerrar nosso passeio, queremos convidar você para uma reflexão.
+Para encerrar nosso passeio, queremos deixar uma mensagem para uma reflexão muito importante.
 
 A diversidade de plantas que você viu aqui é apenas uma amostra da riqueza inestimável da natureza. E a importância delas vai muito além dos saberes tradicionais.
 
 As plantas continuam sendo uma fonte vital de pesquisa para a ciência ‘moderna’. Muitos dos medicamentos que usamos hoje têm sua origem nas plantas, e mesmo a tecnologia avançada ainda busca nas suas moléculas os modelos para a criação de novos remédios, essenciais para a prospecção de tratamentos para doenças atuais e futuras.
 
 É exatamente por essa importância que a conservação é um tema de urgência.
+
 
 <div class="caixa-info">
    As plantas medicinais e os saberes a elas associados estão seriamente ameaçados pela perda da vegetação em seus ambientes naturais. Ações como o desmatamento, o fogo e a mineração levam à extinção de espécies.
@@ -143,5 +144,4 @@ As plantas continuam sendo uma fonte vital de pesquisa para a ciência ‘modern
     Ao perdermos nossas plantas, perdemos não apenas a biodiversidade, mas também conhecimentos ancestrais e um potencial farmacológico imensurável que ainda nem tivemos a chance de descobrir.
 </div>
 
-Que a visita **inspire em você** a consciência sobre a importância de proteger as plantas e os conhecimentos que elas guardam, ajudando a salvaguardar o nosso valioso **patrimônio biocultural** para as futuras gerações.
-
+Agradecemos a sua visita e torcemos para que **inspire em você** a consciência sobre a importância de proteger as plantas e os conhecimentos que elas guardam, ajudando a salvaguardar o nosso valioso **patrimônio biocultural** para as futuras gerações.
