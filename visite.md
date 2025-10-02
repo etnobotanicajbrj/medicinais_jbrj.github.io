@@ -46,7 +46,6 @@ Você vai notar que as plantas estão organizadas em quatro grandes temas, cada 
     Um lembrete importante antes de começarmos: por favor, não toque ou coma nenhuma das plantas, pois algumas podem ser tóxicas ⚠️
 </div>
 
-
 Para guiar a sua visita, observe as placas de identificação das espécies. Você verá que cada uma delas apresenta tanto o nome popular quanto o nome científico da planta. Essa dualidade é muito importante.
 
 O nome popular é a porta de entrada para os saberes ancestrais e tradicionais. Ele carrega a história, a cultura e o uso de uma planta por um povo. No entanto, um mesmo nome popular pode se referir a diferentes espécies, o que pode gerar confusão e até riscos, principalmente no caso das plantas medicinais.
@@ -64,6 +63,8 @@ Virando à esquerda depois da entrada, estão os canteiros ligados ao conjunto 1
 As plantas aqui, com seu papel na imunidade e no equilíbrio, são um lembrete vivo dessa ideia.
 
 Próximo às janelas da sala de aula (ponto A do mapa) está o canteiro 1, **"Lavar a Alma"**. Sinta o cheiro da **arruda** e do **alecrim** ... A arruda (*Ruta graveolens*), o alecrim (*Salvia rosmarinus*) e a guiné (*Petiveria alliacea*) são plantas com forte simbolismo e uso na cultura brasileira, mesmo não sendo nativas. Amplamente utilizadas em rituais de proteção e limpeza espiritual, essas espécies refletem a rica diversidade de tradições religiosas, como as de matriz africana e as indígenas. Além de seu uso simbólico, cada uma também é empregada na medicina popular, embora com cautela, já que a arruda e a guiné possuem certa toxicidade.
+
+![Alecrim (Rosmarinus officinalis) - Planta aromática](assets/images/alecrim.jpg)
 
 Ao lado do pequeno lago, está o canteiro 2, **"Temperos da Vida"**, que nos mostra como a medicina e a culinária estão profundamente conectadas. Sinta o aroma do **orégano** (*Origanum vulgare*) e do **manjericão** (*Ocimum basilicum*). Além de dar sabor, essas plantas têm propriedades que ajudam na digestão e trazem saúde para o nosso dia a dia.
 
