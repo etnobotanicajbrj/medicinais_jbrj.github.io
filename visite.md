@@ -64,11 +64,57 @@ As plantas aqui, com seu papel na imunidade e no equilíbrio, são um lembrete v
 
 Próximo às janelas da sala de aula (ponto A do mapa) está o canteiro 1, **"Lavar a Alma"**. Sinta o cheiro da **arruda** e do **alecrim** ... A arruda (*Ruta graveolens*), o alecrim (*Salvia rosmarinus*) e a guiné (*Petiveria alliacea*) são plantas com forte simbolismo e uso na cultura brasileira, mesmo não sendo nativas. Amplamente utilizadas em rituais de proteção e limpeza espiritual, essas espécies refletem a rica diversidade de tradições religiosas, como as de matriz africana e as indígenas. Além de seu uso simbólico, cada uma também é empregada na medicina popular, embora com cautela, já que a arruda e a guiné possuem certa toxicidade.
 
-![Alecrim (Rosmarinus officinalis) - Planta aromática](assets/images/alecrim.jpg)
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/alecrim.jpg" alt="Alecrim com Flor">
+            <figcaption class="legenda-item"> ALECRIM (Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/guine.jpg" alt="Guiné com Flor">
+            <figcaption class="legenda-item"> GUINÉ (Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
 
 Ao lado do pequeno lago, está o canteiro 2, **"Temperos da Vida"**, que nos mostra como a medicina e a culinária estão profundamente conectadas. Sinta o aroma do **orégano** (*Origanum vulgare*) e do **manjericão** (*Ocimum basilicum*). Além de dar sabor, essas plantas têm propriedades que ajudam na digestão e trazem saúde para o nosso dia a dia.
 
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/oregano.jpg" alt="Orégano com flor">
+            <figcaption class="legenda-item"> ORÉGANO (Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/manjericao.jpg" alt="Manjericão com flor">
+            <figcaption class="legenda-item"> MANJERICÃO (Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
+
 O maior canteiro desse grande tema é o canteiro 3, **"Saúde & Beleza"**. Veja se reconhece a famosa **babosa** (*Aloe vera*). Ela é muito utilizada em cosméticos e, na medicina tradicional, é um remédio popular para tratar queimaduras e hidratar a pele e os cabelos.
+
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/babosa1.jpg" alt="Babosa planta toda">
+            <figcaption class="legenda-item"> BABOSA (Planta toda | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/babosa2.jpg" alt="Babosa flor">
+            <figcaption class="legenda-item"> BABOSA (Flor | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
 
 Os canteiros desse primeiro conjunto nos mostram como as plantas estão presentes em todas as esferas da nossa vida, do corpo ao espírito.
 
@@ -79,11 +125,75 @@ Vamos explorar o canteiro 4, **"Tradição"**, onde encontramos a **araruta**, u
 
 Ao lado, no canteiro 5, **"Ciências e Novas Descobertas"**, o destaque é a trepadeira nativa do Brasil, conhecida pelos nomes populares **crajiru, ou carajuru, ou pariri** (*Fridericia chica*). A importância do crajiru é tão grande que ele faz parte da **RENISUS** (Relação Nacional de Plantas Medicinais de Interesse ao Sistema Único de Saúde - SUS), um documento que orienta a pesquisa e a produção de medicamentos no Brasil. Essa inclusão demonstra que seus usos tradicionais milenares têm hoje evidências científicas e são de interesse para a saúde pública. É amplamente utilizada na Amazônia, valorizada por suas propriedades medicinais, para doenças do sangue, anemia, inflamações e problemas menstruais. 
 
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/araruta.jpg" alt="Araruta com flor">
+            <figcaption class="legenda-item"> ARARUTA (Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/carajuru.jpg" alt="Carajuru">
+            <figcaption class="legenda-item"> CARAJIRU, CARAJURU, PARIRI (Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
+
 Seguindo em frente, próximo ao muro de pedras, temos o canteiro 6, **"Plantas Medicinais, Expressões Artísticas e Outros Usos"**. Olhe um pouco para cima e observe o **urucum** (_Bixa orellana_). É um arbusto nativo da América tropical, com uma história rica que se estende das tradições indígenas à indústria moderna. Seu nome vem do tupi _uruku_, que significa "vermelho", em alusão à cor intensa de suas sementes. Tradicionalmente, povos indígenas usam o urucum para pintura corporal em rituais e em artefatos, além de ser um repelente natural, protetor solar e ter fins medicinais. Atualmente, a planta é amplamente conhecida na culinária como **colorau**, um tempero que adiciona cor e sabor suave a diversos pratos. Seus pigmentos, a bixina e norbixina, são valorizados como corantes naturais na indústria alimentícia e cosmética, servindo como uma alternativa saudável e versátil aos produtos sintéticos.
+
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/urucum1.jpg" alt="Urucum com fruto">
+            <figcaption class="legenda-item"> URUCUM (Fruto | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/urucum2.jpg" alt="Urucum com flor">
+            <figcaption class="legenda-item"> URUCUM (Flor | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
 
 Virando-se para o lado oposto ao muro, bem ao centro, está o canteiro 7, **"Racionalidades Médicas"**. A estrela deste canteiro é o **gengibre** (_Zingiber officinale_). Além de ser um condimento famoso, ele é amplamente reconhecido pelo **SUS** para tratar gripes, resfriados e problemas de digestão. O **gengibre** é uma planta herbácea de origem asiática, com registros históricos de uso que remontam a mais de **5 mil anos**, sendo uma das especiarias mais antigas do mundo. Por milhares de anos, ele foi e é fundamental nas medicinas tradicionais chinesa e indiana (Ayurveda), reconhecido por suas propriedades digestivas e anti-inflamatórias. Seu rizoma (raíz), que contém o composto picante, tornou-se um ingrediente mundialmente consumido, tanto para a culinária, dando sabor a pratos e bebidas como o quentão brasileiro, quanto para fins medicinais.
 
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/gengibre1.jpg" alt="Gengibre com fruto">
+            <figcaption class="legenda-item"> GENGIBRE (Flor | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/gengibre2.jpg" alt="Gengibre planta toda">
+            <figcaption class="legenda-item"> GENGIBRE (Planta toda | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
+
 Também ao centro, no canteiro 8, **"Na Boca dos Povos"**, conheça o **cipó-mil-homens** (_Aristolochia cymbifera_), uma trepadeira nativa do Brasil. Essa planta nos ensina que o nome de uma espécie pode mudar completamente dependendo da região e da cultura, sendo conhecida também como **ambaiá-caá, jarrinha** ou **angelicó**. Tradicionalmente, essa espécie era utilizada na medicina tradicional para diversas finalidades, como auxiliar em partos, tratar problemas digestivos e nervosos, entre outras. No entanto, é importante destacar que o consumo desta planta é perigoso, pois evidências científicas identificaram que esta espécie contém o **ácido aristolóquico**, uma substância que causa danos renais severos, entre outros problemas.
+
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/cipo_mil_homens1.jpg" alt="Cipó Mil Homens Flor">
+            <figcaption class="legenda-item"> CIPÓ-MIL-HOMENS (Flor | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/cipo_mil_homens2.jpg" alt="Cipó Mil Homens planta toda">
+            <figcaption class="legenda-item"> CIPÓ-MIL-HOMENS (Planta toda | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
 
 ### Sistemas do Corpo Humano
 Vamos agora seguir para o **Conjunto 3**, na cor verde, dos canteiros número 9 a 22. São os canteiros retangulares, que formam corredores. Neste conjunto, as plantas estão organizadas de acordo com o sistema do corpo em que atuam, mostrando a precisão do conhecimento medicinal.
