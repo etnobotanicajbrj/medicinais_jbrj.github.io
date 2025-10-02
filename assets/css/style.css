@@ -290,3 +290,77 @@ hr {
     border-top: 1px solid #ccc !important;
     margin-top: auto !important;
 }
+
+/* ================================================================= */
+/* ESTILOS PARA CARROSSEL/GALERIA HORIZONTAL (3 COLUNAS) */
+/* ================================================================= */
+
+.carousel-gallery-container {
+    max-width: 950px; /* Limita o tamanho máximo do carrossel */
+    margin: 40px auto;
+    padding: 0 15px; /* Espaço nas laterais */
+}
+
+/* Título e Instrução */
+.carousel-gallery-container h3 {
+    text-align: center;
+    color: #2E6F40;
+    margin-bottom: 20px;
+}
+
+.carousel-gallery-container .instrucao {
+    text-align: center;
+    font-size: 0.9em;
+    color: #666;
+    margin-top: 10px;
+}
+
+/* Contêiner Flex principal: permite a rolagem */
+.carousel-gallery-flex {
+    display: flex;
+    overflow-x: scroll; /* ESSENCIAL: Permite rolar na horizontal */
+    scroll-snap-type: x mandatory; /* Faz a rolagem 'grudar' em cada item */
+    -webkit-overflow-scrolling: touch; /* Melhora a rolagem em dispositivos móveis */
+    gap: 15px; /* Espaçamento entre as fotos */
+    padding-bottom: 20px; /* Espaço para a barra de rolagem não atrapalhar */
+}
+
+/* Estilo de cada Item/Foto */
+.gallery-item {
+    flex: 0 0 32%; /* 32% garante que 3 itens cabem na largura, com margem */
+    min-width: 250px; /* Largura mínima para telas menores */
+    height: 250px; /* Altura fixa para TODAS as fotos (padronização) */
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    scroll-snap-align: center; /* Alinha o item no centro ao rolar */
+    transition: transform 0.3s ease;
+}
+
+/* Estilo da Imagem (corte e preenchimento) */
+.gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Garante que a imagem preencha o contêiner sem distorcer, cortando o excesso */
+}
+
+/* Estilo do Texto sobre a Imagem */
+.overlay-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(46, 111, 64, 0.8); /* Cor verde com transparência */
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+/* Efeito de Destaque (Opcional, para destacar a foto central) */
+.gallery-item:hover {
+    transform: scale(1.05); /* Aumenta um pouco ao passar o mouse */
+    z-index: 10;
+}
