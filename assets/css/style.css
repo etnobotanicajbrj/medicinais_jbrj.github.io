@@ -297,7 +297,7 @@ hr {
 
 /* Container principal para evitar margens que quebrem o mobile */
 .carousel-gallery-container {
-    max-width: 950px; 
+    max-width: 600px; 
     margin: 40px auto;
     padding: 0 0 !important; /* Mude o padding para 0 */
 }
@@ -372,7 +372,7 @@ hr {
 /* MEDIA QUERY: AJUSTES PARA CELULAR E TABLET (Telas <= 768px) */
 /* ================================================================= */
 
-@media (max-width: 768px) {
+@media (max-width: 500px) {
     
     /* Corrige a desformatação forçando a largura do item */
     .gallery-item {
