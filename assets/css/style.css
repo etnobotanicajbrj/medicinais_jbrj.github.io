@@ -209,182 +209,32 @@ hr {
 }
 
 /* ================================================================= */
-/* 1. ESTILOS PARA IMAGENS LADO A LADO COM LEGENDA INDIVIDUAL (GALERIA FLEXBOX) */
-/* ================================================================= */
 
-/* Container Principal do Bloco */
-.imagem-bloco-container {
-    margin: 20px auto !important; /* Centraliza o bloco na página */
-    max-width: 600px !important; /* <--- AJUSTE AQUI: Tamanho MÁXIMO do bloco */
-    border: 1px solid #ccc !important;
-    border-left: 5px solid #2E6F40 !important; 
-    border-radius: 4px !important;
-    background-color: #f9f9f9 !important;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05) !important;
-    overflow: hidden !important; 
+/* Garante que a imagem nunca ultrapasse a largura do seu contêiner (texto) */
+/* e que ela mantenha a sua proporção original (height: auto). */
+img {
+    max-width: 100%;
+    height: auto; /* Fundamental para evitar esticamento! */
+    display: block; /* Ajuda no alinhamento e responsividade */
+    margin: 1.5em auto; /* Adiciona um espaço acima/abaixo da foto e centraliza */
+    border-radius: 4px; /* Opcional: suaviza as bordas */
 }
 
-/* Contêiner Flex para as Imagens (alinha lado a lado) */
-.imagens-flex {
-    display: flex !important; /* Habilita o alinhamento horizontal */
-    flex-wrap: wrap !important;
-    padding: 10px !important; /* Espaçamento interno */
-    margin: 0 !important;
-    gap: 10px; /* Espaço entre as imagens */
-    align-items: center; /* Garante que todas as caixas tenham a mesma altura */
+/* Estilo para a Legenda (se for renderizada como um parágrafo/div abaixo da imagem) */
+/* Como o Markdown normalmente não cria legendas nativas, você precisará verificar */
+/* como o seu tema/Jekyll as renderiza, ou usar uma div/figure especial */
+/* se precisar de um bloco de legenda específico. */
+
+/* Se o seu tema envolver a imagem e a legenda em uma tag <figure> */
+figure {
+    margin: 1.5em 0; /* Espaçamento da figura inteira */
+    text-align: center; /* Centraliza a imagem e a legenda */
 }
 
-/* Estilo para cada Imagem (O item flexível que cria a coluna) */
-.imagem-flex-item {
-    flex: 1 1 0 !important; 
-    padding: 0 !important;
-    margin: 0 !important; 
-    min-width: 100px;
-    background-color: white !important; 
-    border: 1px solid #eee !important;
-    border-radius: 6px !important;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) !important;
-    overflow: hidden !important;
-    display: flex !important;
-    flex-direction: column !important;
-    
-    /* DEFINA A ALTURA MÁXIMA PARA CADA ITEM */
-    max-height: 500px !important; /* Ajuste este valor (ex: 250px) para diminuir o bloco todo */
-}
-/* Estilos da Imagem */
-.imagem-flex-item img {
-    width: 100% !important;
-    height: 300px !important; /* <-- Diminua este valor (ex: 120px) para imagens menores */
-    display: block !important;
-    object-fit: cover !important; 
-}
-/* Regra para IMAGENS ÚNICAS: Força a manter a proporção e centraliza */
-.imagem-bloco-container .imagens-flex:has(.imagem-flex-item:only-child) .imagem-flex-item {
-    /* Desabilita o flex: 1 1 0 para evitar que ocupe a largura total de forma estranha */
-    flex: none !important; 
-    
-    /* Centraliza o item único no bloco (opcional) */
-    margin-left: auto !important;
-    margin-right: auto !important;
-    
-    /* Limita a largura para que a imagem não fique GIGANTE (ex: 80% do bloco) */
-    width: 80% !important; 
-}
-
-/* Regra para a IMG em caso de item único */
-.imagem-bloco-container .imagens-flex:has(.imagem-flex-item:only-child) img {
-    /* Remove a altura FIXA e volta para o modo AUTOMÁTICO */
-    height: auto !important; 
-    
-    /* Remove o corte forçado para o caso de imagem única */
-    object-fit: unset !important; 
-}
-
-/* Estilo para a Legenda Individual */
-.imagem-flex-item .legenda-item {
-    padding: 8px !important;
-    font-size: 0.75em !important;
-    color: #333 !important;
-    background-color: #f0f0f0 !important; 
-    text-align: center !important; /* Centraliza o texto da legenda */
-    border-top: 1px solid #ccc !important;
-    margin-top: auto !important;
-}
-
-/* ================================================================= */
-/* ESTILOS PARA CARROSSEL/GALERIA HORIZONTAL (3 COLUNAS) */
-/* ================================================================= */
-
-/* Container principal para evitar margens que quebrem o mobile */
-.carousel-gallery-container {
-    max-width: 600px; 
-    margin: 40px auto;
-    padding: 0 0 !important; /* Mude o padding para 0 */
-}
-
-/* Título e Instrução */
-.carousel-gallery-container h3 {
-    text-align: center;
-    color: #2E6F40;
-    margin-bottom: 20px;
-}
-
-.carousel-gallery-container .instrucao {
-    text-align: center;
+figcaption {
     font-size: 0.9em;
-    color: #666;
-    margin-top: 10px;
-}
-
-/* Contêiner Flex principal: permite a rolagem */
-.carousel-gallery-flex {
-    display: flex;
-    overflow-x: scroll; 
-    scroll-snap-type: x mandatory; 
-    -webkit-overflow-scrolling: touch; 
-    gap: 15px; 
-    padding: 0 15px 20px 15px; /* Adicione o padding interno para as laterais do scroll */
-}
-
-/* Estilo de cada Item/Foto (Regra Padrão para Desktop) */
-.gallery-item {
-    /* Retorna para a largura de 3 colunas no desktop */
-    flex: 0 0 32% !important; 
-    min-width: 250px !important; /* Mínimo para que não fique muito pequeno */
-    
-    height: 250px !important; /* Altura fixa */
-    position: relative;
-    overflow: hidden;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    scroll-snap-align: center; 
-    transition: transform 0.3s ease;
-}
-
-/* Estilo da Imagem (corte e preenchimento) */
-.gallery-item img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* Garante que a imagem preencha o contêiner sem distorcer, cortando o excesso */
-}
-
-/* Estilo do Texto sobre a Imagem */
-.overlay-text {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: rgba(46, 111, 64, 0.8); /* Cor verde com transparência */
-    color: white;
-    padding: 10px;
-    font-weight: bold;
-    text-align: center;
-    font-size: 0.9em;
-}
-
-/* Efeito de Destaque (Opcional, para destacar a foto central) */
-.gallery-item:hover {
-    transform: scale(1.05); /* Aumenta um pouco ao passar o mouse */
-    z-index: 10;
-}
-
-/* ================================================================= */
-/* MEDIA QUERY: AJUSTES PARA CELULAR E TABLET (Telas <= 768px) */
-/* ================================================================= */
-
-@media (max-width: 500px) {
-    
-    /* Corrige a desformatação forçando a largura do item */
-    .gallery-item {
-        /* Usa 90% da largura da tela do dispositivo (viewport width) */
-        flex: 0 0 90vw !important; 
-        min-width: 90vw !important; /* Garante que ela ocupe 90% */
-        height: 200px !important; /* Reduz a altura para economizar espaço em mobile */
-    }
-
-    /* Corrige o problema de ultrapassar a margem */
-    .carousel-gallery-flex {
-        /* Adiciona um padding nas laterais, garantindo que o scroll não ultrapasse */
-        padding: 0 5vw 20px 5vw !important; 
-    }
+    color: #555;
+    margin-top: 0.5em;
+    font-style: italic;
+    padding: 0 10px; /* Evita que a legenda fique colada nas laterais em telas pequenas */
 }
