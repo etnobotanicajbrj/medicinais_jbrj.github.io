@@ -326,13 +326,13 @@ hr {
     padding: 0 15px 20px 15px; /* Adicione o padding interno para as laterais do scroll */
 }
 
-/* Estilo de cada Item/Foto */
+/* Estilo de cada Item/Foto (Regra Padrão para Desktop) */
 .gallery-item {
-    /* Mude para 80% da largura do viewport (vw) para mobile */
-    flex: 0 0 80vw !important; /* Faz com que a foto ocupe 80% da tela do celular */
-    min-width: 80vw !important; /* Garante o tamanho mínimo */
+    /* Retorna para a largura de 3 colunas no desktop */
+    flex: 0 0 32% !important; 
+    min-width: 250px !important; /* Mínimo para que não fique muito pequeno */
     
-    height: 250px; 
+    height: 250px !important; /* Altura fixa */
     position: relative;
     overflow: hidden;
     border-radius: 8px;
@@ -366,4 +366,25 @@ hr {
 .gallery-item:hover {
     transform: scale(1.05); /* Aumenta um pouco ao passar o mouse */
     z-index: 10;
+}
+
+/* ================================================================= */
+/* MEDIA QUERY: AJUSTES PARA CELULAR E TABLET (Telas <= 768px) */
+/* ================================================================= */
+
+@media (max-width: 768px) {
+    
+    /* Corrige a desformatação forçando a largura do item */
+    .gallery-item {
+        /* Usa 90% da largura da tela do dispositivo (viewport width) */
+        flex: 0 0 90vw !important; 
+        min-width: 90vw !important; /* Garante que ela ocupe 90% */
+        height: 200px !important; /* Reduz a altura para economizar espaço em mobile */
+    }
+
+    /* Corrige o problema de ultrapassar a margem */
+    .carousel-gallery-flex {
+        /* Adiciona um padding nas laterais, garantindo que o scroll não ultrapasse */
+        padding: 0 5vw 20px 5vw !important; 
+    }
 }
