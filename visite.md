@@ -116,6 +116,43 @@ O maior canteiro desse grande tema é o canteiro 3, **"Saúde & Beleza"**. Veja 
 
 Os canteiros desse primeiro conjunto nos mostram como as plantas estão presentes em todas as esferas da nossa vida, do corpo ao espírito.
 
+<div class="carousel-gallery-container">
+    
+    <h3>Destaques da Coleção</h3>
+    
+    <div class="carousel-gallery-flex">
+        
+        <div class="gallery-item">
+            <img src="{{ site.baseurl }}/assets/images/alecrim.jpg" alt="Foto Destaque 1">
+            <div class="overlay-text">Alecrim (Fonseca-Kruel, K.)</div>
+        </div>
+        
+        <div class="gallery-item">
+            <img src="{{ site.baseurl }}/assets/images/guine.jpg" alt="Foto Destaque 2">
+            <div class="overlay-text">Guiné (Fonseca-Kruel, K.)</div>
+        </div>
+        
+        <div class="gallery-item">
+            <img src="{{ site.baseurl }}/assets/images/oregano.jpg" alt="Foto Destaque 3">
+            <div class="overlay-text">Orégano (Fonseca-Kruel, K.)</div>
+        </div>
+        
+        <div class="gallery-item">
+            <img src="{{ site.baseurl }}/assets/images/manjericao.jpg" alt="Foto Destaque 4">
+            <div class="overlay-text">Manjericão (Fonseca-Kruel, K.)</div>
+        </div>
+
+        <div class="gallery-item">
+            <img src="{{ site.baseurl }}/assets/images/babosa.jpg" alt="Foto Destaque 5">
+            <div class="overlay-text">Babosa (Fonseca-Kruel, K.)</div>
+        </div>
+        
+    </div>
+    
+    <p class="instrucao">Role horizontalmente para ver todas as fotos.</p>
+
+</div>
+
 
 ### Ciência e Cultura
 A partir do portão de entrada, virando à direita, atrás do totem com o mapa, estão reunidas as espécies do **Conjunto 2**, na cor azul, do canteiro 4 ao 8. Aqui, as plantas nos mostram a fascinante união entre a **ciência, a tradição e a cultura.**
