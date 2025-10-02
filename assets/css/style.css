@@ -209,32 +209,75 @@ hr {
 }
 
 /* ================================================================= */
+/* GALERIA FLEXBOX DE COLUNAS (1, 2 ou 3 Imagens com Legenda) */
+/* ================================================================= */
 
-/* Garante que a imagem nunca ultrapasse a largura do seu contêiner (texto) */
-/* e que ela mantenha a sua proporção original (height: auto). */
-img {
-    max-width: 100%;
-    height: auto; /* Fundamental para evitar esticamento! */
-    display: block; /* Ajuda no alinhamento e responsividade */
-    margin: 1.5em auto; /* Adiciona um espaço acima/abaixo da foto e centraliza */
-    border-radius: 4px; /* Opcional: suaviza as bordas */
+/* Container Principal do Bloco (Controla a largura total do bloco) */
+.imagem-bloco-container {
+    margin: 20px auto !important; 
+    max-width: 700px !important; /* TAMANHO MÁXIMO do bloco (Ajuste aqui) */
+    border: 1px solid #ccc !important;
+    border-left: 5px solid #2E6F40 !important; /* Borda lateral verde */
+    border-radius: 4px !important;
+    background-color: #f9f9f9 !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05) !important;
+    overflow: hidden !important; 
 }
 
-/* Estilo para a Legenda (se for renderizada como um parágrafo/div abaixo da imagem) */
-/* Como o Markdown normalmente não cria legendas nativas, você precisará verificar */
-/* como o seu tema/Jekyll as renderiza, ou usar uma div/figure especial */
-/* se precisar de um bloco de legenda específico. */
-
-/* Se o seu tema envolver a imagem e a legenda em uma tag <figure> */
-figure {
-    margin: 1.5em 0; /* Espaçamento da figura inteira */
-    text-align: center; /* Centraliza a imagem e a legenda */
+/* Contêiner Flex para as Imagens */
+.imagens-flex {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    padding: 10px !important;
+    margin: 0 !important;
+    gap: 10px;
+    align-items: stretch; /* Garante que as colunas tenham a mesma altura */
 }
 
-figcaption {
-    font-size: 0.9em;
-    color: #555;
-    margin-top: 0.5em;
-    font-style: italic;
-    padding: 0 10px; /* Evita que a legenda fique colada nas laterais em telas pequenas */
+/* Estilo para cada Item (A coluna com imagem + legenda) */
+.imagem-flex-item {
+    flex: 1 1 0 !important; /* Divide o espaço igualmente (50% para 2, 33% para 3) */
+    padding: 0 !important;
+    margin: 0 !important;
+    min-width: 100px;
+    background-color: white !important; 
+    border: 1px solid #eee !important;
+    border-radius: 6px !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05) !important;
+    overflow: hidden !important;
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+/* Estilos da Imagem (Padroniza o tamanho e evita diferença de altura) */
+.imagem-flex-item img {
+    width: 100% !important;
+    height: 150px !important; /* ALTURA FIXA para as imagens em colunas (Ajuste aqui) */
+    display: block !important;
+    object-fit: cover !important; /* Corta o excesso da imagem, evitando distorção */
+}
+
+/* Estilo para a Legenda Individual */
+.imagem-flex-item figcaption.legenda-item {
+    padding: 8px !important;
+    font-size: 0.85em !important;
+    color: #333 !important; 
+    background-color: #f0f0f0 !important; 
+    text-align: center !important;
+    border-top: 1px solid #ccc !important;
+    display: block !important;
+    margin-top: auto !important; /* Empurra a legenda para o rodapé do bloco */
+}
+
+/* Ajuste para IMAGEM ÚNICA (Requer a classe 'imagem-unica-ajuste' no HTML) */
+.imagem-unica-ajuste {
+    flex: none !important; /* Desabilita o flex: 1 1 0 */
+    max-width: 80% !important; /* Limita a largura do item único */
+    margin-left: auto !important;
+    margin-right: auto !important; /* Centraliza */
+}
+
+.imagem-unica-ajuste img {
+    height: auto !important; /* Altura automática para manter proporção (sem distorção) */
+    object-fit: unset !important; /* Desabilita o corte forçado */
 }
