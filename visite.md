@@ -65,94 +65,11 @@ As plantas aqui, com seu papel na imunidade e no equilíbrio, são um lembrete v
 
 Próximo às janelas da sala de aula (ponto A do mapa) está o canteiro 1, **"Lavar a Alma"**. Sinta o cheiro da **arruda** e do **alecrim** ... A arruda (*Ruta graveolens*), o alecrim (*Salvia rosmarinus*) e a guiné (*Petiveria alliacea*) são plantas com forte simbolismo e uso na cultura brasileira, mesmo não sendo nativas. Amplamente utilizadas em rituais de proteção e limpeza espiritual, essas espécies refletem a rica diversidade de tradições religiosas, como as de matriz africana e as indígenas. Além de seu uso simbólico, cada uma também é empregada na medicina popular, embora com cautela, já que a arruda e a guiné possuem certa toxicidade.
 
-<div class="imagem-bloco-container">
-    <div class="imagens-flex">
-        
-        <figure class="imagem-flex-item">
-              <img src="{{ site.baseurl }}/assets/images/alecrim.jpg" alt="alecrim">
-            <figcaption class="legenda-item"> Alecrim (Fonseca-Kruel, K.)</figcaption>
-        </figure>
-        
-        <figure class="imagem-flex-item">
-              <img src="{{ site.baseurl }}/assets/images/guine.jpg" alt="guine">
-            <figcaption class="legenda-item"> Guiné (Fonseca-Kruel, K.)</figcaption>
-        </figure>
-        
-    </div>
-    
-    </div>
-    
 Ao lado do pequeno lago, está o canteiro 2, **"Temperos da Vida"**, que nos mostra como a medicina e a culinária estão profundamente conectadas. Sinta o aroma do **orégano** (*Origanum vulgare*) e do **manjericão** (*Ocimum basilicum*). Além de dar sabor, essas plantas têm propriedades que ajudam na digestão e trazem saúde para o nosso dia a dia.
 
-<div class="imagem-bloco-container">
-    <div class="imagens-flex">
-        
-        <figure class="imagem-flex-item">
-            <img src="{{ site.baseurl }}/assets/images/oregano.jpg" alt="oregano">
-            <figcaption class="legenda-item">Orégano (Fonseca-Kruel, K.)</figcaption>
-        </figure>
-        
-        <figure class="imagem-flex-item">
-            <img src="{{ site.baseurl }}/assets/images/manjericao.jpg" alt="manjericao">
-            <figcaption class="legenda-item">Manjericão (Fonseca-Kruel, K.)</figcaption>
-        </figure>
-        
-    </div>
-    
-    </div>
 O maior canteiro desse grande tema é o canteiro 3, **"Saúde & Beleza"**. Veja se reconhece a famosa **babosa** (*Aloe vera*). Ela é muito utilizada em cosméticos e, na medicina tradicional, é um remédio popular para tratar queimaduras e hidratar a pele e os cabelos.
 
-<div class="imagem-bloco-container">
-    <div class="imagens-flex">
-        
-        <figure class="imagem-flex-item">
-            <img src="{{ site.baseurl }}/assets/images/babosa.jpg" alt="babosa">
-            <figcaption class="legenda-item">Babosa (Fonseca-Kruel, K.)</figcaption>
-        </figure>
-        
-    </div>
-    
-    </div>
-
 Os canteiros desse primeiro conjunto nos mostram como as plantas estão presentes em todas as esferas da nossa vida, do corpo ao espírito.
-
-<div class="carousel-gallery-container">
-    
-    <h3>Destaques da Coleção</h3>
-    
-    <div class="carousel-gallery-flex">
-        
-        <div class="gallery-item">
-            <img src="{{ site.baseurl }}/assets/images/alecrim.jpg" alt="Foto Destaque 1">
-            <div class="overlay-text">Alecrim (Fonseca-Kruel, K.)</div>
-        </div>
-        
-        <div class="gallery-item">
-            <img src="{{ site.baseurl }}/assets/images/guine.jpg" alt="Foto Destaque 2">
-            <div class="overlay-text">Guiné (Fonseca-Kruel, K.)</div>
-        </div>
-        
-        <div class="gallery-item">
-            <img src="{{ site.baseurl }}/assets/images/oregano.jpg" alt="Foto Destaque 3">
-            <div class="overlay-text">Orégano (Fonseca-Kruel, K.)</div>
-        </div>
-        
-        <div class="gallery-item">
-            <img src="{{ site.baseurl }}/assets/images/manjericao.jpg" alt="Foto Destaque 4">
-            <div class="overlay-text">Manjericão (Fonseca-Kruel, K.)</div>
-        </div>
-
-        <div class="gallery-item">
-            <img src="{{ site.baseurl }}/assets/images/babosa.jpg" alt="Foto Destaque 5">
-            <div class="overlay-text">Babosa (Fonseca-Kruel, K.)</div>
-        </div>
-        
-    </div>
-    
-    <p class="instrucao">Role horizontalmente para ver todas as fotos.</p>
-
-</div>
-
 
 ### Ciência e Cultura
 A partir do portão de entrada, virando à direita, atrás do totem com o mapa, estão reunidas as espécies do **Conjunto 2**, na cor azul, do canteiro 4 ao 8. Aqui, as plantas nos mostram a fascinante união entre a **ciência, a tradição e a cultura.**
