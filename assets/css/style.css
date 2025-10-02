@@ -295,10 +295,11 @@ hr {
 /* ESTILOS PARA CARROSSEL/GALERIA HORIZONTAL (3 COLUNAS) */
 /* ================================================================= */
 
+/* Container principal para evitar margens que quebrem o mobile */
 .carousel-gallery-container {
-    max-width: 950px; /* Limita o tamanho máximo do carrossel */
+    max-width: 950px; 
     margin: 40px auto;
-    padding: 0 15px; /* Espaço nas laterais */
+    padding: 0 0 !important; /* Mude o padding para 0 */
 }
 
 /* Título e Instrução */
@@ -318,23 +319,25 @@ hr {
 /* Contêiner Flex principal: permite a rolagem */
 .carousel-gallery-flex {
     display: flex;
-    overflow-x: scroll; /* ESSENCIAL: Permite rolar na horizontal */
-    scroll-snap-type: x mandatory; /* Faz a rolagem 'grudar' em cada item */
-    -webkit-overflow-scrolling: touch; /* Melhora a rolagem em dispositivos móveis */
-    gap: 15px; /* Espaçamento entre as fotos */
-    padding-bottom: 20px; /* Espaço para a barra de rolagem não atrapalhar */
+    overflow-x: scroll; 
+    scroll-snap-type: x mandatory; 
+    -webkit-overflow-scrolling: touch; 
+    gap: 15px; 
+    padding: 0 15px 20px 15px; /* Adicione o padding interno para as laterais do scroll */
 }
 
 /* Estilo de cada Item/Foto */
 .gallery-item {
-    flex: 0 0 32%; /* 32% garante que 3 itens cabem na largura, com margem */
-    min-width: 250px; /* Largura mínima para telas menores */
-    height: 250px; /* Altura fixa para TODAS as fotos (padronização) */
+    /* Mude para 80% da largura do viewport (vw) para mobile */
+    flex: 0 0 80vw !important; /* Faz com que a foto ocupe 80% da tela do celular */
+    min-width: 80vw !important; /* Garante o tamanho mínimo */
+    
+    height: 250px; 
     position: relative;
     overflow: hidden;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    scroll-snap-align: center; /* Alinha o item no centro ao rolar */
+    scroll-snap-align: center; 
     transition: transform 0.3s ease;
 }
 
@@ -356,7 +359,7 @@ hr {
     padding: 10px;
     font-weight: bold;
     text-align: center;
-    font-size: 1.1em;
+    font-size: 0.9em;
 }
 
 /* Efeito de Destaque (Opcional, para destacar a foto central) */
