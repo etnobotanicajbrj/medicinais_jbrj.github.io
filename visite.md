@@ -243,7 +243,7 @@ Finalmente, chegamos ao canteiro 22 do **Sistema Digestório**, e destacamos a f
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/espinheira_santa.jpg" alt="Espinheira-santa">
-            <figcaption class="legenda-item"> ERVA-BALEEIRA (Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> ESPINHEIRA-SANTA (Fonseca-Kruel, K.)</figcaption>
         </figure>
         
         </div>
