@@ -200,11 +200,54 @@ Vamos agora seguir para o **Conjunto 3**, na cor verde, dos canteiros número 9 
 
 O primeiro é o canteiro 9, do **Sistema Nervoso**. Aqui podemos conhecer o famoso **guaraná** (_Paullinia cupana_), uma trepadeira nativa da Amazônia, com uma longa história na cultura indígena. Segundo a antiga narrativa dos Sateré-Mawé, a planta sagrada nasceu dos olhos de uma criança divina que foi sacrificada, representando a dualidade de sua semente: a parte branca (olho) e a parte escura (pupila). Considerada uma das maiores fontes naturais de cafeína, as sementes do guaraná são tradicionalmente usadas pelos povos indígenas para aumentar a energia e a resistência, além de tratar dores de cabeça e febres. Atualmente, a planta é um ingrediente usado globalmente, sendo a base de refrigerantes, bebidas energéticas e suplementos, explorado por suas propriedades estimulantes que melhoram o desempenho físico e mental.
 
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/guarana1.jpg" alt="Guaraná Fruto">
+            <figcaption class="legenda-item"> GUARANÁ (Fruto | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/guarana2.jpg" alt="Guaraná planta toda">
+            <figcaption class="legenda-item"> GUARANÁ (Planta toda | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
+
 Seguindo em frente, no mesmo corredor, está o canteiro 10, do **Sistema Músculo-Esquelético**. Aqui pode ser observada a **erva-baleeira** (_Varronia curassavica_), também conhecida como **caimbê** no litoral fluminense - Região dos Lagos. É um arbusto nativo da Mata Atlântica, valorizado por suas propriedades anti-inflamatórias. Na medicina popular, as folhas são tradicionalmente usadas (uso tópico) em compressas e chás para aliviar dores, reumatismo e inflamações. Há evidências científicas de que o óleo essencial contém compostos como o **alfa-humuleno** e o **beta-cariofileno**, que possuem forte ação analgésica. Atualmente, a erva-baleeira é utilizada na indústria farmacêutica em medicamentos fitoterápicos para o tratamento de dores e inflamações.
 
 Próximo, no canteiro 15 do **Sistema Respiratório**, você vai ver o **mandacaru** (_Cereus jamacaru_). É um cacto nativo da Caatinga e um símbolo de resistência. Sua floração noturna é vista como um sinal de esperança, indicando o fim da seca. Para as comunidades locais, o mandacaru é um recurso vital: seu **fruto** é comestível, e a planta armazena água, sendo uma fonte crucial de hidratação. Além de ser valorizado no paisagismo, o mandacaru também tem usos na medicina popular, onde o suco de seus ramos e a raiz são empregados no tratamento de problemas pulmonares e sinusite.
 
-Finalmente, chegamos ao canteiro 22 do **Sistema Digestório**, e destacamos a famosa e**spinheira-santa** (_Monteverdia ilicifolia_), um arbusto nativo do sul do Brasil, valorizada na medicina popular por seu uso no tratamento de problemas digestivos como **gastrite, úlceras e azia.** Suas folhas são a principal parte utilizada, e há diversas evidências científicas sobre suas propriedades anti-inflamatórias e protetoras da mucosa gástrica. Esta espécie também faz parte da **Relação Nacional de Plantas Medicinais de Interesse ao SUS (RENISUS)**, que valida seu uso terapêutico no sistema público de saúde. No entanto, o uso da planta requer atenção: seu nome popular pode levar a confusões com outras espécies tóxicas, reforçando a importância de ter certeza da planta correta para evitar riscos à saúde.
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/erva_baleeira.jpg" alt="Erva-baleeira Flor">
+            <figcaption class="legenda-item"> ERVA-BALEEIRA (Flor | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/mandacaru.jpg" alt="Mandacarú">
+            <figcaption class="legenda-item"> MANDACARÚ (Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
+
+Finalmente, chegamos ao canteiro 22 do **Sistema Digestório**, e destacamos a famosa **espinheira-santa** (_Monteverdia ilicifolia_), um arbusto nativo do sul do Brasil, valorizada na medicina popular por seu uso no tratamento de problemas digestivos como **gastrite, úlceras e azia.** Suas folhas são a principal parte utilizada, e há diversas evidências científicas sobre suas propriedades anti-inflamatórias e protetoras da mucosa gástrica. Esta espécie também faz parte da **Relação Nacional de Plantas Medicinais de Interesse ao SUS (RENISUS)**, que valida seu uso terapêutico no sistema público de saúde. No entanto, o uso da planta requer atenção: seu nome popular pode levar a confusões com outras espécies tóxicas, reforçando a importância de ter certeza da planta correta para evitar riscos à saúde.
+
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/espinheira_santa.jpg" alt="Espinheira-santa">
+            <figcaption class="legenda-item"> ERVA-BALEEIRA (Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
 
 Ao longo desses canteiros, você pôde notar a incrível precisão do conhecimento medicinal, mostrando a relação íntima entre as plantas e o nosso corpo.
 
@@ -214,20 +257,111 @@ Caminhando até o fundo da coleção, de cara com o parquinho infantil, está o 
 
 Um ótimo exemplo é a **ora-pro-nobis** (_Pereskia aculeata_), que está presente no canteiro 25, 27 e 29. Planta volúvel, que cresce como trepadeira, nativa do Brasil, conhecida por seu alto valor nutricional, sendo uma excelente fonte de proteína, fibras, vitaminas e minerais como ferro e cálcio. É importante notar que esse nome popular também é associado a outras espécies do gênero _Pereskia_, como a _Pereskia grandifolia_, presente nos canteiros 25 e 33. Devido a essa riqueza de proteína, é popularmente chamada de "carne de pobre". Suas folhas, flores e frutos são comestíveis e amplamente usados na culinária, especialmente em Minas Gerais. Na medicina popular, é empregada para combater a anemia e como anti-inflamatório e cicatrizante.
 
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/ora_pro_nobis1.jpg" alt="Ora-pro-nobis (Pereskia aculeata)">
+            <figcaption class="legenda-item"> ORA-PRO-NOBIS (P. aculeata | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/ora_pro_nobis2.jpg" alt="Ora-pro-nobis (Pereskia grandifolia)">
+            <figcaption class="legenda-item"> ORA-PRO-NOBIS (P. grandifolia | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
+
 Ainda no fundo da coleção, ao lado da estufa, no canteiro 28, você verá a **aroeira ou aroeira-vermelha** (_Schinus terebinthifolia_), que também dá origem ao nome recente de **pimenta-rosa**. É uma planta nativa do Brasil, com um uso medicinal e cultural amplamente documentado desde o século XVII na obra _Historia Naturalis Brasiliae_. É uma planta versátil, sendo utilizada em rituais espirituais na gastronomia e também na medicina popular para tratar inflamações e feridas, com evidências científicas sobre essas propriedades, compondo a **Relação Nacional de Plantas Medicinais de Interesse ao SUS (RENISUS)**. No entanto, é preciso ter cautela, pois a planta pertence à mesma família do caju (Anacardiaceae), podendo causar **reações alérgicas** em pessoas sensíveis. Além disso, o consumo em excesso pode provocar desconforto. Vale ressaltar que o nome popular "aroeira" abrange outras espécies, como a aroeira-do-sertão (_Myracrodruon urundeuva_).
+
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/aroeira1.jpg" alt="Aroeira">
+            <figcaption class="legenda-item"> AROEIRA </figcaption>
+        </figure>
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/aroeira2.jpg" alt="Aroeira Fruto">
+            <figcaption class="legenda-item"> AROEIRA (Fruto | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
 
 ### Zonas de Trocas
 Próximo à sala de pesquisa (ponto C do mapa) entramos na **Zona de Trocas**. Este é um espaço que conta a história de como plantas de outras regiões do mundo, como a **citronela**, da Ásia, ou a **pimenta-do-reino**, da Índia, foram incorporadas à cultura brasileira.
 
 A **citronela** (_Cymbopogon winterianus_), no canteiro 30, é uma planta herbácea da família das Poaceae, originária do sul da Ásia. Ela é amplamente conhecida por seu óleo essencial com um forte e agradável aroma cítrico, sendo seu uso mais popular como **repelente de insetos**. O cheiro da citronela mascara os odores que atraem mosquitos e outros insetos, tornando-se uma solução natural e eficaz. Além disso, a planta é utilizada em perfumes, sabonetes e velas, e também possui propriedades antifúngicas e anti-inflamatórias na medicina popular.
 
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/citronela.jpg" alt="Citronela">
+            <figcaption class="legenda-item"> CITRONELA </figcaption>
+        </figure>
+        
+        </div>
+</div>
+
 A **pimenta-do-reino** (_Piper nigrum_), no canteiro 31, é uma trepadeira nativa do sul da Índia e uma das especiarias mais antigas e valorizadas do mundo, tendo sido usada como moeda de troca em diversas civilizações. Embora seja um tempero global, sua chegada e popularização no Brasil são relativamente recentes: foi introduzida no estado do Pará a partir da década de 1930, por **imigrantes japoneses** que adaptaram seu cultivo ao clima amazônico. Atualmente, o Brasil é um dos maiores produtores e exportadores da especiaria, que é consumida em grão, moída ou em pó, sendo um dos temperos mais versáteis da culinária mundial.
+
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/pimenta_preta1.jpg" alt="Pimenta-preta fruto verde">
+            <figcaption class="legenda-item"> PIMENTA-DO-REINO (Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/pimenta_preta2.jpg" alt="Pimenta-preta Fruto">
+            <figcaption class="legenda-item"> PIMENTA-DO-REINO (Fruto | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
 
 No canteiro 33, **Contribuição Brasileira**, não deixe de notar a **pitanga** (_Eugenia uniflora_). Nativa do Brasil, suas folhas e frutos têm usos medicinais variados e o fruto é popular na nossa culinária.
 
 A **pitanga** é um nome comum que se refere a diversas plantas, mas a espécie mais conhecida é a _Eugenia uniflora_, um arbusto nativo do Brasil, conhecido por seus frutos saborosos de cor vibrante. O uso da pitanga no país é tão antigo que já era documentado no século XVII na obra _Historia Naturalis Brasiliae_, ressaltando a sua importância na culinária e na medicina popular. O fruto, além de ser consumido in natura, é usado em sucos, geleias e doces. As folhas, por sua vez, são empregadas em chás com propriedades medicinais, principalmente como um anti-inflamatório e antioxidante. A planta é oficialmente reconhecida e faz parte da **Relação Nacional de Plantas Medicinais de Interesse ao SUS (RENISUS)**.
 
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/pitanga1.jpg" alt="Pitanga fruto">
+            <figcaption class="legenda-item"> PITANGA (Fruto | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/pitanga2.jpg" alt="Pitanga flor">
+            <figcaption class="legenda-item"> PITANGA (Flor | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
+
 Para fechar o passeio pelas plantas, ainda no canteiro 33, destacamos espécies como o **caapi ou cipó-caapi, ou mariri** (_Banisteriopsis caapi_). É uma liana (trepadeira lenhosa) nativa da bacia amazônica, reverenciada por diversos povos indígenas como uma planta sagrada e medicinal. Por séculos, ela tem sido o principal ingrediente da ayahuasca, uma bebida psicoativa usada em rituais de cura e comunicação espiritual. A eficácia da bebida reside na sinergia entre o caapi e outras plantas, como a chacrona ou rainha (Psychotria viridis), presente neste mesmo canteiro, que é rica em uma substância chamada DMT. Enquanto a chacrona contém a substância psicoativa, o caapi, com seus alcaloides, permite que o DMT se torne ativo quando ingerido, tornando a mistura funcional. Embora o cipó-caapi seja um elemento central em práticas espirituais e culturais, a ciência moderna o tem estudado ativamente. O uso e a pesquisa com o caapi e a ayahuasca são controlados e regulamentados, mas o interesse científico continua a explorar seus potenciais terapêuticos, especialmente no tratamento de depressão e transtornos de ansiedade.
+
+<div class="imagem-bloco-container">
+    <div class="imagens-flex">
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/caapi1.jpg" alt="Caapi">
+            <figcaption class="legenda-item"> CAAPI (Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        <figure class="imagem-flex-item">
+            <img src="{{ site.baseurl }}/assets/images/plantas/caapi2.jpg" alt="Caapi flor">
+            <figcaption class="legenda-item"> CAAPI (Flor | Fonseca-Kruel, K.)</figcaption>
+        </figure>
+        
+        </div>
+</div>
 
 ---
 
