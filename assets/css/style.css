@@ -241,10 +241,15 @@ hr {
     margin: 0 !important; 
 }
 
-/* O texto flui ao lado da imagem. */
-.rodape-texto-container {
-    overflow: hidden; /* Força o texto a ocupar o espaço restante (ao lado do float) */
+/* Estilo para o texto que flui ao lado da imagem no rodapé */
+.rodape-texto-container p {
+    /* Garante que qualquer parágrafo no contêiner do rodapé comece à esquerda */
+    text-align: left !important; 
+    /* Zera a margem superior que pode estar empurrando o texto para baixo */
+    margin-top: 0 !important;
+    font-size: 0.9em !important; /* Ajuste este valor. '1em' é o tamanho normal. */
 }
+
 /* ================================================================= */
 /* GALERIA FLEXBOX DE COLUNAS (1, 2 ou 3 Imagens com Legenda) */
 /* ================================================================= */
