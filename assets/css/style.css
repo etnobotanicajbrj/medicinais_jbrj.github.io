@@ -84,9 +84,9 @@ main {
 .page-footer {
     background-color: #a37552 !important; /* Nova cor de fundo */
     color: white !important;
-    text-align: center !important;
-    padding: 15px 0 !important; /* Rodapé mais estreito */
-    margin-top: 50px !important;
+    text-align: left !important;
+    padding: 10px 0 !important; /* Rodapé mais estreito */
+    margin-top: 30px !important;
 }
 
 .page-footer p {
@@ -221,8 +221,8 @@ hr {
 /* Contêiner da Imagem (Opcional, mas útil para espaçamento) */
 .rodape-imagem-container {
     float: left !important; /* Faz a imagem e seu contêiner flutuarem à esquerda */
-    margin-right: 15px !important; /* Espaço entre a imagem e o texto */
-    margin-bottom: 5px !important;
+    margin-right: 8px !important; /* Espaço entre a imagem e o texto */
+    margin-bottom: 2px !important;
 }
 
 /* Imagem Retangular Pequena */
