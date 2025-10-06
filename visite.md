@@ -177,19 +177,19 @@ Virando-se para o lado oposto ao muro, bem ao centro, está o canteiro 7, **"Rac
         </div>
 </div>
 
-Também ao centro, no canteiro 8, **"Na Boca dos Povos"**, conheça o **cipó-mil-homens** (_Aristolochia cymbifera_), uma trepadeira nativa do Brasil. Essa planta nos ensina que o nome de uma espécie pode mudar completamente dependendo da região e da cultura, sendo conhecida também como **ambaiá-caá, jarrinha** ou **angelicó**. Tradicionalmente, essa espécie era utilizada na medicina tradicional para diversas finalidades, como auxiliar em partos, tratar problemas digestivos e nervosos, entre outras. No entanto, é importante destacar que o consumo desta planta é perigoso, pois evidências científicas identificaram que esta espécie contém o **ácido aristolóquico**, uma substância que causa danos renais severos, entre outros problemas.
+Também ao centro, no canteiro 8, **"Na Boca dos Povos"**, conheça o **cipó-milhomem** ou **cipó-milhome** (_Aristolochia cymbifera_), uma trepadeira nativa do Brasil. Essa planta nos ensina que o nome de uma espécie pode mudar completamente dependendo da região e da cultura, sendo conhecida também como **ambaiá-caá, jarrinha** ou **angelicó**. Tradicionalmente, essa espécie era utilizada na medicina tradicional para diversas finalidades, como auxiliar em partos, tratar problemas digestivos e nervosos, entre outras. No entanto, é importante destacar que o consumo desta planta é perigoso, pois evidências científicas identificaram que esta espécie contém o **ácido aristolóquico**, uma substância que causa danos renais severos, entre outros problemas.
 
 <div class="imagem-bloco-container">
     <div class="imagens-flex">
         
         <figure class="imagem-flex-item">
-            <img src="{{ site.baseurl }}/assets/images/plantas/cipo_mil_homens1.jpg" alt="Cipó Mil Homens Flor">
-            <figcaption class="legenda-item"> CIPÓ-MIL-HOMENS (Flor | Fonseca-Kruel, K.)</figcaption>
+            <img src="{{ site.baseurl }}/assets/images/plantas/cipo_mil_homens1.jpg" alt="Cipó Milhomem Flor">
+            <figcaption class="legenda-item"> CIPÓ-MILHOMEM (Flor | Fonseca-Kruel, K.)</figcaption>
         </figure>
         
         <figure class="imagem-flex-item">
-            <img src="{{ site.baseurl }}/assets/images/plantas/cipo_mil_homens2.jpg" alt="Cipó Mil Homens planta toda">
-            <figcaption class="legenda-item"> CIPÓ-MIL-HOMENS (Planta toda | Fonseca-Kruel, K.)</figcaption>
+            <img src="{{ site.baseurl }}/assets/images/plantas/cipo_mil_homens2.jpg" alt="Cipó Milhomem planta toda">
+            <figcaption class="legenda-item"> CIPÓ-MILHOMEM (Planta toda | Fonseca-Kruel, K.)</figcaption>
         </figure>
         
         </div>
@@ -345,7 +345,7 @@ A **pitanga** é um nome comum que se refere a diversas plantas, mas a espécie 
         </div>
 </div>
 
-Para fechar o passeio pelas plantas, ainda no canteiro 33, destacamos espécies como o **caapi ou cipó-caapi, ou mariri** (_Banisteriopsis caapi_). É uma liana (trepadeira lenhosa) nativa da bacia amazônica, reverenciada por diversos povos indígenas como uma planta sagrada e medicinal. Por séculos, ela tem sido o principal ingrediente da ayahuasca, uma bebida psicoativa usada em rituais de cura e comunicação espiritual. A eficácia da bebida reside na sinergia entre o caapi e outras plantas, como a chacrona ou rainha (Psychotria viridis), presente neste mesmo canteiro, que é rica em uma substância chamada DMT. Enquanto a chacrona contém a substância psicoativa, o caapi, com seus alcaloides, permite que o DMT se torne ativo quando ingerido, tornando a mistura funcional. Embora o cipó-caapi seja um elemento central em práticas espirituais e culturais, a ciência moderna o tem estudado ativamente. O uso e a pesquisa com o caapi e a ayahuasca são controlados e regulamentados, mas o interesse científico continua a explorar seus potenciais terapêuticos, especialmente no tratamento de depressão e transtornos de ansiedade.
+Para fechar o passeio pelas plantas, ainda no canteiro 33, destacamos espécies como o **caapi ou cipó-caapi, ou mariri** (_Banisteriopsis caapi_). É uma liana (trepadeira lenhosa) nativa da bacia amazônica, reverenciada por diversos povos indígenas como uma planta sagrada e medicinal. Por séculos, ela tem sido o principal ingrediente da ayahuasca, uma bebida psicoativa usada em rituais de cura e comunicação espiritual. A eficácia da bebida reside na sinergia entre o caapi e outras plantas, como a chacrona ou rainha (_Psychotria viridis_), presente neste mesmo canteiro, que é rica em uma substância chamada DMT. Enquanto a chacrona contém a substância psicoativa, o caapi, com seus alcaloides, permite que o DMT se torne ativo quando ingerido, tornando a mistura funcional. Embora o cipó-caapi seja um elemento central em práticas espirituais e culturais, a ciência moderna o tem estudado ativamente. O uso e a pesquisa com o caapi e a ayahuasca são controlados e regulamentados, mas o interesse científico continua a explorar seus potenciais terapêuticos, especialmente no tratamento de depressão e transtornos de ansiedade.
 
 <div class="imagem-bloco-container">
     <div class="imagens-flex">
