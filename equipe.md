@@ -78,6 +78,8 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 #### Thalita Lima [🔗](http://lattes.cnpq.br/9806013473257535)
 ##### Bolsista do Programa de Iniciação Científica (PIBIC/JBRJ)
 
+---
+
 ## Colaboradores
 
 #### Alana Monção
