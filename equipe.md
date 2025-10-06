@@ -4,9 +4,9 @@ title: Equipe
 permalink: /equipe/
 ---
 
-# Equipe do Grupo de Etnobotânica
+# Equipe do Grupo Etnobotânica
 
-Este grupo de pesquisa do **Instituto de Pesquisas Jardim Botânico do Rio de Janeiro** é composto por pesquisadores, pós-graduandos, graduandos e voluntários que realizam projetos relacionados à Etnobotânica.
+Este grupo de pesquisa do **Instituto de Pesquisas Jardim Botânico do Rio de Janeiro** é composto por pesquisadores, pós-graduandos, graduandos, voluntários e colaboradores que realizam projetos relacionados à Etnobotânica e que atuam diretamente na manutenção e nas atividades realizadas na Coleção Temática de Plantas Medicinais e na Coleção de Etnobôtânica (RBetno) .
 
 ---
 
@@ -17,11 +17,11 @@ Este grupo de pesquisa do **Instituto de Pesquisas Jardim Botânico do Rio de Ja
 </div> 
 
 #### Dra. Viviane Stern da Fonseca Kruel [🔗](http://lattes.cnpq.br/0560294487722709) 
-É pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temática de Plantas Medicinais e da Coleção Etnobotânica (RBetno). Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênfase nos biomas Mata Atlântica e Amazônia, fortalecendo a interação entre saberes científicos e tradicionais, além de apoiar ações de repatriamento de conhecimentos. Atua como docente nos Programas de Pós-Graduação Acadêmico em Botânica (PPGA/ENBT) e Profissional em Biodiversidade em Unidades de Conservação (PPGP/ENBT | JBRJ-ICMBio) e na Especialização em Plantas Medicinais e Fitoterapia (UFRJ/JBRJ/ABFIT). Viviane é mãe de trigêmeos: Ana, João e Eduardo.
+Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temática de Plantas Medicinais e da Coleção de Etnobotânica (RBetno), desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênfase nos biomas Mata Atlântica e Amazônia, fortalecendo a interação entre saberes científicos e tradicionais. Atua como docente nos Programas de Pós-Graduação Acadêmico em Botânica (PPGA/ENBT) e Profissional em Biodiversidade em Unidades de Conservação (PPGP/ENBT | JBRJ-ICMBio) e na Especialização em Plantas Medicinais e Fitoterapia (UFRJ/JBRJ/ABFIT). Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 
 ---
 
-## Estudantes e Colaboradores
+## Estudantes
 
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/camila.png" alt="Camila">
@@ -35,7 +35,7 @@ Este grupo de pesquisa do **Instituto de Pesquisas Jardim Botânico do Rio de Ja
     <img src="{{ site.baseurl }}/assets/images/luiz_fernando.png" alt="Luiz Fernando">
 </div> 
 
-#### Me. Luiz Fernando de Melo [🔗](http://lattes.cnpq.br/4258771891384632)
+#### Luiz Fernando de Melo [🔗](http://lattes.cnpq.br/4258771891384632)
 ##### Doutorando no PPGP/ENBT
 
 <div class="limpar-float"></div>
@@ -51,7 +51,7 @@ Este grupo de pesquisa do **Instituto de Pesquisas Jardim Botânico do Rio de Ja
     <img src="{{ site.baseurl }}/assets/images/mateus.png" alt="Mateus">
 </div> 
 
-#### Me. Mateus Salim [🔗](http://lattes.cnpq.br/0248529376853174)
+#### Mateus Salim [🔗](http://lattes.cnpq.br/0248529376853174)
 ##### Doutorando no PPGA/ENBT
 
 <div class="limpar-float"></div>
@@ -59,7 +59,7 @@ Este grupo de pesquisa do **Instituto de Pesquisas Jardim Botânico do Rio de Ja
     <img src="{{ site.baseurl }}/assets/images/nicky.png" alt="nicky">
 </div>
 
-#### Me. Nicky van Luijk [🔗](http://lattes.cnpq.br/3013537979299517)
+#### Nicky van Luijk [🔗](http://lattes.cnpq.br/3013537979299517)
 ##### Doutoranda no PPGP/ENBT
 
 <div class="limpar-float"></div>
@@ -77,3 +77,20 @@ Este grupo de pesquisa do **Instituto de Pesquisas Jardim Botânico do Rio de Ja
  
 #### Thalita Lima [🔗](http://lattes.cnpq.br/9806013473257535)
 ##### Bolsista do Programa de Iniciação Científica (PIBIC/JBRJ)
+
+## Colaboradores
+
+#### Alana Monção
+##### Recepcionista da Coleção Temática de Plantas Medicinais
+
+#### Manuel Júnior 
+##### Recepcionista da Coleção Temática de Plantas Medicinais
+
+#### Maria Paula Vasconcelos Mesquita
+##### Claboradora da Coleção de Etnobotânica (RBetno)
+
+#### Priscila Coelho
+##### Jardineira da Coleção Temática de Plantas Medicinais 
+
+#### Yara Brito
+##### Colaboradora da Coleção Temática de Plantas Medicinais
