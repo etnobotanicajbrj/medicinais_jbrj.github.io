@@ -208,25 +208,43 @@ hr {
     margin: 30px 0 !important; /* Adiciona um espaço de separação vertical entre os blocos */
 }
 /* ================================================================= */
-/* ESTILO ESPECÍFICO PARA IMAGEM PEQUENA NO RODAPÉ */
+/* ESTILO ESPECÍFICO PARA IMAGEM PEQUENA E ESQUERDA NO RODAPÉ */
 /* ================================================================= */
-.imagem-rodape {
-    /* Dimensões Fixas e Pequenas (Ajuste estes valores!) */
-    width: 40px !important;    /* Largura de 60 pixels (bem pequena) */
-    height: 20px !important;   /* Altura de 40 pixels (retangular) */
-    
-    /* Anula herança de flutuação e arredondamento */
-    float: none !important; 
-    border-radius: 0 !important;
-    
-    /* Garante que ela não distorça se o tamanho for diferente */
-    object-fit: contain !important; 
-    
-    /* Margem para centralizar ou posicionar a imagem */
-    margin: 5px auto 10px auto !important; 
-    display: block !important; /* Ajuda a centralizar se estiver sozinha */
+
+/* Contêiner do Rodapé (Para alinhar o texto e a imagem) */
+.rodape-conteudo {
+    /* Ajuste a largura máxima do seu rodapé se necessário, mas geralmente é 100% */
+    padding: 10px 20px; 
+    overflow: hidden; /* Importante para conter os elementos flutuantes */
 }
 
+/* Contêiner da Imagem (Opcional, mas útil para espaçamento) */
+.rodape-imagem-container {
+    float: left !important; /* Faz a imagem e seu contêiner flutuarem à esquerda */
+    margin-right: 15px !important; /* Espaço entre a imagem e o texto */
+    margin-bottom: 5px !important;
+}
+
+/* Imagem Retangular Pequena */
+.imagem-rodape {
+    /* Dimensões Fixas e Pequenas (Ajuste estes valores!) */
+    width: 40px !important;
+    height: 20px !important;
+    
+    /* Remove qualquer flutuação ou alinhamento central anterior */
+    float: none !important; /* Mantenha 'none' aqui para não interferir com o container pai */
+    display: block !important;
+    
+    /* Anula estilos anteriores */
+    border-radius: 0 !important;
+    object-fit: contain !important; 
+    margin: 0 !important; 
+}
+
+/* O texto flui ao lado da imagem. */
+.rodape-texto-container {
+    overflow: hidden; /* Força o texto a ocupar o espaço restante (ao lado do float) */
+}
 /* ================================================================= */
 /* GALERIA FLEXBOX DE COLUNAS (1, 2 ou 3 Imagens com Legenda) */
 /* ================================================================= */
