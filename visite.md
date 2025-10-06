@@ -301,7 +301,7 @@ A **citronela** (_Cymbopogon winterianus_), no canteiro 30, é uma planta herbá
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/citronela.jpg" alt="Citronela">
-            <figcaption class="legenda-item"> CITRONELA </figcaption>
+            <figcaption class="legenda-item"> CITRONELA (Fonseca-Kruel, K.)</figcaption>
         </figure>
         
         </div>
