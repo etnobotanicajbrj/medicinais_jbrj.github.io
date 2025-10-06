@@ -212,8 +212,8 @@ hr {
 /* ================================================================= */
 .imagem-rodape {
     /* Dimensões Fixas e Pequenas (Ajuste estes valores!) */
-    width: 60px !important;    /* Largura de 60 pixels (bem pequena) */
-    height: 40px !important;   /* Altura de 40 pixels (retangular) */
+    width: 40px !important;    /* Largura de 60 pixels (bem pequena) */
+    height: 20px !important;   /* Altura de 40 pixels (retangular) */
     
     /* Anula herança de flutuação e arredondamento */
     float: none !important; 
@@ -227,11 +227,6 @@ hr {
     display: block !important; /* Ajuda a centralizar se estiver sozinha */
 }
 
-/* Opcional: Se a imagem estiver muito à esquerda, use estas regras: */
-.rodape-logo {
-    width: 100%;
-    text-align: center; /* Centraliza o conteúdo dentro do div do rodapé */
-}
 /* ================================================================= */
 /* GALERIA FLEXBOX DE COLUNAS (1, 2 ou 3 Imagens com Legenda) */
 /* ================================================================= */
