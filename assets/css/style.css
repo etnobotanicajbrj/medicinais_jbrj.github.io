@@ -293,8 +293,8 @@ hr {
 
 /* Estilos da Imagem (Padroniza o tamanho e evita diferença de altura) */
 .imagem-flex-item img {
-    width: 100% !important;
-    height: 150px !important; /* ALTURA FIXA para as imagens em colunas (Ajuste aqui) */
+    width: 200% !important;
+    height: 200px !important; /* ALTURA FIXA para as imagens em colunas (Ajuste aqui) */
     display: block !important;
     object-fit: cover !important; /* Corta o excesso da imagem, evitando distorção */
 }
