@@ -82,17 +82,42 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 
 ## Colaboradores
 
+<div class="limpar-float"></div>
+<div class="imagem-com-texto-esquerda">
+    <img src="{{ site.baseurl }}/assets/images/alana.png" alt="Alana">
+</div>
+
 #### Alana Monção
 ##### Recepcionista da Coleção Temática de Plantas Medicinais
 
-#### Manuel Júnior 
+<div class="limpar-float"></div>
+<div class="imagem-com-texto-esquerda">
+    <img src="{{ site.baseurl }}/assets/images/manoel.png" alt="Manoel">
+</div>
+
+#### Manoel Junior 
 ##### Recepcionista da Coleção Temática de Plantas Medicinais
+
+<div class="limpar-float"></div>
+<div class="imagem-com-texto-esquerda">
+    <img src="{{ site.baseurl }}/assets/images/maria_paula.png" alt="Maria Paula">
+</div>
 
 #### Maria Paula Vasconcelos Mesquita
 ##### Claboradora da Coleção de Etnobotânica (RBetno)
 
+<div class="limpar-float"></div>
+<div class="imagem-com-texto-esquerda">
+    <img src="{{ site.baseurl }}/assets/images/priscila.png" alt="Priscila">
+</div>
+
 #### Priscila Coelho
 ##### Jardineira da Coleção Temática de Plantas Medicinais 
+
+<div class="limpar-float"></div>
+<div class="imagem-com-texto-esquerda">
+    <img src="{{ site.baseurl }}/assets/images/yara.png" alt="Yara">
+</div>
 
 #### Yara Brito
 ##### Colaboradora da Coleção Temática de Plantas Medicinais
