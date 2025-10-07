@@ -119,5 +119,5 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
     <img src="{{ site.baseurl }}/assets/images/yara.png" alt="Yara">
 </div>
 
-#### Yara Brito
+#### Yara Lucia Oliveira de Britto
 ##### Colaboradora da Coleção Temática de Plantas Medicinais
