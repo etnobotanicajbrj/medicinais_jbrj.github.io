@@ -1,3 +1,7 @@
+/* ========================== */
+/* ESTILO PARA TODO O SITE
+/* ========================== */
+
 /* Estilos globais para o corpo do site */
 body {
     font-family: Arial, sans-serif;
@@ -8,6 +12,19 @@ body {
     flex-direction: column;
     min-height: 100vh;
 }
+
+/* Estilos para o conteúdo principal */
+main {
+    padding: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+    flex-grow: 1;
+    text-align: justify !important;
+}
+
+/* =========================== */
+/* ESTILO PARA O CABEÇALHO
+/* =========================== */
 
 /* Estilos para o cabeçalho e navegação */
 header {
@@ -71,15 +88,30 @@ header {
     background-color: #c8d4c7 !important; /* Nova cor de destaque */
     color: #2E6F40 !important; /* Cor do texto na página atual */
 }
-
-/* Estilos para o conteúdo principal */
-main {
-    padding: 20px;
-    max-width: 900px;
-    margin: 0 auto;
-    flex-grow: 1;
-    text-align: justify !important;
+/* Estilo para o ícone social no cabeçalho */
+.horizontal-nav .social-icon {
+    /* Garante que o ícone tenha um espaçamento adequado */
+    margin: 0 10px 0 20px !important; 
+    padding: 0 !important;
+    display: inline-block;
 }
+
+/* Estilo para o ícone em si */
+.horizontal-nav .social-icon a {
+    font-size: 1em !important; /* Torna o ícone um pouco maior que o texto */
+    color: white !important; /* Use a cor verde ou a cor que combina com seu menu */
+    line-height: 1; /* Garante alinhamento vertical */
+}
+
+/* Opcional: Efeito ao passar o mouse */
+.horizontal-nav .social-icon a:hover {
+    color: #E1306C !important; /* Cor do Instagram ao passar o mouse */
+}
+
+/* =========================== */
+/* ESTILO PARA O RODAPÉ
+/* =========================== */
+
 /* Estilos para o rodapé */
 .page-footer {
     background-color: #a37552 !important; /* Nova cor de fundo */
@@ -92,6 +124,10 @@ main {
 .page-footer p {
     margin: 0 !important;
 }
+
+/* ================================= */
+/* ESTILO PARA OS TIPOS DE BOTÃO
+/* ================================= */
 
 /* Estilos para o botão Primário */
 .button-primary {
@@ -130,6 +166,10 @@ main {
     background-color: #4C8E5A !important; /* Cor de fundo mais escura ao passar o mouse */
 }
 
+/* =================================================================== */
+/* ESTILO PARA OS TIPOS DE CAIXAS DE INFORMAÇÃO E LINHAS DIVISÓRIAS
+/* =================================================================== */
+
 /* Estilos para a caixa de informação */
 .caixa-info {
     background-color: #f0f7f4 !important; /* Cor de fundo suave que combina com o tema */
@@ -159,6 +199,11 @@ hr {
     margin: 40px auto !important;
     width: 100% !important; /* Linha com 100% da largura */
 }
+
+/* ================================= */
+/* ESTILO PARA O PLAYER DE AÚDIO
+/* ================================= */
+
 /* Estilos para o player de áudio */
 .audio-player {
     width: 100% !important; /* Faz o player ocupar toda a largura disponível */
@@ -166,6 +211,11 @@ hr {
     display: block !important;
     margin: 20px auto !important; /* Centraliza o player na página */
 }
+
+/* ================================= */
+/* ESTILO PARA OS TIPOS DE IMAGENS
+/* ================================= */
+
 /* Para centralizar uma imagem, garantindo que o texto não flua ao redor */
 .imagem-centralizada {
     display: block !important;
@@ -207,9 +257,6 @@ hr {
     height: 1px !important; /* Ajuda a garantir que a separação seja visível */
     margin: 30px 0 !important; /* Adiciona um espaço de separação vertical entre os blocos */
 }
-/* ================================================================= */
-/* ESTILO ESPECÍFICO PARA IMAGEM PEQUENA E ESQUERDA NO RODAPÉ */
-/* ================================================================= */
 
 /* Contêiner do Rodapé (Para alinhar o texto e a imagem) */
 .rodape-conteudo {
@@ -249,10 +296,6 @@ hr {
     margin-top: 0 !important;
     font-size: 0.9em !important; /* Ajuste este valor. '1em' é o tamanho normal. */
 }
-
-/* ================================================================= */
-/* GALERIA FLEXBOX DE COLUNAS (1, 2 ou 3 Imagens com Legenda) */
-/* ================================================================= */
 
 /* Container Principal do Bloco (Controla a largura total do bloco) */
 .imagem-bloco-container {
