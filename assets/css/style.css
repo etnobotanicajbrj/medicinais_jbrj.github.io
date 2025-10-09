@@ -98,8 +98,8 @@ header {
 
 /* Estilo para o ícone em si */
 .horizontal-nav .social-icon a {
-    font-size: 1em !important; /* Torna o ícone um pouco maior que o texto */
-    color: white !important; /* Use a cor verde ou a cor que combina com seu menu */
+    font-size: 1.3em !important; /* Torna o ícone um pouco maior que o texto */
+    color: #2E6F40 !important; /* Use a cor verde ou a cor que combina com seu menu */
     line-height: 1; /* Garante alinhamento vertical */
 }
 
