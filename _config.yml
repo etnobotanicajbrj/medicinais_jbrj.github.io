@@ -3,12 +3,10 @@ title: Grupo de Etnobotânica - Jardim Botânico do Rio de Janeiro
 description: "Site do grupo de pesquisa em Etnobotânica e da Coleção Temática de Plantas Medicinais do Jardim Botânico do Rio de Janeiro."
 author: Viviane S. Fonseca Kruel
 
-# 1. URL Completa do seu domínio (sem a barra final)
-url: "https://etnobotanicajbrj.github.io" 
-
-# 2. O Subdiretório do repositório (com a barra inicial)
-# Isso diz ao Jekyll para prefixar todos os links com este caminho
-baseurl: "/medicinas_jbrj.github.io" 
+# Base URL
+# Se seu site não estiver no domínio principal, use o nome do repositório
+baseurl: "/medicinais_jbrj.github.io" 
+# Exemplo se o repositório fosse 'meu-projeto': baseurl: "/meu-projeto"
 
 # Build settings
 # O tema é essencial. Você pode usar um tema padrão como "minima"
