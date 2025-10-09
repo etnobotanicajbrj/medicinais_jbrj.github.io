@@ -1,4 +1,4 @@
----
+ ---
 layout: default 
 title: Home
 ---
@@ -10,9 +10,7 @@ Descubra a **conexão entre as plantas**, a **ciência** e os **saberes tradicio
 
 **Conheça a história** e os **objetivos** da Coleção Temática de Plantas Medicinais e descubra as histórias de cerca de 170 espécies medicinais, entre nativas e exóticas.
 
-**Visite de maneira autônoma através do texto e do aúdio!** 
-
-**Clique no botão abaixo e inicie sua visita!**
+**Visite de maneira autônoma através do texto e do aúdio! Clique no botão abaixo e inicie sua visita!**
 
 <p style="text-align: center;">
     <a href="{{ site.baseurl }}/visite/" class="button-primary">Visita Autoguiada</a>
