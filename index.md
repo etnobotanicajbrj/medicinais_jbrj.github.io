@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 
+
 # Grupo Etnobotânica - Jardim Botânico do Rio de Janeiro
 
 ## Venha realizar sua visita autoguiada à Coleção Temática de Plantas Medicinais do JBRJ!
