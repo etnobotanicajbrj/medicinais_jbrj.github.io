@@ -96,10 +96,10 @@ header {
     display: inline-block;
 }
 
-/* Estilo para o ícone em si */
-.horizontal-nav .social-icon a {
-    font-size: 1.3em !important; /* Torna o ícone um pouco maior que o texto */
-    color: #2E6F40 !important; /* Use a cor verde ou a cor que combina com seu menu */
+/* Estilo para o ícone em si, dentro do cabeçalho */
+.horizontal-nav .social-icon a i {
+    color: #2E6F40 !important; /* Garante que o ícone não seja transparente ou branco */
+    font-size: 1.3em !important; /* Garante um tamanho que chame a atenção */
     line-height: 1; /* Garante alinhamento vertical */
 }
 
