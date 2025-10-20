@@ -116,7 +116,7 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
-    <img src="{{ site.baseurl }}/assets/images/yara.png" alt="Yara">
+    <img src="{{ site.baseurl }}/assets/images/sem_foto.png" alt="Yara">
 </div>
 
 #### Yara Lucia Oliveira de Britto
