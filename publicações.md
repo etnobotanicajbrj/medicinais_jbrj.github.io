@@ -22,7 +22,7 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
     </div>
 </a>
 
-#### Plantas medicinais e conservação da diversidade vegetal e cultural na perspectiva da Covid-19 (2021)
+<h4>Plantas medicinais e conservação da diversidade vegetal e cultural na perspectiva da Covid-19 (2021)</h4>
 
 Autores: Maria Eduarda Rodrigues Neves, Luisa Ridolph Tostes Braga, Luíza Fernandes de Oliveira, Gustavo Tavares, Leopoldo Clemente Baratto e Viviane Stern da Fonseca-Kruel.
 
