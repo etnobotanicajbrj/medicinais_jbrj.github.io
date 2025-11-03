@@ -39,14 +39,48 @@ Autores: Maria Eduarda Rodrigues Neves, Luisa Ridolph Tostes Braga, Luíza Ferna
     </div>
 </a>
 
-#### Plantas alimentícias e medicinais: uma coleção viva e de uso múltiplo no Jardim Botânico do Rio de Janeiro (2021)
+<h4>Plantas alimentícias e medicinais: uma coleção viva e de uso múltiplo no Jardim Botânico do Rio de Janeiro (2021)</h4>
 
 Autores: Maria Eduarda Rodrigues Neves, Viviane Stern da Fonseca-Kruel e Odara Horta Boscolo.
 
 </div>
 
 ---
-     
+
+<div class="publicacao-bloco-float">
+
+<a href="https://cloud.jbrj.gov.br/s/QBrkMcexqWdnPQR?dir=/&openfile=true" class="publicacao-float-link publicacao-float-right" target="_blank">
+    <img src="{{ site.baseurl }}/assets/images/publicacoes/guia_restinga.png" alt="Guia Restinga">
+    <div class="publicacao-legenda-float">
+       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
+    </div>
+</a>
+
+<h4>Restingas da Região dos Lagos : Guia etnobotânico para olhar, aprender e cultivar saberes (2025)</h4>
+
+Autores: Viviane Stern da Fonseca Kruel, Nicky van Luijk, Giovana Schulze de Macedo e Cyl Farney Catarino de Sá.
+
+</div>
+
+---
+
+<div class="publicacao-bloco-float">
+
+<a href="https://cloud.jbrj.gov.br/s/JG8yJetyWpdrtwf?dir=/&openfile=true" class="publicacao-float-link publicacao-float-right" target="_blank">
+    <img src="{{ site.baseurl }}/assets/images/publicacoes/gibi_ctpm.png" alt="História em Quadrinho Medicinais">
+    <div class="publicacao-legenda-float">
+       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
+    </div>
+</a>
+
+<h4>JARDIM DOS SABERES (2025)</h4>
+
+Autores: Viviane Stern da Fonseca Kruel,Gustavo Kruel e Mariana Jorge M. B. da Silva.
+
+</div>
+
+---
+
 ## Livros
 
 Aqui você encontrará nossos jogos, livros e materiais didáticos...
