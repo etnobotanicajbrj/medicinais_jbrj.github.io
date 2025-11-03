@@ -12,7 +12,7 @@ permalink: /publicacoes/
 Aqui você encontrará uma seleção dos nossos artigos e publicações científicas...
 
 ## Cartilhas e Guias
-
+{% raw %}
 <a href="https://cloud.jbrj.gov.br/s/rwMotr7H2LMWmtR?dir=/&openfile=true" class="lista-publicacao-item">
     
     <div class="publicacao-media-wrapper">
@@ -30,7 +30,9 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
     </div>
     
 </a>
+{% endraw %}
 
+{% raw %}
 <a href="https://cloud.jbrj.gov.br/s/FeoqDWNcjjgNeQ5?dir=/&openfile=true" class="lista-publicacao-item reverso">
     
     <div class="publicacao-media-wrapper">
@@ -48,7 +50,9 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
     </div>
     
 </a>
+{% endraw %}
 
+{% raw %}
 <a href="https://cloud.jbrj.gov.br/s/QBrkMcexqWdnPQR?dir=/&openfile=true" class="lista-publicacao-item">
     
     <div class="publicacao-media-wrapper">
@@ -66,6 +70,7 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
     </div>
     
 </a>
+{% endraw %}
 ## Livros
 
 Aqui você encontrará nossos jogos, livros e materiais didáticos...
