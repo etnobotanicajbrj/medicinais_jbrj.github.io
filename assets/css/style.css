@@ -361,85 +361,54 @@ hr {
     margin-left: auto !important;
     margin-right: auto !important; /* Centraliza */
 }
-
+* ================================================================= */
+/* ESTILO PARA LISTA DE PUBLICAÇÕES (IMAGEM E TEXTO AO LADO) */
 /* ================================================================= */
-/* ESTILO PARA LISTA DE PUBLICAÇÕES (IMAGEM/TEXTO LADO A LADO + LINK NA LEGENDA) */
-/* ================================================================= */
 
-/* Contêiner principal da lista (Cada item é um link, que é um bloco flexível) */
+/* Contêiner principal da lista (Cada item é um link) */
 .lista-publicacao-item {
-    display: flex; /* IMAGEM E TEXTO LADO A LADO */
-    align-items: flex-start; /* Alinha o conteúdo ao topo */
+    display: flex;
+    align-items: center; /* Alinha verticalmente o texto e a imagem */
     margin-bottom: 30px;
     padding: 15px;
     border: 1px solid #ddd;
     border-radius: 8px;
     background-color: #f9f9f9;
     transition: box-shadow 0.3s ease;
-    text-decoration: none !important; 
-    color: #333; 
+    text-decoration: none !important; /* Remove sublinhado do link */
+    color: #333; /* Cor do texto padrão */
 }
 
 .lista-publicacao-item:hover {
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Efeito de destaque ao passar o mouse */
     background-color: #fff;
-}
-
-/* NOVO: Wrapper para a Imagem e a Legenda/Link (esse se comporta como coluna) */
-.publicacao-media-wrapper {
-    flex-shrink: 0; /* Impede que encolha */
-    width: 200px; /* Largura TOTAL para a imagem + legenda */
-    margin-right: 20px; /* Espaço entre este bloco e o texto lateral */
-    display: flex; /* Agora este wrapper é flexível para alinhar imagem e legenda */
-    flex-direction: column; /* Imagem acima da legenda */
-    align-items: flex-start; /* Alinha o conteúdo à esquerda */
 }
 
 /* Contêiner da Imagem */
 .publicacao-imagem {
-    width: 100%; /* Ocupa a largura total do wrapper (200px) */
-    height: 120px; /* Altura da imagem (Ajuste o formato retangular aqui) */
+    flex-shrink: 0; /* Impede que a imagem encolha */
+    width: 150px; /* Largura da imagem (Ajuste o tamanho aqui) */
+    height: 100px; /* Altura da imagem (Ajuste o formato retangular aqui) */
     overflow: hidden;
     border-radius: 4px;
-    margin-bottom: 5px; /* Pequeno espaço entre a imagem e a legenda/link */
 }
 
 /* Estilo da Imagem */
 .publicacao-imagem img {
     width: 100%;
     height: 100%;
-    object-fit: cover; 
+    object-fit: cover; /* Garante que a imagem preencha o espaço sem distorcer */
     display: block;
 }
 
-/* NOVO: Estilo para a Legenda com Link */
-.publicacao-legenda-link {
-    font-size: 0.8em; /* Letra menor para a legenda */
-    color: #555;
-    text-align: left; /* Alinha o texto da legenda à esquerda */
-}
-
-/* Estilo do Link de Acesso */
-.link-acesso-publicacao {
-    display: inline; /* Fica na mesma linha do texto da legenda */
-    color: #2E6F40 !important; /* Cor do seu tema, ajuste se necessário */
-    font-weight: bold;
-    text-decoration: underline;
-    margin-left: 5px; /* Espaço entre o texto e o link, se for na mesma linha */
-}
-
-.link-acesso-publicacao:hover {
-    color: #1a4f29 !important; 
-}
-
-/* Contêiner do Texto Principal (ao lado da imagem) */
+/* Contêiner do Texto */
 .publicacao-texto {
-    flex-grow: 1; /* Ocupa o espaço restante */
-    padding: 0; /* Ajusta o padding para o texto */
+    padding: 0 20px;
+    flex-grow: 1; /* Permite que o texto ocupe o espaço restante */
 }
 
 .publicacao-texto h4 {
-    color: #2E6F40; 
+    color: #2E6F40; /* Cor do título */
     margin-top: 0;
     margin-bottom: 5px;
 }
@@ -449,36 +418,30 @@ hr {
     margin-bottom: 0;
 }
 
-/* REGRA PARA INVERTER A ORDEM (IMAGEM E LEGENDA À DIREITA) */
+/* REGRA PARA INVERTER A ORDEM (IMAGEM À DIREITA) */
 .lista-publicacao-item.reverso {
-    flex-direction: row-reverse; 
+    flex-direction: row-reverse; /* Inverte a ordem: imagem vai para a direita */
 }
 
 /* Ajuste o espaçamento do texto no modo reverso */
-.lista-publicacao-item.reverso .publicacao-media-wrapper {
-    margin-right: 0;
-    margin-left: 20px; /* Espaço quando a imagem está à direita */
+.lista-publicacao-item.reverso .publicacao-texto {
+    padding: 0 0 0 20px; /* Remove o padding direito e adiciona o esquerdo */
 }
-
 
 /* MEDIA QUERY: Empilha em telas pequenas */
 @media (max-width: 600px) {
     .lista-publicacao-item,
     .lista-publicacao-item.reverso {
-        flex-direction: column; 
+        flex-direction: column; /* Coloca a imagem em cima do texto */
         align-items: flex-start;
-    }
-    .publicacao-media-wrapper {
-        width: 100%; 
-        margin-right: 0; /* Zera margens extras em mobile */
-        margin-left: 0;
     }
     .publicacao-imagem {
         width: 100%;
-        height: 150px; 
+        height: 150px; /* Aumenta a altura da imagem em mobile */
         margin-bottom: 10px;
     }
-    .publicacao-texto {
+    .publicacao-texto,
+    .lista-publicacao-item.reverso .publicacao-texto {
         padding: 10px 0 0 0;
     }
 }
