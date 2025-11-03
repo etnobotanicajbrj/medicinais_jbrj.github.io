@@ -388,8 +388,8 @@ hr {
 /* Contêiner da Imagem */
 .publicacao-imagem {
     flex-shrink: 0; /* Impede que a imagem encolha */
-    width: 150px; /* Largura da imagem (Ajuste o tamanho aqui) */
-    height: 100px; /* Altura da imagem (Ajuste o formato retangular aqui) */
+    width: 75px; /* Largura da imagem (Ajuste o tamanho aqui) */
+    height: 50px; /* Altura da imagem (Ajuste o formato retangular aqui) */
     overflow: hidden;
     border-radius: 4px;
 }
