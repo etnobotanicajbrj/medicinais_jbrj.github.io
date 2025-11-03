@@ -19,7 +19,7 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
     </div>
     <div class="publicacao-texto">
         <h4>Plantas medicinais e conservação da diversidade vegetal e cultural na perspectiva da Covid-19 (2021)</h4>
-        <p>Autores: Maria Eduarda Rodrigues Neves, Luisa Ridolph Tostes Braga, Luíza Fernandes de Oliveira, Gustavo Tavares, Leopoldo Clemente Baratto e Viviane Stern da Fonseca-Kruel.</p>
+            <p>Autores: Maria Eduarda Rodrigues Neves, Luisa Ridolph Tostes Braga, Luíza Fernandes de Oliveira, Gustavo Tavares, Leopoldo Clemente Baratto e Viviane Stern da Fonseca-Kruel.</p>
     </div>
 </a>
 
@@ -29,7 +29,7 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
     </div>
     <div class="publicacao-texto">
         <h4>Plantas alimentícias e medicinais: uma coleção viva e de uso múltiplo no Jardim Botânico do Rio de Janeiro (2021)<h4>
-        <p>Autores: Maria Eduarda Rodrigues Neves, Viviane Stern da Fonseca-Kruel e Odara Horta Boscolo.</p>
+            <p>Autores: Maria Eduarda Rodrigues Neves, Viviane Stern da Fonseca-Kruel e Odara Horta Boscolo.</p>
     </div>
 </a>
 
