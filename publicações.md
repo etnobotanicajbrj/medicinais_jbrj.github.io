@@ -13,33 +13,50 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
 
 ## Cartilhas e Guias
 
+{% comment %} INÍCIO DA PUBLICAÇÃO - Imagem à Esquerda {% endcomment %}
+{% highlight html %}
 <a href="https://cloud.jbrj.gov.br/s/rwMotr7H2LMWmtR?dir=/&openfile=true" class="lista-publicacao-item">
     
-    <div class="publicacao-imagem">
-        <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_covid.png" alt="Cartilha Covid-19">
+    <div class="publicacao-media-wrapper">
+        <div class="publicacao-imagem">
+            <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_covid.png" alt="Capa da Publicação">
+        </div>
+        <div class="publicacao-legenda-link">
+            Detalhes do material. <a href="https://cloud.jbrj.gov.br/s/rwMotr7H2LMWmtR?dir=/&openfile=true" class="link-acesso-publicacao" target="_blank">Acesse aqui o material</a>
+        </div>
     </div>
     
     <div class="publicacao-texto">
-        <h4>Plantas medicinais e conservação da diversidade vegetal e cultural na perspectiva da Covid-19 Rio de Janeiro (2021))</h4>
-        
-        <p>Autores: Maria Eduarda Rodrigues Neves, Luisa Ridolph Tostes Braga, Luíza Fernandes de Oliveira, Gustavo Tavares, Leopoldo Clemente Baratto e Viviane Stern da Fonseca-Kruel.</p>
+        <h4>Título Completo do Artigo ou Guia</h4>
+        <p>Resumo: Insira aqui a descrição do material, que aparecerá ao lado da imagem e legenda.</p>
     </div>
     
 </a>
+{% endhighlight %}
+{% comment %} FIM DA PUBLICAÇÃO {% endcomment %}
 
-<a href="https://cloud.jbrj.gov.br/s/FeoqDWNcjjgNeQ5?dir=/&openfile=true" class="lista-publicacao-item.reverso">
+{% comment %} INÍCIO DA PUBLICAÇÃO - Imagem à Esquerda {% endcomment %}
+{% highlight html %}
+<a href="https://cloud.jbrj.gov.br/s/FeoqDWNcjjgNeQ5?dir=/&openfile=true" class="lista-publicacao-item reverso">
     
-    <div class="publicacao-imagem">
-        <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_covid.png" alt="Cartilha Covid-19">
+    <div class="publicacao-media-wrapper">
+        <div class="publicacao-imagem">
+            <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_pancs.png" alt="Capa da Publicação">
+        </div>
+        <div class="publicacao-legenda-link">
+            Detalhes do material. <a href="https://cloud.jbrj.gov.br/s/FeoqDWNcjjgNeQ5?dir=/&openfile=true" class="link-acesso-publicacao" target="_blank">Acesse aqui o material</a>
+        </div>
     </div>
     
     <div class="publicacao-texto">
-        <h4>Plantas medicinais e conservação da diversidade vegetal e cultural na perspectiva da Covid-19 Rio de Janeiro (2021))</h4>
-        
-        <p>Autores: Maria Eduarda Rodrigues Neves, Luisa Ridolph Tostes Braga, Luíza Fernandes de Oliveira, Gustavo Tavares, Leopoldo Clemente Baratto e Viviane Stern da Fonseca-Kruel.</p>
+        <h4>Título Completo do Artigo ou Guia</h4>
+        <p>Resumo: Insira aqui a descrição do material, que aparecerá ao lado da imagem e legenda.</p>
     </div>
     
 </a>
+{% endhighlight %}
+{% comment %} FIM DA PUBLICAÇÃO {% endcomment %}
+
 
 ## Livros
 
