@@ -12,6 +12,7 @@ permalink: /publicacoes/
 Aqui você encontrará uma seleção dos nossos artigos e publicações científicas...
 
 ## Cartilhas e Guias
+
 <a href="https://cloud.jbrj.gov.br/s/rwMotr7H2LMWmtR?dir=/&openfile=true" class="lista-publicacao-item">
     <div class="publicacao-imagem">
         <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_covid.png" alt="Cartilha Covid">
@@ -24,6 +25,7 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
     </div>
     
 </a>
+
 <a href="https://cloud.jbrj.gov.br/s/FeoqDWNcjjgNeQ5?dir=/&openfile=true" class="lista-publicacao-item reverso">
     <div class="publicacao-imagem">
         <img src="{{ site.baseurl }}/assets/images/cartilha_pancs.png" alt="Cartilha Pancs">
