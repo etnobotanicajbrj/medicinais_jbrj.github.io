@@ -425,5 +425,11 @@ hr {
     color: #2E6F40; 
     margin-top: 0;
     margin-bottom: 5px;
-    font-size: 0.8em
+    font-size: 0.9em
+}
+/* Resumo/Descrição (Parágrafo ao lado da imagem) */
+.publicacao-bloco-float p {
+    /* Por padrão, não tem uma classe específica, então vamos mirar nos 'p' */
+    font-size: 0.8em; /* Diminua para 0.9em ou 0.85em para um texto mais compacto */
+    margin-bottom: 0;
 }
