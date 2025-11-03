@@ -17,7 +17,7 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
     
     <div class="publicacao-media-wrapper">
         <div class="publicacao-imagem">
-            <img src="{{ site.baseurl }}/assets/images/cartilha_covid.png" alt="Cartilha covid">
+            <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_covid.png" alt="Cartilha covid">
         </div>
         <div class="publicacao-legenda-link">
             Detalhes do material. <a href="https://cloud.jbrj.gov.br/s/rwMotr7H2LMWmtR?dir=/&openfile=true" class="link-acesso-publicacao" target="_blank">Acesse o material aqui</a>
@@ -35,7 +35,7 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
     
     <div class="publicacao-media-wrapper">
         <div class="publicacao-imagem">
-            <img src="{{ site.baseurl }}/assets/images/cartilha_pancs.png" alt="Cartilha pancs">
+            <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_pancs.png" alt="Cartilha pancs">
         </div>
         <div class="publicacao-legenda-link">
             Saiba mais. <a href="https://cloud.jbrj.gov.br/s/FeoqDWNcjjgNeQ5?dir=/&openfile=true" class="link-acesso-publicacao" target="_blank">Acesse o material aqui</a>
@@ -53,7 +53,7 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
     
     <div class="publicacao-media-wrapper">
         <div class="publicacao-imagem">
-            <img src="{{ site.baseurl }}/assets/images/guia_restinga.png" alt="Cartilha covid">
+            <img src="{{ site.baseurl }}/assets/images/publicacoes/guia_restinga.png" alt="Cartilha covid">
         </div>
         <div class="publicacao-legenda-link">
             Detalhes do material. <a href="https://cloud.jbrj.gov.br/s/rwMotr7H2LMWmtR?dir=/&openfile=true" class="link-acesso-publicacao" target="_blank">Acesse o material aqui</a>
