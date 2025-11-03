@@ -367,8 +367,8 @@ hr {
 
 /* Contêiner de cada Publicação (para a borda e fundo) */
 .publicacao-bloco-float {
-    margin-bottom: 30px;
-    padding: 15px;
+    margin-bottom: 60px;
+    padding: 30px;
     border: 1px solid #ddd;
     border-radius: 8px;
     background-color: #f9f9f9;
@@ -394,7 +394,7 @@ hr {
 /* Estilo da Imagem */
 .publicacao-float-link img {
     width: 100%;
-    height: 120px; /* Altura retangular da imagem */
+    height: 150px; /* Altura retangular da imagem */
     object-fit: cover;
     border-radius: 4px;
 }
