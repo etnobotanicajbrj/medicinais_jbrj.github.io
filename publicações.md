@@ -24,7 +24,7 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
 
 <h4>Plantas medicinais e conservação da diversidade vegetal e cultural na perspectiva da Covid-19 (2021)</h4>
 
-Autores: Maria Eduarda Rodrigues Neves, Luisa Ridolph Tostes Braga, Luíza Fernandes de Oliveira, Gustavo Tavares, Leopoldo Clemente Baratto e Viviane Stern da Fonseca-Kruel.
+<p>Autores: Maria Eduarda Rodrigues Neves, Luisa Ridolph Tostes Braga, Luíza Fernandes de Oliveira, Gustavo Tavares, Leopoldo Clemente Baratto e Viviane Stern da Fonseca-Kruel.</p>
 
 </div>
 
@@ -41,7 +41,7 @@ Autores: Maria Eduarda Rodrigues Neves, Luisa Ridolph Tostes Braga, Luíza Ferna
 
 <h4>Plantas alimentícias e medicinais: uma coleção viva e de uso múltiplo no Jardim Botânico do Rio de Janeiro (2021)</h4>
 
-Autores: Maria Eduarda Rodrigues Neves, Viviane Stern da Fonseca-Kruel e Odara Horta Boscolo.
+<p>Autores: Maria Eduarda Rodrigues Neves, Viviane Stern da Fonseca-Kruel e Odara Horta Boscolo.</p>
 
 </div>
 
@@ -58,7 +58,7 @@ Autores: Maria Eduarda Rodrigues Neves, Viviane Stern da Fonseca-Kruel e Odara H
 
 <h4>Restingas da Região dos Lagos : Guia etnobotânico para olhar, aprender e cultivar saberes (2025)</h4>
 
-Autores: Viviane Stern da Fonseca Kruel, Nicky van Luijk, Giovana Schulze de Macedo e Cyl Farney Catarino de Sá.
+<p>Autores: Viviane Stern da Fonseca Kruel, Nicky van Luijk, Giovana Schulze de Macedo e Cyl Farney Catarino de Sá.</p>
 
 </div>
 
@@ -75,7 +75,7 @@ Autores: Viviane Stern da Fonseca Kruel, Nicky van Luijk, Giovana Schulze de Mac
 
 <h4>JARDIM DOS SABERES (2025)</h4>
 
-Autores: Viviane Stern da Fonseca Kruel,Gustavo Kruel e Mariana Jorge M. B. da Silva.
+<p>Autores: Viviane Stern da Fonseca Kruel,Gustavo Kruel e Mariana Jorge M. B. da Silva.</p>
 
 </div>
 
