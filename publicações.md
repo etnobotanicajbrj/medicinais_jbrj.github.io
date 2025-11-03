@@ -13,6 +13,7 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
 
 ## Cartilhas e Guias
 
+</div>
 <a href="https://cloud.jbrj.gov.br/s/rwMotr7H2LMWmtR?dir=/&openfile=true" class="lista-publicacao-item">
     <div class="publicacao-imagem">
         <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_covid.png" alt="Cartilha Covid-19">
@@ -22,7 +23,9 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
             <p>Autores: Maria Eduarda Rodrigues Neves, Luisa Ridolph Tostes Braga, Luíza Fernandes de Oliveira, Gustavo Tavares, Leopoldo Clemente Baratto e Viviane Stern da Fonseca-Kruel.</p>
     </div>
 </a>
+</div>
 
+</div>
 <a href="https://cloud.jbrj.gov.br/s/FeoqDWNcjjgNeQ5?dir=/&openfile=true" class="lista-publicacao-item reverso">
     <div class="publicacao-imagem">
         <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_pancs.png" alt="Cartilha pansc">
@@ -32,7 +35,8 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
             <p>Autores: Maria Eduarda Rodrigues Neves, Viviane Stern da Fonseca-Kruel e Odara Horta Boscolo.</p>
     </div>
 </a>
-
+</div>
+            
 ## Livros
 
 Aqui você encontrará nossos jogos, livros e materiais didáticos...
