@@ -361,54 +361,85 @@ hr {
     margin-left: auto !important;
     margin-right: auto !important; /* Centraliza */
 }
-* ================================================================= */
-/* ESTILO PARA LISTA DE PUBLICAÇÕES (IMAGEM E TEXTO AO LADO) */
+
+/* ================================================================= */
+/* ESTILO PARA LISTA DE PUBLICAÇÕES (IMAGEM/TEXTO LADO A LADO + LINK NA LEGENDA) */
 /* ================================================================= */
 
-/* Contêiner principal da lista (Cada item é um link) */
+/* Contêiner principal (o link clicável) */
 .lista-publicacao-item {
-    display: flex;
-    align-items: center; /* Alinha verticalmente o texto e a imagem */
+    display: flex; 
+    align-items: flex-start; /* Alinha o conteúdo ao topo */
     margin-bottom: 30px;
     padding: 15px;
     border: 1px solid #ddd;
     border-radius: 8px;
     background-color: #f9f9f9;
     transition: box-shadow 0.3s ease;
-    text-decoration: none !important; /* Remove sublinhado do link */
-    color: #333; /* Cor do texto padrão */
+    text-decoration: none !important; 
+    color: #333; 
 }
 
 .lista-publicacao-item:hover {
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Efeito de destaque ao passar o mouse */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
     background-color: #fff;
+}
+
+/* Wrapper para a Imagem e a Legenda/Link (se comporta como coluna) */
+.publicacao-media-wrapper {
+    flex-shrink: 0; 
+    width: 200px; /* Largura TOTAL para a imagem + legenda */
+    margin-right: 20px; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: flex-start;
 }
 
 /* Contêiner da Imagem */
 .publicacao-imagem {
-    flex-shrink: 0; /* Impede que a imagem encolha */
-    width: 150px; /* Largura da imagem (Ajuste o tamanho aqui) */
-    height: 100px; /* Altura da imagem (Ajuste o formato retangular aqui) */
+    width: 100%; 
+    height: 120px; /* Altura retangular da imagem */
     overflow: hidden;
     border-radius: 4px;
+    margin-bottom: 5px; 
 }
 
 /* Estilo da Imagem */
 .publicacao-imagem img {
     width: 100%;
     height: 100%;
-    object-fit: cover; /* Garante que a imagem preencha o espaço sem distorcer */
+    object-fit: cover; 
     display: block;
 }
 
-/* Contêiner do Texto */
+/* Estilo para a Legenda com Link */
+.publicacao-legenda-link {
+    font-size: 0.8em; 
+    color: #555;
+    text-align: left; 
+}
+
+/* Estilo do Link de Acesso */
+.link-acesso-publicacao {
+    display: inline; 
+    color: #2E6F40 !important; /* Cor do seu tema */
+    font-weight: bold;
+    text-decoration: underline;
+    margin-left: 5px; 
+}
+
+.link-acesso-publicacao:hover {
+    color: #1a4f29 !important; 
+}
+
+/* Contêiner do Texto Principal (ao lado da imagem) */
 .publicacao-texto {
-    padding: 0 20px;
-    flex-grow: 1; /* Permite que o texto ocupe o espaço restante */
+    flex-grow: 1; /* Ocupa o espaço restante */
+    padding: 0;
 }
 
 .publicacao-texto h4 {
-    color: #2E6F40; /* Cor do título */
+    color: #2E6F40; 
     margin-top: 0;
     margin-bottom: 5px;
 }
@@ -418,30 +449,36 @@ hr {
     margin-bottom: 0;
 }
 
-/* REGRA PARA INVERTER A ORDEM (IMAGEM À DIREITA) */
+/* REGRA PARA INVERTER A ORDEM (IMAGEM E LEGENDA À DIREITA) */
 .lista-publicacao-item.reverso {
-    flex-direction: row-reverse; /* Inverte a ordem: imagem vai para a direita */
+    flex-direction: row-reverse; 
 }
 
-/* Ajuste o espaçamento do texto no modo reverso */
-.lista-publicacao-item.reverso .publicacao-texto {
-    padding: 0 0 0 20px; /* Remove o padding direito e adiciona o esquerdo */
+/* Ajuste o espaçamento no modo reverso */
+.lista-publicacao-item.reverso .publicacao-media-wrapper {
+    margin-right: 0;
+    margin-left: 20px; 
 }
+
 
 /* MEDIA QUERY: Empilha em telas pequenas */
 @media (max-width: 600px) {
     .lista-publicacao-item,
     .lista-publicacao-item.reverso {
-        flex-direction: column; /* Coloca a imagem em cima do texto */
+        flex-direction: column; 
         align-items: flex-start;
+    }
+    .publicacao-media-wrapper {
+        width: 100%; 
+        margin-right: 0; 
+        margin-left: 0;
     }
     .publicacao-imagem {
         width: 100%;
-        height: 150px; /* Aumenta a altura da imagem em mobile */
+        height: 150px; 
         margin-bottom: 10px;
     }
-    .publicacao-texto,
-    .lista-publicacao-item.reverso .publicacao-texto {
+    .publicacao-texto {
         padding: 10px 0 0 0;
     }
 }
