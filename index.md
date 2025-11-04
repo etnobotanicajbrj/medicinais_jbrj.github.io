@@ -4,9 +4,11 @@ title: Home
 ---
 
 
-# Grupo Etnobotânica - Jardim Botânico do Rio de Janeiro
+# Grupo Etnobotânica 
 
-## Venha realizar sua visita autoguiada à Coleção Temática de Plantas Medicinais do JBRJ!
+## Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
+
+### Venha realizar sua visita autoguiada à Coleção Temática de Plantas Medicinais do JBRJ!
 
 Descubra a **conexão entre as plantas**, a **ciência** e os **saberes tradicionais**, caminhando por conta própria por este "laboratório a céu aberto", e explore a exposição _"Saberes e Olhares Diversos"_.
 
