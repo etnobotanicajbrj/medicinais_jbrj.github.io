@@ -520,3 +520,24 @@ body.menu-open {
 .sidebar-nav li a:hover {
     background-color: #ddd;
 }
+/* --- Estilos para o Conteúdo Principal em Telas Pequenas --- */
+
+/* Recomendação: Use a mesma largura que você definiu na Media Query anterior */
+@media (max-width: 768px) { 
+    
+    /* 💡 Aumenta o padding superior do conteúdo principal */
+    .page-content {
+        /*
+         * Ajustamos o padding superior para liberar espaço
+         * (O botão tem cerca de 40px de altura + 20px de margem)
+         */
+        padding-top: 80px; 
+    }
+
+    /* Opcional: Centralizar o botão do menu na tela se preferir */
+    .menu-toggle {
+        left: 50%;
+        transform: translateX(-50%);
+        top: 15px;
+    }
+}
