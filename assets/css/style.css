@@ -496,7 +496,7 @@ body.menu-open {
 }
 
 .sidebar-header img {
-    max-width: 50%;
+    max-width: 40%;
     height: auto;
 }
 
@@ -517,12 +517,12 @@ body.menu-open {
     display: block;
     padding: 10px;
     text-decoration: none;
-    color: #333;
+    color: #2E6F40;
     border-bottom: 1px solid #eee;
 }
 
 .sidebar-nav li a:hover {
-    background-color: #ddd;
+    background-color: #2E6F40;
 }
 /* --- Estilos para o Conteúdo Principal em Telas Pequenas --- */
 
