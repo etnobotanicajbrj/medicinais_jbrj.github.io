@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 title: Publicações
 permalink: /publicacoes/
 ---
@@ -35,7 +35,7 @@ permalink: /publicacoes/
 
 <div class="publicacao-bloco-float">
 
-<a href="https://cloud.jbrj.gov.br/s/rwMotr7H2LMWmtR?dir=/&openfile=true" class="publicacao-float-link publicacao-float-left" target="_blank">
+<a href="https://cloud.jbrj.gov.br/s/rwMotr7H2LMWmtR?dir=/&openfile=true" class="publicacao-float-link publicacao-float-right" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_covid.png" alt="Cartilha Covid-19">
     <div class="publicacao-legenda-float">
        <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
@@ -52,7 +52,7 @@ permalink: /publicacoes/
 
 <div class="publicacao-bloco-float">
 
-<a href="https://cloud.jbrj.gov.br/s/FeoqDWNcjjgNeQ5?dir=/&openfile=true" class="publicacao-float-link publicacao-float-right" target="_blank">
+<a href="https://cloud.jbrj.gov.br/s/FeoqDWNcjjgNeQ5?dir=/&openfile=true" class="publicacao-float-link publicacao-float-left" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_pancs.png" alt="Cartilha Pancs">
     <div class="publicacao-legenda-float">
        <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
@@ -69,7 +69,7 @@ permalink: /publicacoes/
 
 <div class="publicacao-bloco-float">
 
-<a href="https://cloud.jbrj.gov.br/s/QBrkMcexqWdnPQR?dir=/&openfile=true" class="publicacao-float-link publicacao-float-left" target="_blank">
+<a href="https://cloud.jbrj.gov.br/s/QBrkMcexqWdnPQR?dir=/&openfile=true" class="publicacao-float-link publicacao-float-right" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/guia_restinga.png" alt="Guia Restinga">
     <div class="publicacao-legenda-float">
        <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
@@ -86,7 +86,7 @@ permalink: /publicacoes/
 
 <div class="publicacao-bloco-float">
 
-<a href="https://cloud.jbrj.gov.br/s/JG8yJetyWpdrtwf?dir=/&openfile=true" class="publicacao-float-link publicacao-float-right" target="_blank">
+<a href="https://cloud.jbrj.gov.br/s/JG8yJetyWpdrtwf?dir=/&openfile=true" class="publicacao-float-link publicacao-float-left" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/gibi_ctpm.png" alt="História em Quadrinho Medicinais">
     <div class="publicacao-legenda-float">
        <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
@@ -107,7 +107,7 @@ permalink: /publicacoes/
 
 <div class="publicacao-bloco-float">
 
-<a href="https://bvsms.saude.gov.br/bvs/publicacoes/2debates_virtuais_encontros_cultura_saude.pdf" class="publicacao-float-link publicacao-float-left" target="_blank">
+<a href="https://bvsms.saude.gov.br/bvs/publicacoes/2debates_virtuais_encontros_cultura_saude.pdf" class="publicacao-float-link publicacao-float-right" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/livro_sus.png" alt="Livro SUS">
     <div class="publicacao-legenda-float">
        <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
