@@ -19,7 +19,33 @@ main {
     max-width: 900px;
     margin: 0 auto;
     flex-grow: 1;
-    text-align: justify !important;
+}
+
+/* --- Ajuste Geral de Alinhamento --- */
+
+/* 1. CENTRALIZAR TÍTULOS PRINCIPAIS (H1) */
+/* Isso resolve o problema de espaçamento esquisito em títulos curtos. */
+h1 {
+    text-align: center;
+    margin-bottom: 20px; /* Adiciona um espaço abaixo do título para separá-lo do texto */
+}
+
+/* Opcional: Centralizar títulos secundários se desejar consistência */
+h2, h3, h4 {
+    text-align: center;
+}
+
+
+/* 2. JUSTIFICAR O TEXTO CORRIDO */
+/* Aplica o alinhamento justificado apenas ao corpo do texto. */
+.subpage-content p, 
+.subpage-content li,
+.subpage-content div {
+    text-align: justify;
+    
+    /* Regra opcional: Define o alinhamento padrão para outros elementos de texto */
+    /* Caso a justificação fique estranha, considere usar 'text-align: initial;' 
+       e apenas justificar blocos de texto maiores. */
 }
 
 /* =========================== */
