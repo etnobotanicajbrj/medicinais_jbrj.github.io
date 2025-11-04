@@ -9,9 +9,25 @@ permalink: /publicacoes/
 
 ## Artigos
 
-Aqui você encontrará uma seleção dos nossos artigos e publicações científicas...
+#### Aqui você encontrará uma seleção dos nossos últimos artigos e publicações científicas.
+
+<div class="publicacao-bloco-float">
+
+<a href="https://doi.org/10.1002/ppp3.70105" class="publicacao-float-link publicacao-float-left" target="_blank">
+    <img src="{{ site.baseurl }}/assets/images/publicacoes/artigo_colecaoEtno.png" alt="Artigo Coleção Etno">
+    <div class="publicacao-legenda-float">
+       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
+    </div>
+</a>
+
+<h4>Connecting tradition and technology: The digitization of the ethnobotanical collection at the Rio de Janeiro Botanical Garden (2025)</h4>
+
+<p>Autores: Viviane S. Fonseca-Kruel, Carlos E. A. Coimbra Jr., Luis Alexandre Estevão da Silva, Felipe Alves Oliveira, Maria Paula Vasconcelos Mesquita, Mariana Taniguchi e Rafaela Campostrini Forzza.</p>
+
 
 ## Cartilhas e Guias
+
+#### Aqui você encontrará as últimas cartilhas e guias de divulgação científica publicadas pelo nosso grupo de pesquisa.
 
 <div class="publicacao-bloco-float">
 
@@ -49,7 +65,7 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
 
 <div class="publicacao-bloco-float">
 
-<a href="https://cloud.jbrj.gov.br/s/QBrkMcexqWdnPQR?dir=/&openfile=true" class="publicacao-float-link publicacao-float-right" target="_blank">
+<a href="https://cloud.jbrj.gov.br/s/QBrkMcexqWdnPQR?dir=/&openfile=true" class="publicacao-float-link publicacao-float-left" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/guia_restinga.png" alt="Guia Restinga">
     <div class="publicacao-legenda-float">
        <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
@@ -83,8 +99,22 @@ Aqui você encontrará uma seleção dos nossos artigos e publicações científ
 
 ## Livros
 
-Aqui você encontrará nossos jogos, livros e materiais didáticos...
+#### Aqui você encontrará nossos jogos e materiais didáticos desenvolvidos pelo nosso grupo de pesquisa.
 
+<div class="publicacao-bloco-float">
+
+<a href="https://bvsms.saude.gov.br/bvs/publicacoes/2debates_virtuais_encontros_cultura_saude.pdf" class="publicacao-float-link publicacao-float-left" target="_blank">
+    <img src="{{ site.baseurl }}/assets/images/publicacoes/livro_sus.png" alt="Livro SUS">
+    <div class="publicacao-legenda-float">
+       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
+    </div>
+</a>
+
+<h4>Capítulo - ENTRE A CIÊNCIA E A TRADIÇÃO: O PAPEL DA COLEÇÃO TEMÁTICA DE PLANTAS MEDICINAIS DO JARDIM BOTÂNICO DO RIO DE JANEIRO, BRASIL (2025)</h4>
+
+<p>Autores: Viviane Stern da Fonseca-Kruel e Luisa Ridolph Tostes Braga.</p>
+
+</div>
 
 ## Jogos
 
