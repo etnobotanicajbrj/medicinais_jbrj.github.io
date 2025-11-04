@@ -10,20 +10,26 @@
 </head>
 <body>
 
-    {% include header.html %} 
+    <button class="menu-toggle" aria-label="Abrir Menu">
+        <i class="fas fa-bars"></i>
+    </button>
 
-    <div class="page-container">
+    <aside id="sidebar-menu">
+        <div class="sidebar-header">
+            <img src="{{ site.baseurl }}/assets/images/logo.png" alt="Logotipo do Grupo">
+            <button class="close-btn" aria-label="Fechar Menu">&times;</button>
+        </div>
         
-        <aside class="sidebar">
-            {% include sidebar_menu.html %}
-        </aside>
+        {% include sidebar_menu.html %}
+    </aside>
 
-        <main class="subpage-content">
-            {{ content }}
-        </main>
-    </div>
+    <main class="page-content">
+        {{ content }}
+    </main>
     
     {% include footer.html %}
+
+    <script src="{{ site.baseurl }}/assets/js/sidebar.js"></script>
 
 </body>
 </html>
