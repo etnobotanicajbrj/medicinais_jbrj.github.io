@@ -452,9 +452,9 @@ body.menu-open {
 .menu-toggle {
     position: fixed; /* Fixa o botão na tela */
     top: 20px;
-    left: 20px;
+    left: 15px;
     z-index: 1001; /* Garante que fique acima de tudo */
-    background: #4CAF50; /* Cor de fundo (exemplo) */
+    background: #7ac28e; /* Cor de fundo (exemplo) */
     color: white;
     border: none;
     padding: 10px 15px;
@@ -492,7 +492,7 @@ body.menu-open {
 }
 
 .sidebar-header img {
-    max-width: 60%;
+    max-width: 50%;
     height: auto;
 }
 
