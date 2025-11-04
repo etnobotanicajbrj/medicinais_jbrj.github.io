@@ -24,7 +24,10 @@ permalink: /publicacoes/
 
 <p>Autores: Viviane S. Fonseca-Kruel, Carlos E. A. Coimbra Jr., Luis Alexandre Estevão da Silva, Felipe Alves Oliveira, Maria Paula Vasconcelos Mesquita, Mariana Taniguchi e Rafaela Campostrini Forzza.</p>
 
+</div>
+
 ---
+
 
 ## Cartilhas e Guias
 
@@ -117,6 +120,7 @@ permalink: /publicacoes/
 
 </div>
 
+---
 ---
 
 
