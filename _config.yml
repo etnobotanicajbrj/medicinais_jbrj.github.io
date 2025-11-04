@@ -51,3 +51,8 @@ sidebar_nav:
     url: /visite/
   - title: Contato
     url: /contato/
+# 💡 NOVO: Adicione o link e o ícone do Instagram
+  - title: Instagram
+    url: https://www.instagram.com/etnobotanicajbrj?igsh=MWxvMzA3Mms4a3AwMA== # Lembre-se de mudar o URL
+    icon: fab fa-instagram
+    external: true # Marcador opcional para indicar link externo
