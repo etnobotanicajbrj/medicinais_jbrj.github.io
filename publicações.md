@@ -31,7 +31,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos e publicações
 <div class="publicacao-bloco-float">
 
 <a href="https://doi.org/10.1002/ppp3.70052" class="publicacao-float-link publicacao-float-rigth" target="_blank">
-    <img src="{{ site.baseurl }}/assets/images/publicacoes/artigo_colecaoEtno.png" alt="Artigo Repositorios">
+    <img src="{{ site.baseurl }}/assets/images/publicacoes/artigo_repositorios.jpg" alt="Artigo Repositorios">
     <div class="publicacao-legenda-float">
        <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
     </div>
