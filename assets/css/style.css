@@ -545,3 +545,31 @@ body.menu-open {
         top: 15px;
     }
 }
+/* --- Ajuste para TODO o conteúdo da subpágina --- */
+
+/* Reserva o espaço no topo da página para o botão fixo (Desktop) */
+.page-content {
+    /* O botão tem ~40px de altura e está a 20px do topo. 
+       Recomendamos pelo menos 70px de padding para garantir a folga. */
+    padding-top: 70px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+/* --- Media Query para Dispositivos Móveis (Celular) --- */
+
+@media (max-width: 768px) { 
+    
+    .menu-toggle {
+        /* Garanta que o botão volte para o canto no celular, se for o caso */
+        left: 20px;
+        transform: none; /* Remove a centralização se você a tiver adicionado antes */
+        top: 15px;
+    }
+    
+    /* Reserva um pouco mais de espaço no celular para maior segurança visual */
+    .page-content {
+        padding-top: 80px; 
+    }
+}
