@@ -36,3 +36,18 @@ nav_links:
 
 plugins:
   - jekyll-sitemap
+
+# --- Configuração do Menu Lateral (Sidebar) ---
+sidebar_nav:
+  - title: Home
+    url: /
+  - title: Sobre
+    url: /sobre/    
+  - title: Equipe
+    url: /equipe/
+  - title: Publicações
+    url: /publicacoes/
+  - title: Visite a Coleção!
+    url: /visite/
+  - title: Contato
+    url: /contato/
