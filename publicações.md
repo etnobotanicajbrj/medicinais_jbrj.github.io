@@ -9,7 +9,7 @@ permalink: /publicacoes/
 
 ## Artigos
 
-#### Aqui você encontrará uma seleção dos nossos últimos artigos e publicações científicas.
+Aqui você encontrará uma seleção dos nossos últimos artigos e publicações científicas.
 
 <div class="publicacao-bloco-float">
 
@@ -20,9 +20,26 @@ permalink: /publicacoes/
     </div>
 </a>
 
-<h4>Connecting tradition and technology: The digitization of the ethnobotanical collection at the Rio de Janeiro Botanical Garden (2025)</h4>
+<h4>Unindo tradição e tecnologia: a digitalização da coleção etnobotânica do Jardim Botânico do Rio de Janeiro (2025)</h4>
 
 <p>Autores: Viviane S. Fonseca-Kruel, Carlos E. A. Coimbra Jr., Luis Alexandre Estevão da Silva, Felipe Alves Oliveira, Maria Paula Vasconcelos Mesquita, Mariana Taniguchi e Rafaela Campostrini Forzza.</p>
+
+</div>
+
+---
+
+<div class="publicacao-bloco-float">
+
+<a href="https://doi.org/10.1002/ppp3.70052" class="publicacao-float-link publicacao-float-rigth" target="_blank">
+    <img src="{{ site.baseurl }}/assets/images/publicacoes/artigo_colecaoEtno.png" alt="Artigo Repositorios">
+    <div class="publicacao-legenda-float">
+       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
+    </div>
+</a>
+
+<h4>Repositórios de diversidade biocultural: em direção às melhores práticas para fortalecer a etnobotânica em herbários digitais (2025)</h4>
+
+<p>Autores: Robbie Hart, Viviane Fonseca-Kruel, Eduardo Dalcin, Estevão da Silva Luís Alexandre, Matthew Pace, ... e Ina Vandebroek.</p>
 
 </div>
 
@@ -31,11 +48,11 @@ permalink: /publicacoes/
 
 ## Cartilhas e Guias
 
-#### Aqui você encontrará as últimas cartilhas e guias de divulgação científica publicadas pelo nosso grupo de pesquisa.
+Aqui você encontrará as últimas cartilhas e guias de divulgação científica publicadas pelo nosso grupo de pesquisa.
 
 <div class="publicacao-bloco-float">
 
-<a href="https://cloud.jbrj.gov.br/s/rwMotr7H2LMWmtR?dir=/&openfile=true" class="publicacao-float-link publicacao-float-right" target="_blank">
+<a href="https://cloud.jbrj.gov.br/s/rwMotr7H2LMWmtR?dir=/&openfile=true" class="publicacao-float-link publicacao-float-left " target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_covid.png" alt="Cartilha Covid-19">
     <div class="publicacao-legenda-float">
        <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
@@ -52,7 +69,7 @@ permalink: /publicacoes/
 
 <div class="publicacao-bloco-float">
 
-<a href="https://cloud.jbrj.gov.br/s/FeoqDWNcjjgNeQ5?dir=/&openfile=true" class="publicacao-float-link publicacao-float-left" target="_blank">
+<a href="https://cloud.jbrj.gov.br/s/FeoqDWNcjjgNeQ5?dir=/&openfile=true" class="publicacao-float-link publicacao-float-leftright" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_pancs.png" alt="Cartilha Pancs">
     <div class="publicacao-legenda-float">
        <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
@@ -69,7 +86,7 @@ permalink: /publicacoes/
 
 <div class="publicacao-bloco-float">
 
-<a href="https://cloud.jbrj.gov.br/s/QBrkMcexqWdnPQR?dir=/&openfile=true" class="publicacao-float-link publicacao-float-right" target="_blank">
+<a href="https://cloud.jbrj.gov.br/s/QBrkMcexqWdnPQR?dir=/&openfile=true" class="publicacao-float-link publicacao-float-left" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/guia_restinga.png" alt="Guia Restinga">
     <div class="publicacao-legenda-float">
        <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
@@ -86,7 +103,7 @@ permalink: /publicacoes/
 
 <div class="publicacao-bloco-float">
 
-<a href="https://cloud.jbrj.gov.br/s/JG8yJetyWpdrtwf?dir=/&openfile=true" class="publicacao-float-link publicacao-float-left" target="_blank">
+<a href="https://cloud.jbrj.gov.br/s/JG8yJetyWpdrtwf?dir=/&openfile=true" class="publicacao-float-link publicacao-float-right" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/gibi_ctpm.png" alt="História em Quadrinho Medicinais">
     <div class="publicacao-legenda-float">
        <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
@@ -103,11 +120,11 @@ permalink: /publicacoes/
 
 ## Livros
 
-#### Aqui você encontrará nossos jogos e materiais didáticos desenvolvidos pelo nosso grupo de pesquisa.
+Aqui você encontrará nossos jogos e materiais didáticos desenvolvidos pelo nosso grupo de pesquisa.
 
 <div class="publicacao-bloco-float">
 
-<a href="https://bvsms.saude.gov.br/bvs/publicacoes/2debates_virtuais_encontros_cultura_saude.pdf" class="publicacao-float-link publicacao-float-right" target="_blank">
+<a href="https://bvsms.saude.gov.br/bvs/publicacoes/2debates_virtuais_encontros_cultura_saude.pdf" class="publicacao-float-link publicacao-float-left" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/livro_sus.png" alt="Livro SUS">
     <div class="publicacao-legenda-float">
        <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
