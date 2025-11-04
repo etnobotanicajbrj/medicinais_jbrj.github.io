@@ -604,37 +604,36 @@ body.menu-open {
         padding-top: 80px; 
     }
 }
-/* --- Estilização do Conteúdo Principal da Subpágina --- */
-
+/* --- ESTILO GERAL PARA SUBPÁGINAS (Desktop) --- */
 .page-content {
-    /* 💡 Cor de fundo Branca para o bloco de conteúdo */
-    background-color: white; 
-    
-    /* 💡 Efeito de "página levantada" */
+    background-color: white; /* 💡 ESSENCIAL: Mantém o fundo branco */
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.08); 
-    
-    /* Centralização e Limitação de Largura (para melhor leitura) */
     max-width: 1000px; 
-    margin: 0 auto 30px auto; /* Centraliza horizontalmente e dá espaço no rodapé */
-    
-    /* Preenchimentos internos */
-    padding-bottom: 30px;
-    padding-left: 50px;
-    padding-right: 50px;
-    
-    /* O padding-top de 70px deve estar aqui para evitar que o conteúdo passe por cima do botão fixo */
+    margin: 0 auto 30px auto; 
     padding-top: 70px;
+    padding-bottom: 30px;
+    padding-left: 50px; 
+    padding-right: 50px;
 }
 
-/* --- Ajustes de Responsividade (Mobile) --- */
+
+/* --- AJUSTES PARA RESPONSIVIDADE (Mobile) --- */
 
 @media (max-width: 768px) { 
     .page-content {
-        /* Remove a sombra e a margem no celular para usar a tela inteira */
+        /* Remove a sombra e a margem no celular, mas MANTÉM o fundo branco */
         box-shadow: none;
         margin: 0; 
+        
+        /* Ocupa a largura total (100% da tela) */
+        width: 100%; 
+        
+        /* Zera o padding que foi grande no desktop e ajusta o padding lateral para mobile */
         padding-left: 20px;
         padding-right: 20px;
-        /* Padding-top: 80px (se você usou um valor maior para celular) */
+        
+        /* Ajusta o padding superior e inferior se necessário */
+        padding-top: 80px; 
+        padding-bottom: 30px;
     }
 }
