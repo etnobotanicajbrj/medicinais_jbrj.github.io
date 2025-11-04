@@ -30,7 +30,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos e publicações
 
 <div class="publicacao-bloco-float">
 
-<a href="https://doi.org/10.1002/ppp3.70052" class="publicacao-float-link publicacao-float-rigth" target="_blank">
+<a href="https://doi.org/10.1002/ppp3.70052" class="publicacao-float-link publicacao-float-right" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/artigo_repositorios.jpg" alt="Artigo Repositorios">
     <div class="publicacao-legenda-float">
        <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
@@ -69,7 +69,7 @@ Aqui você encontrará as últimas cartilhas e guias de divulgação científica
 
 <div class="publicacao-bloco-float">
 
-<a href="https://cloud.jbrj.gov.br/s/FeoqDWNcjjgNeQ5?dir=/&openfile=true" class="publicacao-float-link publicacao-float-leftright" target="_blank">
+<a href="https://cloud.jbrj.gov.br/s/FeoqDWNcjjgNeQ5?dir=/&openfile=true" class="publicacao-float-link publicacao-float-right" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_pancs.png" alt="Cartilha Pancs">
     <div class="publicacao-legenda-float">
        <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
