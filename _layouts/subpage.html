@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | Meu Site</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+    <meta name="google-site-verification" content="cUbrTTsTcbGxzf5j5xSAahUfI___di1RjywJpjP17Us" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+
+    {% include header.html %} 
+
+    <div class="page-container">
+        
+        <aside class="sidebar">
+            <div class="sidebar-logo">
+                <img src="{{ site.baseurl }}/assets/images/logo.png" alt="Logotipo do Grupo de Pesquisa">
+            </div>
+
+            {% include sidebar_menu.html %}
+        </aside>
+
+        <main class="subpage-content">
+            {{ content }}
+        </main>
+    </div>
+    
+    {% include footer.html %}
+
+</body>
+</html>
