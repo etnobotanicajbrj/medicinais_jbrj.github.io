@@ -138,8 +138,6 @@ Aqui você encontrará nossos jogos e materiais didáticos desenvolvidos pelo no
 </div>
 
 ---
----
-
 
 ## Jogos
 
