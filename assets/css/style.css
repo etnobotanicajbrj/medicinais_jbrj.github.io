@@ -19,6 +19,7 @@ main {
     max-width: 900px;
     margin: 0 auto;
     flex-grow: 1;
+    text-align: justify
 }
 
 /* --- Ajuste Geral de Alinhamento --- */
@@ -27,7 +28,7 @@ main {
 /* Isso resolve o problema de espaçamento esquisito em títulos curtos. */
 h1 {
     text-align: center;
-    margin-bottom: 20px; /* Adiciona um espaço abaixo do título para separá-lo do texto */
+    margin-bottom: 10px; /* Adiciona um espaço abaixo do título para separá-lo do texto */
 }
 
 /* Opcional: Centralizar títulos secundários se desejar consistência */
