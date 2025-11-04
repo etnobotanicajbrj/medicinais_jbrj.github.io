@@ -21,6 +21,10 @@ main {
     flex-grow: 1;
     text-align: justify
 }
+/* Cor de fundo para toda a janela do navegador */
+body {
+    background-color: #f0f0f0; /* Um cinza muito claro, que parece uma borda */
+}
 
 /* --- Ajuste Geral de Alinhamento --- */
 
@@ -598,5 +602,39 @@ body.menu-open {
     /* Reserva um pouco mais de espaço no celular para maior segurança visual */
     .page-content {
         padding-top: 80px; 
+    }
+}
+/* --- Estilização do Conteúdo Principal da Subpágina --- */
+
+.page-content {
+    /* 💡 Cor de fundo Branca para o bloco de conteúdo */
+    background-color: white; 
+    
+    /* 💡 Efeito de "página levantada" */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.08); 
+    
+    /* Centralização e Limitação de Largura (para melhor leitura) */
+    max-width: 1000px; 
+    margin: 0 auto 30px auto; /* Centraliza horizontalmente e dá espaço no rodapé */
+    
+    /* Preenchimentos internos */
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    /* O padding-top de 70px deve estar aqui para evitar que o conteúdo passe por cima do botão fixo */
+    padding-top: 70px;
+}
+
+/* --- Ajustes de Responsividade (Mobile) --- */
+
+@media (max-width: 768px) { 
+    .page-content {
+        /* Remove a sombra e a margem no celular para usar a tela inteira */
+        box-shadow: none;
+        margin: 0; 
+        padding-left: 20px;
+        padding-right: 20px;
+        /* Padding-top: 80px (se você usou um valor maior para celular) */
     }
 }
