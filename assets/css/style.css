@@ -448,19 +448,23 @@ body.menu-open {
     padding: 20px;
 }
 
-/* O Menu Toggle (Botão Hambúrguer) */
+/* --- Ajuste do Botão Hamburguer --- */
+
 .menu-toggle {
-    position: fixed; /* Fixa o botão na tela */
-    top: 20px;
-    left: 15px;
-    z-index: 1001; /* Garante que fique acima de tudo */
-    background: #7ac28e; /* Cor de fundo (exemplo) */
-    color: white;
+    position: fixed; /* 💡 ESSENCIAL: Fixa o botão na tela, ele não deve rolar. */
+    top: 20px;       /* Distância do topo */
+    left: 20px;      /* Distância da esquerda (canto superior esquerdo) */
+    z-index: 1001;   /* Garante que fique acima de todos os outros elementos */
+    background: none; /* (Ou a cor que você preferir) */
+    color: #7ac28e;
     border: none;
     padding: 10px 15px;
     cursor: pointer;
     font-size: 1.5em;
     border-radius: 5px;
+    
+    /* Adicione box-shadow para destacá-lo um pouco do fundo */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2); 
 }
 
 /* A Barra Lateral (Sidebar) em si */
