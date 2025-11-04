@@ -1,0 +1,11 @@
+<nav class="sidebar-nav">
+    <h3>Navegação</h3>
+    <ul>
+        {% for item in site.pages %}
+            {% if item.title and item.url != '/' %} <li {% if page.url == item.url %}class="active"{% endif %}>
+                    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+        </ul>
+</nav>
