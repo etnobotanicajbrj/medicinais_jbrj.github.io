@@ -433,3 +433,90 @@ hr {
     font-size: 0.8em; /* Diminua para 0.9em ou 0.85em para um texto mais compacto */
     margin-bottom: 0;
 }
+
+/* ======================================================
+/* --- Estilos para o Menu Lateral Retrátil (Off-Canvas) --- */
+/* ======================================================
+
+/* Esconde o scrollbar do body para um visual mais limpo */
+body.menu-open {
+    overflow: hidden;
+}
+
+/* O conteúdo da página deve ocupar a tela toda */
+.page-content {
+    padding: 20px;
+}
+
+/* O Menu Toggle (Botão Hambúrguer) */
+.menu-toggle {
+    position: fixed; /* Fixa o botão na tela */
+    top: 20px;
+    left: 20px;
+    z-index: 1001; /* Garante que fique acima de tudo */
+    background: #4CAF50; /* Cor de fundo (exemplo) */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 1.5em;
+    border-radius: 5px;
+}
+
+/* A Barra Lateral (Sidebar) em si */
+#sidebar-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 280px; /* Largura da barra lateral */
+    height: 100%;
+    background: #f4f4f4; /* Fundo da barra */
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    transform: translateX(-100%); /* Esconde a sidebar fora da tela */
+    transition: transform 0.3s ease-in-out; /* Adiciona animação */
+    padding: 20px;
+    overflow-y: auto; /* Permite rolagem se o menu for muito longo */
+}
+
+/* Estado Ativo: Move a sidebar para a tela */
+#sidebar-menu.active {
+    transform: translateX(0);
+}
+
+.sidebar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.sidebar-header img {
+    max-width: 60%;
+    height: auto;
+}
+
+.close-btn {
+    font-size: 2em;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+/* Estilos para a lista de navegação */
+.sidebar-nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar-nav li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+    border-bottom: 1px solid #eee;
+}
+
+.sidebar-nav li a:hover {
+    background-color: #ddd;
+}
