@@ -637,3 +637,9 @@ body.menu-open {
         padding-bottom: 30px;
     }
 }
+/* --- RESET GERAL PARA GARANTIR RESPONSIVIDADE --- */
+/* Esta regra garante que a largura de qualquer elemento jamais exceda a largura de seu contêiner. */
+* {
+    box-sizing: border-box; /* 💡 ESSENCIAL: Garante que padding e border sejam incluídos na largura total. */
+    max-width: 100%;        /* 💡 ESSENCIAL: Impede que qualquer imagem ou tabela vaze lateralmente. */
+}
