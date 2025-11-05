@@ -237,6 +237,25 @@ header {
 /* --- ESTILO PADRÃO DA LINHA DIVISÓRIA (Sólida e Clara - 100% de Largura) --- */
 
 hr {
+/* Reset (Herdará a maioria das propriedades de hr, mas é bom garantir o override) */
+    border: none;
+    color: transparent;
+    background-color: transparent;
+    height: 1px;
+    
+    /* Estilo Pontilhado (Escuro) */
+    border-top: 3px dotted #2E6F40; /* 💡 Agora é DOTTED, mais escuro e um pouco mais espesso */
+    
+    /* Largura */
+    max-width: 90%; /* Ocupa apenas 80% da largura */
+    
+    /* Opcional: Garante que a margem seja igual ao padrão */
+    margin: 40px auto;
+}
+
+/* --- ESTILO SECUNDÁRIO (Linha Pontilhada e Escura - 80% de Largura) --- */
+
+.hr-secao {
     /* Reset básico */
     border: none;
     color: transparent;
@@ -248,26 +267,7 @@ hr {
     
     /* Espaçamento e Largura */
     margin: 40px auto;
-    width: 100%; /* Ocupa 100% da largura do contêiner */
-}
-
-/* --- ESTILO SECUNDÁRIO (Linha Pontilhada e Escura - 80% de Largura) --- */
-
-.hr-pontilhada {
-    /* Reset (Herdará a maioria das propriedades de hr, mas é bom garantir o override) */
-    border: none;
-    color: transparent;
-    background-color: transparent;
-    height: 1px;
-    
-    /* Estilo Pontilhado (Escuro) */
-    border-top: 3px dotted #2E6F40; /* 💡 Agora é DOTTED, mais escuro e um pouco mais espesso */
-    
-    /* Largura */
-    max-width: 80%; /* Ocupa apenas 80% da largura */
-    
-    /* Opcional: Garante que a margem seja igual ao padrão */
-    margin: 40px auto; 
+    width: 100%; /* Ocupa 100% da largura do contêiner */ 
 }
 
 /* ================================= */
