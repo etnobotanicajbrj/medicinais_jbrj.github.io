@@ -10,7 +10,7 @@ Este grupo é composto por pesquisadores, pós-graduandos, graduandos, voluntár
 
 <hr class="hr-secao">
 
-### Pesquisadora-Chefe e Curadora
+### PESQUISADORA-CHEFE
 
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/viviane.png" alt="Viviane">
@@ -23,7 +23,7 @@ Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 
 <hr class="hr-secao">
 
-### Estudantes
+### ALUNOS
 
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/camila.png" alt="Camila">
@@ -32,7 +32,6 @@ Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 #### Camila Nascimento Dantas [🔗](http://lattes.cnpq.br/4396367747910248)
 ##### Voluntária na Coleção Temática de Plantas Medicinais
 
----
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
@@ -42,7 +41,6 @@ Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 #### Luiz Fernando de Melo [🔗](http://lattes.cnpq.br/4258771891384632)
 ##### Doutorando no PPGP/ENBT
 
----
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
@@ -52,7 +50,6 @@ Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 #### Luisa Ridolph [🔗](http://lattes.cnpq.br/5593552951372724)
 ##### Mestranda no PPGA/ENBT
 
----
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
@@ -62,7 +59,7 @@ Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 #### Mateus Salim [🔗](http://lattes.cnpq.br/0248529376853174)
 ##### Doutorando no PPGA/ENBT
 
----
+
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
@@ -72,7 +69,7 @@ Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 #### Nicky van Luijk [🔗](http://lattes.cnpq.br/3013537979299517)
 ##### Doutoranda no PPGP/ENBT
 
----
+
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
@@ -82,7 +79,7 @@ Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 #### Dra. Rosana C. Santos [🔗](http://lattes.cnpq.br/2754673352772277)
 ##### Pós-doutoranda no PPGA/ENBT
 
----
+
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
@@ -94,7 +91,7 @@ Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 
 <hr class="hr-secao">
 
-### Colaboradores
+### COLABORADORES
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
@@ -104,7 +101,6 @@ Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 #### Alana Monção
 ##### Recepcionista da Coleção Temática de Plantas Medicinais
 
----
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
@@ -114,7 +110,7 @@ Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 #### Manoel Junior 
 ##### Recepcionista da Coleção Temática de Plantas Medicinais
 
----
+
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
@@ -124,7 +120,7 @@ Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 #### Maria Paula Vasconcelos Mesquita
 ##### Claboradora da Coleção de Etnobotânica (RBetno)
 
----
+
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
@@ -134,7 +130,7 @@ Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 #### Priscila Coelho
 ##### Jardineira da Coleção Temática de Plantas Medicinais 
 
----
+
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
