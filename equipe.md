@@ -6,9 +6,9 @@ permalink: /equipe/
 
 ## Equipe do Grupo Etnobotânica
 
-Este grupo de pesquisa do **Instituto de Pesquisas Jardim Botânico do Rio de Janeiro** é composto por pesquisadores, pós-graduandos, graduandos, voluntários e colaboradores que realizam projetos relacionados à Etnobotânica e que atuam diretamente na manutenção e nas atividades realizadas na Coleção Temática de Plantas Medicinais e na Coleção de Etnobôtânica (RBetno) .
+Este grupo é composto por pesquisadores, pós-graduandos, graduandos, voluntários e colaboradores que realizam projetos relacionados à Etnobotânica e que atuam diretamente na manutenção e nas atividades realizadas na Coleção Temática de Plantas Medicinais (CTPM) e na Coleção de Etnobôtânica (RBetno).
 
----
+<hr>
 
 ### Pesquisadora-Chefe e Curadora
 
@@ -17,9 +17,13 @@ Este grupo de pesquisa do **Instituto de Pesquisas Jardim Botânico do Rio de Ja
 </div> 
 
 #### Dra. Viviane Stern da Fonseca Kruel [🔗](http://lattes.cnpq.br/0560294487722709) 
-Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temática de Plantas Medicinais e da Coleção de Etnobotânica (RBetno), desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, com ênfase nos biomas Mata Atlântica e Amazônia, fortalecendo a interação entre saberes científicos e tradicionais. Atua como docente nos Programas de Pós-Graduação Acadêmico em Botânica (PPGA/ENBT) e Profissional em Biodiversidade em Unidades de Conservação (PPGP/ENBT | JBRJ-ICMBio) e na Especialização em Plantas Medicinais e Fitoterapia (UFRJ/JBRJ/ABFIT). Viviane é mãe de trigêmeos: Ana, João e Eduardo.
+Pesquisadora no JBRJ e curadora da CTPM e do RBetno. Desenvolve pesquisas focadas no conhecimento tradicional sobre plantas, nos biomas da Mata Atlântica e da Amazônia, fortalecendo a interação entre a ciência e tradição. 
 
----
+Docente nos Programas de Pós-Graduação Acadêmico em Botânica (PPGA/ENBT) e Profissional em Biodiversidade em Unidades de Conservação (PPGP/ENBT | JBRJ-ICMBio) e na Especialização em Plantas Medicinais e Fitoterapia (UFRJ/JBRJ/ABFIT). 
+
+Viviane é mãe de trigêmeos: Ana, João e Eduardo.
+
+<hr>
 
 ### Estudantes
 
@@ -30,6 +34,8 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 #### Camila Nascimento Dantas [🔗](http://lattes.cnpq.br/4396367747910248)
 ##### Voluntária na Coleção Temática de Plantas Medicinais
 
+---
+
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/luiz_fernando.png" alt="Luiz Fernando">
@@ -37,6 +43,8 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 
 #### Luiz Fernando de Melo [🔗](http://lattes.cnpq.br/4258771891384632)
 ##### Doutorando no PPGP/ENBT
+
+---
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
@@ -46,6 +54,8 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 #### Luisa Ridolph [🔗](http://lattes.cnpq.br/5593552951372724)
 ##### Mestranda no PPGA/ENBT
 
+---
+
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/mateus.png" alt="Mateus">
@@ -53,6 +63,8 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 
 #### Mateus Salim [🔗](http://lattes.cnpq.br/0248529376853174)
 ##### Doutorando no PPGA/ENBT
+
+---
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
@@ -62,6 +74,8 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 #### Nicky van Luijk [🔗](http://lattes.cnpq.br/3013537979299517)
 ##### Doutoranda no PPGP/ENBT
 
+---
+
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/rosana.png" alt="Rosana">
@@ -70,15 +84,17 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 #### Dra. Rosana C. Santos [🔗](http://lattes.cnpq.br/2754673352772277)
 ##### Pós-doutoranda no PPGA/ENBT
 
+---
+
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/thalita.png" alt="Thalita">
 </div>
- 
+
 #### Thalita Lima [🔗](http://lattes.cnpq.br/9806013473257535)
 ##### Bolsista do Programa de Iniciação Científica (PIBIC/JBRJ)
 
----
+<hr>
 
 ### Colaboradores
 
@@ -90,6 +106,8 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 #### Alana Monção
 ##### Recepcionista da Coleção Temática de Plantas Medicinais
 
+---
+
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/manoel.png" alt="Manoel">
@@ -97,6 +115,8 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 
 #### Manoel Junior 
 ##### Recepcionista da Coleção Temática de Plantas Medicinais
+
+---
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
@@ -106,6 +126,8 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 #### Maria Paula Vasconcelos Mesquita
 ##### Claboradora da Coleção de Etnobotânica (RBetno)
 
+---
+
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/priscila.png" alt="Priscila">
@@ -113,6 +135,8 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 
 #### Priscila Coelho
 ##### Jardineira da Coleção Temática de Plantas Medicinais 
+
+---
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
