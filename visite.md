@@ -16,20 +16,20 @@ permalink: /visite/
     Seu navegador não suporta a tag de áudio.
 </audio>
 
-## Boas-vindas
+### Boas-vindas
 Olá! É um prazer receber você na **Coleção Temática de Plantas Medicinais!** Este é um espaço único no Jardim Botânico do Rio de Janeiro, um verdadeiro "laboratório a céu aberto".
 
 Logo na entrada, temos o painel que apresenta a exposição **"Saberes e Olhares Diversos"** e à direita da entrada temos um mapa da coleção. O roteiro foi preparado para te orientar a caminhar pela Coleção por conta própria, descobrindo a conexão entre as plantas, a ciência e os saberes tradicionais.
 
 ---
 
-### *Vamos conhecer a história por trás deste espaço e os objetivos que guiam este trabalho?*
+#### *Vamos conhecer a história por trás deste espaço e os objetivos que guiam este trabalho?*
 
 Nossa Coleção foi iniciada em 1986 por uma iniciativa das pesquisadoras do Jardim Botânico do Rio de Janeiro, Yara Britto e Tania Sampaio. Atualmente, o trabalho é continuado pela pesquisadora Viviane Fonseca-Kruel e sua equipe, que levam adiante esse legado.
 
 Trabalhamos com três objetivos centrais: **documentar** o uso das plantas medicinais no Brasil; **conscientizar** sobre a importância de conservar tanto as plantas quanto os saberes associados a elas; e **apoiar** a educação e o engajamento do público neste espaço de aprendizado não-formal.
 
-### Apresentando a coleção
+#### Apresentando a coleção
 Para começar, observe, ao seu redor, o antigo **muro de pedras** que circunda a Coleção. Ele é um vestígio de uma Casa de Pólvora do período colonial (no século XIX - por volta de 1808), sendo hoje uma das áreas mais antigas e históricas do Jardim Botânico do Rio de Janeiro.
 
 Nesta coleção, você vai encontrar cerca de **170 espécies** medicinais. São cultivadas ervas, arbustos e trepadeiras de diferentes origens, tanto **nativas** do Brasil quanto **exóticas**, e de diferentes ciclos de vida, anual e perene. Todas elas têm uma história para contar sobre a nossa biodiversidade e as diferentes culturas que as utilizam, mostrando como as plantas estão profundamente ligadas à nossa saúde e bem-estar, unindo a ciência aos saberes mais antigos.
@@ -56,8 +56,8 @@ O nome popular é a porta de entrada para os saberes ancestrais e tradicionais. 
 
 ---
 
-## Caminhando pelos Canteiros
-### Saúde e Cotidiano: Um Olhar Holístico
+### Caminhando pelos Canteiros
+#### Saúde e Cotidiano: Um Olhar Holístico
 Virando à esquerda depois da entrada, estão os canteiros ligados ao conjunto 1 com o tema **"Saúde e Cotidiano"**. Estes canteiros nos mostram que o caminho para a saúde está nas práticas do dia a dia. É uma visão alinhada com o conceito da Organização Mundial de Saúde, que define a saúde como um estado de completo bem-estar físico, mental e social, e não apenas a ausência de doenças.
 
 As plantas aqui, com seu papel na imunidade e no equilíbrio, são um lembrete vivo dessa ideia.
@@ -118,7 +118,7 @@ O maior canteiro desse grande tema é o canteiro 3, **"Saúde & Beleza"**. Veja 
 
 Os canteiros desse primeiro conjunto nos mostram como as plantas estão presentes em todas as esferas da nossa vida, do corpo ao espírito.
 
-### Ciência e Cultura
+#### Ciência e Cultura
 A partir do portão de entrada, virando à direita, atrás do totem com o mapa, estão reunidas as espécies do **Conjunto 2**, na cor azul, do canteiro 4 ao 8. Aqui, as plantas nos mostram a fascinante união entre a **ciência, a tradição e a cultura.**
 
 Vamos explorar o canteiro 4, **"Tradição"**, onde encontramos a **araruta**, uma **PANC** - Planta Alimentícia Não-Convencional. Você sabia que dos rizomas (raízes tuberosas) dessa planta é extraída uma **fécula (farinha)**, um tipo de amido que é a base para o famoso **biscoito de araruta?** Historicamente, a **araruta** (*Maranta arundinacea*) tem uma forte ligação com a medicina tradicional. Povos indígenas a utilizavam para tratar feridas e picadas de animais. Sua principal característica, no entanto, é a **alta digestibilidade**. Por isso, a fécula de araruta é frequentemente recomendada na alimentação de bebês, idosos e pessoas com problemas digestivos, como forma de nutrir e acalmar o estômago. É um ótimo exemplo de como a tradição une a alimentação e a saúde.
@@ -195,7 +195,7 @@ Também ao centro, no canteiro 8, **"Na Boca dos Povos"**, conheça o **cipó-mi
         </div>
 </div>
 
-### Sistemas do Corpo Humano
+#### Sistemas do Corpo Humano
 Vamos agora seguir para o **Conjunto 3**, na cor verde, dos canteiros número 9 a 22. São os canteiros retangulares, que formam corredores. Neste conjunto, as plantas estão organizadas de acordo com o sistema do corpo em que atuam, mostrando a precisão do conhecimento medicinal.
 
 O primeiro é o canteiro 9, do **Sistema Nervoso**. Aqui podemos conhecer o famoso **guaraná** (_Paullinia cupana_), uma trepadeira nativa da Amazônia, com uma longa história na cultura indígena. Segundo a antiga narrativa dos Sateré-Mawé, a planta sagrada nasceu dos olhos de uma criança divina que foi sacrificada, representando a dualidade de sua semente: a parte branca (olho) e a parte escura (pupila). Considerada uma das maiores fontes naturais de cafeína, as sementes do guaraná são tradicionalmente usadas pelos povos indígenas para aumentar a energia e a resistência, além de tratar dores de cabeça e febres. Atualmente, a planta é um ingrediente usado globalmente, sendo a base de refrigerantes, bebidas energéticas e suplementos, explorado por suas propriedades estimulantes que melhoram o desempenho físico e mental.
@@ -251,7 +251,7 @@ Finalmente, chegamos ao canteiro 22 do **Sistema Digestório**, e destacamos a f
 
 Ao longo desses canteiros, você pôde notar a incrível precisão do conhecimento medicinal, mostrando a relação íntima entre as plantas e o nosso corpo.
 
-### Plantas Alimentícias Não-Convencionais (PANCs)
+#### Plantas Alimentícias Não-Convencionais (PANCs)
 
 Caminhando até o fundo da coleção, de cara com o parquinho infantil, está o conjunto das **Plantas Alimentícias Não-Convencionais**, ou **PANCs**. São espécies comestíveis que, apesar de não fazerem parte do nosso consumo diário, possuem um alto valor nutricional. O mais fascinante é que, para muitas comunidades, essas plantas são consideradas **alimento-medicina**, unindo nutrição e saúde em uma só espécie.
 
@@ -291,7 +291,7 @@ Ainda no fundo da coleção, ao lado da estufa, no canteiro 28, você verá a **
         </div>
 </div>
 
-### Zonas de Trocas
+#### Zonas de Trocas
 Próximo à sala de pesquisa (ponto C do mapa) entramos na **Zona de Trocas**. Este é um espaço que conta a história de como plantas de outras regiões do mundo, como a **citronela**, da Ásia, ou a **pimenta-do-reino**, da Índia, foram incorporadas à cultura brasileira.
 
 A **citronela** (_Cymbopogon winterianus_), no canteiro 30, é uma planta herbácea da família das Poaceae, originária do sul da Ásia. Ela é amplamente conhecida por seu óleo essencial com um forte e agradável aroma cítrico, sendo seu uso mais popular como **repelente de insetos**. O cheiro da citronela mascara os odores que atraem mosquitos e outros insetos, tornando-se uma solução natural e eficaz. Além disso, a planta é utilizada em perfumes, sabonetes e velas, e também possui propriedades antifúngicas e anti-inflamatórias na medicina popular.
@@ -365,8 +365,8 @@ Para fechar o passeio pelas plantas, ainda no canteiro 33, destacamos espécies 
 
 ---
 
-## Finalização: Exposição
-### Setor B
+### Finalização: Exposição
+#### Setor B
 Agora, convidamos você a conhecer o Setor B, espaço coberto no centro da Coleção, onde fica a **exposição permanente**.
 
 Aqui, você é convidado a aprofundar o que viu nos canteiros, entendendo, por exemplo, as definições de uma planta medicinal e a diferença entre fitoterápicos e fitofármacos.
@@ -374,7 +374,7 @@ Aqui, você é convidado a aprofundar o que viu nos canteiros, entendendo, por e
 A importância das plantas para a saúde é um conhecimento ancestral que, atualmente, é reconhecido e valorizado, inclusive pela **Organização Mundial da Saúde (OMS)**, que reconhece as plantas como fonte primária de cuidado para muitas comunidades em todo o mundo.
 
 ---
-## Reflexão - A Urgência da Conservação Biocultural
+### Reflexão - A Urgência da Conservação Biocultural
 Para encerrar nosso passeio, queremos deixar uma mensagem para uma reflexão muito importante.
 
 A diversidade de plantas que você viu aqui é apenas uma amostra da riqueza inestimável da natureza. E a importância delas vai muito além dos saberes tradicionais.
