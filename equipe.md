@@ -6,7 +6,7 @@ permalink: /equipe/
 
 ## Equipe do Grupo Etnobotânica
 
-Este grupo é composto por pesquisadores, pós-graduandos, graduandos, voluntários e colaboradores que realizam projetos relacionados à Etnobotânica e que atuam diretamente na manutenção e nas atividades realizadas na Coleção Temática de Plantas Medicinais (CTPM) e na Coleção de Etnobôtânica (RBetno).
+Este grupo é **composto** por **pesquisadores**, **pós-graduandos**, **graduandos**, **voluntários** e **colaboradores** que realizam projetos relacionados à **Etnobotânica** e que atuam diretamente na **manutenção** e nas **atividades** realizadas na Coleção Temática de Plantas Medicinais (CTPM) e na Coleção de Etnobôtânica (RBetno).
 
 <hr class="hr-secao">
 
