@@ -234,7 +234,7 @@ header {
     font-weight: bold !important;
 }
 
-/* --- ESTILO PADRÃO DA LINHA DIVISÓRIA (Sólida e Clara - 100% de Largura) --- */
+/* --- ESTILO PADRÃO DA LINHA DIVISÓRIA (PONTILHADA) --- */
 
 hr {
 /* Reset (Herdará a maioria das propriedades de hr, mas é bom garantir o override) */
@@ -244,16 +244,16 @@ hr {
     height: 1px;
     
     /* Estilo Pontilhado (Escuro) */
-    border-top: 3px dotted #2E6F40; /* 💡 Agora é DOTTED, mais escuro e um pouco mais espesso */
+    border-top: 3px dotted #7ac28e; /* 💡 Agora é DOTTED, mais escuro e um pouco mais espesso */
     
     /* Largura */
-    max-width: 90%; /* Ocupa apenas 80% da largura */
+    max-width: 100%; /* Ocupa apenas 80% da largura */
     
     /* Opcional: Garante que a margem seja igual ao padrão */
     margin: 40px auto;
 }
 
-/* --- ESTILO SECUNDÁRIO (Linha Pontilhada e Escura - 80% de Largura) --- */
+/* --- ESTILO SECUNDÁRIO (Linha Sólida e Clara - 100% de Largura)  --- */
 
 .hr-secao {
     /* Reset básico */
@@ -263,7 +263,7 @@ hr {
     height: 1px;
     
     /* Estilo Sólido (Claro) */
-    border-top: 2px solid #7ac28e; /* Cor clara */
+    border-top: 2px solid #2E6F40; /* Cor clara */
     
     /* Espaçamento e Largura */
     margin: 40px auto;
