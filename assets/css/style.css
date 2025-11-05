@@ -34,7 +34,8 @@ h1 {
     text-align: center;
     margin-bottom: 10px; /* Adiciona um espaço abaixo do título para separá-lo do texto */
 /* --- Estilo para Caixa de Título H2 --- */
-
+}
+    
 h2 {
     /* 1. Cores e Fundo */
     background-color: #7ac28e; /* Fundo verde */
@@ -42,16 +43,11 @@ h2 {
     
     /* 2. Espaçamento e Borda */
     padding: 12px 20px;        /* Espaço interno (topo/base e laterais) */
-    border-left: 5px solid #0056b3; /* Uma linha de destaque na esquerda (opcional, mas moderno) */
     border-radius: 4px;        /* Bordas levemente arredondadas */
     margin-top: 30px;          /* Espaço acima do título para separá-lo do conteúdo anterior */
     margin-bottom: 20px;       /* Espaço abaixo do título para separá-lo do texto que se segue */
-    
-    /* 3. Alinhamento (se você centralizou o H1, pode querer o H2 à esquerda) */
-    text-align: left; /* Garante que o texto comece na esquerda do bloco */
-    
-    /* Garante que o H2 não vaze, se o reset não funcionou completamente */
-    box-sizing: border-box; 
+    text-align: center; /* Garante que o texto comece na esquerda do bloco */
+    box-sizing: border-box;  /* Garante que o H2 não vaze, se o reset não funcionou completamente */ 
 }
 
 /* Opcional: Centralizar títulos secundários se desejar consistência */
@@ -59,17 +55,12 @@ h3, h4 {
     text-align: left;
 }
 
-
 /* 2. JUSTIFICAR O TEXTO CORRIDO */
 /* Aplica o alinhamento justificado apenas ao corpo do texto. */
 .subpage-content p, 
 .subpage-content li,
 .subpage-content div {
     text-align: justify;
-    
-    /* Regra opcional: Define o alinhamento padrão para outros elementos de texto */
-    /* Caso a justificação fique estranha, considere usar 'text-align: initial;' 
-       e apenas justificar blocos de texto maiores. */
 }
 
 /* =========================== */
