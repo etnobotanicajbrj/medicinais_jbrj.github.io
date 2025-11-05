@@ -8,7 +8,7 @@ permalink: /publicacoes/
 
 Aqui você encontrará uma seleção dos nossos últimos artigos científicos, cartilhas, guias, livros, capítulos, jogos e materiais didáticos produzidos e publicados pelo nosso grupo.
 
-<hr class="hr-pontilhada">
+<hr class="hr-secao">
 
 ### Artigos
 
@@ -17,7 +17,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos científicos, c
 <a href="https://doi.org/10.1002/ppp3.70105" class="publicacao-float-link publicacao-float-left" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/artigo_colecaoEtno.png" alt="Artigo Coleção Etno">
     <div class="publicacao-legenda-float">
-       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
+       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui</span>
     </div>
 </a>
 
@@ -34,7 +34,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos científicos, c
 <a href="https://doi.org/10.1002/ppp3.70052" class="publicacao-float-link publicacao-float-right" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/artigo_repositorios.jpg" alt="Artigo Repositorios">
     <div class="publicacao-legenda-float">
-       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
+       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui</span>
     </div>
 </a>
 
@@ -44,7 +44,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos científicos, c
 
 </div>
 
-<hr class="hr-pontilhada">
+<hr class="hr-secao">
 
 ### Cartilhas e Guias
 
@@ -53,7 +53,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos científicos, c
 <a href="https://cloud.jbrj.gov.br/s/rwMotr7H2LMWmtR?dir=/&openfile=true" class="publicacao-float-link publicacao-float-left " target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_covid.png" alt="Cartilha Covid-19">
     <div class="publicacao-legenda-float">
-       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
+       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui</span>
     </div>
 </a>
 
@@ -70,7 +70,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos científicos, c
 <a href="https://cloud.jbrj.gov.br/s/FeoqDWNcjjgNeQ5?dir=/&openfile=true" class="publicacao-float-link publicacao-float-right" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/cartilha_pancs.png" alt="Cartilha Pancs">
     <div class="publicacao-legenda-float">
-       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
+       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse</span>
     </div>
 </a>
 
@@ -87,7 +87,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos científicos, c
 <a href="https://cloud.jbrj.gov.br/s/QBrkMcexqWdnPQR?dir=/&openfile=true" class="publicacao-float-link publicacao-float-left" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/guia_restinga.png" alt="Guia Restinga">
     <div class="publicacao-legenda-float">
-       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
+       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui</span>
     </div>
 </a>
 
@@ -104,7 +104,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos científicos, c
 <a href="https://cloud.jbrj.gov.br/s/JG8yJetyWpdrtwf?dir=/&openfile=true" class="publicacao-float-link publicacao-float-right" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/gibi_ctpm.png" alt="História em Quadrinho Medicinais">
     <div class="publicacao-legenda-float">
-       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
+       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui</span>
     </div>
 </a>
 
@@ -114,7 +114,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos científicos, c
 
 </div>
 
-<hr class="hr-pontilhada">
+<hr class="hr-secao">
 
 ### Livros
 
@@ -123,7 +123,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos científicos, c
 <a href="https://bvsms.saude.gov.br/bvs/publicacoes/2debates_virtuais_encontros_cultura_saude.pdf" class="publicacao-float-link publicacao-float-left" target="_blank">
     <img src="{{ site.baseurl }}/assets/images/publicacoes/livro_sus.png" alt="Livro SUS">
     <div class="publicacao-legenda-float">
-       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui o material</span>
+       <span style="color: #2E6F40; font-weight: bold; text-decoration: underline;">Acesse aqui</span>
     </div>
 </a>
 
@@ -133,7 +133,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos científicos, c
 
 </div>
 
-<hr class="hr-pontilhada">
+<hr class="hr-secao">
 
 ### Jogos
 
