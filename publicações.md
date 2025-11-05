@@ -8,7 +8,7 @@ permalink: /publicacoes/
 
 Aqui você encontrará uma seleção dos nossos últimos artigos científicos, cartilhas, guias, livros, capítulos, jogos e materiais didáticos produzidos e publicados pelo nosso grupo.
 
-<hr>
+<hr class="hr-pontilhada">
 
 ### Artigos
 
@@ -44,7 +44,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos científicos, c
 
 </div>
 
-<hr>
+<hr class="hr-pontilhada">
 
 ### Cartilhas e Guias
 
@@ -114,7 +114,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos científicos, c
 
 </div>
 
-<hr>
+<hr class="hr-pontilhada">
 
 ### Livros
 
@@ -133,7 +133,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos científicos, c
 
 </div>
 
-<hr>
+<hr class="hr-pontilhada">
 
 ### Jogos
 
