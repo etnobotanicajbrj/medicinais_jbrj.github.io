@@ -39,7 +39,7 @@ h1 {
 h2 {
     /* 1. Cores e Fundo */
     background-color: #7ac28e; /* Fundo verde */
-    color: #2E6F40;            /* Cor do texto do título (verde escuro) */
+    color: white;            /* Cor do texto do título (verde escuro) */
     
     /* 2. Espaçamento e Borda */
     padding: 12px 20px;        /* Espaço interno (topo/base e laterais) */
@@ -236,9 +236,21 @@ header {
 /* Estilos para a linha divisória */
 hr {
     border: none;
-    border-top: 2px solid #7ac28e !important; /* Cor e espessura da linha */
+    border-top: 2px solid #2E6F40 !important; /* Cor e espessura da linha */
     margin: 40px auto !important;
     width: 100% !important; /* Linha com 100% da largura */
+}
+
+/* --- Estilo para Linha Horizontal (Separador) --- */
+
+hr {
+    border: none; /* Remove a borda padrão do navegador */
+    border-top: 1px dotted #2E6F40; /* 💡 Aplica a linha pontilhada no topo */
+    color: transparent; /* Remove qualquer cor de fundo ou sombra esquisita */
+    background-color: transparent;
+    height: 1px; /* Garante que a linha tenha uma altura mínima */
+    margin: 40px auto; /* Espaçamento acima e abaixo */
+    max-width: 80%; /* Para que a linha não vá de ponta a ponta na tela */
 }
 
 /* ================================= */
