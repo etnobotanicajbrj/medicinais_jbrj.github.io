@@ -23,7 +23,7 @@ main {
 }
 /* Cor de fundo para toda a janela do navegador */
 body {
-    background-color: #f0f0f0; /* Um cinza muito claro, que parece uma borda */
+    background-color: white; /* Um cinza muito claro, que parece uma borda */
 }
 
 /* --- Ajuste Geral de Alinhamento --- */
@@ -33,6 +33,10 @@ body {
 h1 {
     text-align: center;
     margin-bottom: 10px; /* Adiciona um espaço abaixo do título para separá-lo do texto */
+}
+/* Opcional: Centralizar títulos secundários se desejar consistência */
+h2, h3, h4 {
+    text-align: justify;
 }
 
 /* Opcional: Centralizar títulos secundários se desejar consistência */
@@ -603,43 +607,4 @@ body.menu-open {
     .page-content {
         padding-top: 80px; 
     }
-}
-/* --- ESTILO GERAL PARA SUBPÁGINAS (Desktop) --- */
-.page-content {
-    background-color: white; /* 💡 ESSENCIAL: Mantém o fundo branco */
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.08); 
-    max-width: 1000px; 
-    margin: 0 auto 30px auto; 
-    padding-top: 70px;
-    padding-bottom: 30px;
-    padding-left: 50px; 
-    padding-right: 50px;
-}
-
-
-/* --- AJUSTES PARA RESPONSIVIDADE (Mobile) --- */
-
-@media (max-width: 768px) { 
-    .page-content {
-        /* Remove a sombra e a margem no celular, mas MANTÉM o fundo branco */
-        box-shadow: none;
-        margin: 0; 
-        
-        /* Ocupa a largura total (100% da tela) */
-        width: 100%; 
-        
-        /* Zera o padding que foi grande no desktop e ajusta o padding lateral para mobile */
-        padding-left: 20px;
-        padding-right: 20px;
-        
-        /* Ajusta o padding superior e inferior se necessário */
-        padding-top: 80px; 
-        padding-bottom: 30px;
-    }
-}
-/* --- RESET GERAL PARA GARANTIR RESPONSIVIDADE --- */
-/* Esta regra garante que a largura de qualquer elemento jamais exceda a largura de seu contêiner. */
-* {
-    box-sizing: border-box; /* 💡 ESSENCIAL: Garante que padding e border sejam incluídos na largura total. */
-    max-width: 100%;        /* 💡 ESSENCIAL: Impede que qualquer imagem ou tabela vaze lateralmente. */
 }
