@@ -8,7 +8,7 @@ permalink: /equipe/
 
 Este grupo é composto por pesquisadores, pós-graduandos, graduandos, voluntários e colaboradores que realizam projetos relacionados à Etnobotânica e que atuam diretamente na manutenção e nas atividades realizadas na Coleção Temática de Plantas Medicinais (CTPM) e na Coleção de Etnobôtânica (RBetno).
 
-<hr class="hr-pontilhada">
+<hr class="hr-secao">
 
 ### Pesquisadora-Chefe e Curadora
 
@@ -21,7 +21,7 @@ Pesquisadora no JBRJ e curadora da CTPM e do RBetno. Desenvolve pesquisas focada
 
 Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 
-<hr class="hr-pontilhada">
+<hr class="hr-secao">
 
 ### Estudantes
 
@@ -92,7 +92,7 @@ Viviane é mãe de trigêmeos: Ana, João e Eduardo.
 #### Thalita Lima [🔗](http://lattes.cnpq.br/9806013473257535)
 ##### Bolsista do Programa de Iniciação Científica (PIBIC/JBRJ)
 
-<hr class="hr-pontilhada">
+<hr class="hr-secao">
 
 ### Colaboradores
 
