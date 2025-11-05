@@ -236,7 +236,7 @@ header {
 /* Estilos para a linha divisória */
 hr {
     border: none;
-    border-top: 2px solid #2E6F40 !important; /* Cor e espessura da linha */
+    border-top: 2px solid #7ac28e !important; /* Cor e espessura da linha */
     margin: 40px auto !important;
     width: 100% !important; /* Linha com 100% da largura */
 }
@@ -422,7 +422,7 @@ hr {
 .publicacao-bloco-float {
     margin-bottom: 60px;
     padding: 30px;
-    border: 1px solid #ddd;
+    border: 1px solid #2E6F40;
     border-radius: 8px;
     background-color: #f9f9f9;
     overflow: auto; /* IMPORTANTE: Contém o float e limpa o layout */
