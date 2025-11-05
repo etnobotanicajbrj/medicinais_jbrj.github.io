@@ -4,13 +4,13 @@ title: Equipe
 permalink: /equipe/
 ---
 
-# Equipe do Grupo Etnobotânica
+## Equipe do Grupo Etnobotânica
 
 Este grupo de pesquisa do **Instituto de Pesquisas Jardim Botânico do Rio de Janeiro** é composto por pesquisadores, pós-graduandos, graduandos, voluntários e colaboradores que realizam projetos relacionados à Etnobotânica e que atuam diretamente na manutenção e nas atividades realizadas na Coleção Temática de Plantas Medicinais e na Coleção de Etnobôtânica (RBetno) .
 
 ---
 
-## Pesquisadora-Chefe e Curadora
+### Pesquisadora-Chefe e Curadora
 
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/viviane.png" alt="Viviane">
@@ -21,7 +21,7 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 
 ---
 
-## Estudantes
+### Estudantes
 
 <div class="imagem-com-texto-esquerda">
     <img src="{{ site.baseurl }}/assets/images/camila.png" alt="Camila">
@@ -80,7 +80,7 @@ Pesquisadora no Jardim Botânico do Rio de Janeiro e curadora da Coleção Temá
 
 ---
 
-## Colaboradores
+### Colaboradores
 
 <div class="limpar-float"></div>
 <div class="imagem-com-texto-esquerda">
