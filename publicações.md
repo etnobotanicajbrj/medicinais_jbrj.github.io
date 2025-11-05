@@ -4,10 +4,10 @@ title: Publicações
 permalink: /publicacoes/
 ---
 
-# Publicações e Materiais de Divulgação
+## Publicações e Materiais de Divulgação
 
 
-## Artigos
+### Artigos
 
 Aqui você encontrará uma seleção dos nossos últimos artigos e publicações científicas.
 
@@ -46,7 +46,7 @@ Aqui você encontrará uma seleção dos nossos últimos artigos e publicações
 ---
 
 
-## Cartilhas e Guias
+### Cartilhas e Guias
 
 Aqui você encontrará as últimas cartilhas e guias de divulgação científica publicadas pelo nosso grupo de pesquisa.
 
@@ -118,7 +118,7 @@ Aqui você encontrará as últimas cartilhas e guias de divulgação científica
 
 ---
 
-## Livros
+### Livros
 
 Aqui você encontrará nossos jogos e materiais didáticos desenvolvidos pelo nosso grupo de pesquisa.
 
@@ -139,6 +139,6 @@ Aqui você encontrará nossos jogos e materiais didáticos desenvolvidos pelo no
 
 ---
 
-## Jogos
+### Jogos
 
 Aqui você encontrará nossos jogos, livros e materiais didáticos...
