@@ -6,10 +6,11 @@ permalink: /publicacoes/
 
 ## Publicações e Materiais de Divulgação
 
+Aqui você encontrará uma seleção dos nossos últimos artigos científicos, cartilhas, guias, livros, capítulos, jogos e materiais didáticos produzidos e publicados pelo nosso grupo.
+
+<hr>
 
 ### Artigos
-
-Aqui você encontrará uma seleção dos nossos últimos artigos e publicações científicas.
 
 <div class="publicacao-bloco-float">
 
@@ -43,12 +44,9 @@ Aqui você encontrará uma seleção dos nossos últimos artigos e publicações
 
 </div>
 
----
-
+<hr>
 
 ### Cartilhas e Guias
-
-Aqui você encontrará as últimas cartilhas e guias de divulgação científica publicadas pelo nosso grupo de pesquisa.
 
 <div class="publicacao-bloco-float">
 
@@ -116,11 +114,9 @@ Aqui você encontrará as últimas cartilhas e guias de divulgação científica
 
 </div>
 
----
+<hr>
 
 ### Livros
-
-Aqui você encontrará nossos jogos e materiais didáticos desenvolvidos pelo nosso grupo de pesquisa.
 
 <div class="publicacao-bloco-float">
 
@@ -137,8 +133,7 @@ Aqui você encontrará nossos jogos e materiais didáticos desenvolvidos pelo no
 
 </div>
 
----
+<hr>
 
 ### Jogos
 
-Aqui você encontrará nossos jogos, livros e materiais didáticos...
