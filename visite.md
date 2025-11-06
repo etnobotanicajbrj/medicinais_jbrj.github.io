@@ -69,12 +69,12 @@ Próximo às janelas da sala de aula (ponto A do mapa) está o canteiro 1, **"La
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/alecrim.jpg" alt="Alecrim com Flor">
-            <figcaption class="legenda-item"> ALECRIM (Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> ALECRIM (Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/guine.jpg" alt="Guiné com Flor">
-            <figcaption class="legenda-item"> GUINÉ (Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> GUINÉ (Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -87,12 +87,12 @@ Ao lado do pequeno lago, está o canteiro 2, **"Temperos da Vida"**, que nos mos
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/oregano.jpg" alt="Orégano com flor">
-            <figcaption class="legenda-item"> ORÉGANO (Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> ORÉGANO (Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/manjericao.jpg" alt="Manjericão com flor">
-            <figcaption class="legenda-item"> MANJERICÃO (Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> MANJERICÃO (Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -105,12 +105,12 @@ O maior canteiro desse grande tema é o canteiro 3, **"Saúde & Beleza"**. Veja 
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/babosa1.jpg" alt="Babosa planta toda">
-            <figcaption class="legenda-item"> BABOSA (Planta toda | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> BABOSA (Planta toda | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/babosa2.jpg" alt="Babosa flor">
-            <figcaption class="legenda-item"> BABOSA (Flor | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> BABOSA (Flor | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -130,12 +130,12 @@ Ao lado, no canteiro 5, **"Ciências e Novas Descobertas"**, o destaque é a tre
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/araruta.jpg" alt="Araruta com flor">
-            <figcaption class="legenda-item"> ARARUTA (Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> ARARUTA (Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/carajuru.jpg" alt="Carajuru">
-            <figcaption class="legenda-item"> CARAJIRU, CARAJURU, PARIRI (Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> CARAJIRU, CARAJURU, PARIRI (Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -148,12 +148,12 @@ Seguindo em frente, próximo ao muro de pedras, temos o canteiro 6, **"Plantas M
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/urucum1.jpg" alt="Urucum com fruto">
-            <figcaption class="legenda-item"> URUCUM (Fruto | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> URUCUM (Fruto | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/urucum2.jpg" alt="Urucum com flor">
-            <figcaption class="legenda-item"> URUCUM (Flor | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> URUCUM (Flor | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -166,12 +166,12 @@ Virando-se para o lado oposto ao muro, bem ao centro, está o canteiro 7, **"Rac
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/gengibre1.jpg" alt="Gengibre com fruto">
-            <figcaption class="legenda-item"> GENGIBRE (Flor | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> GENGIBRE (Flor | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/gengibre2.jpg" alt="Gengibre planta toda">
-            <figcaption class="legenda-item"> GENGIBRE (Planta toda | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> GENGIBRE (Planta toda | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -184,12 +184,12 @@ Também ao centro, no canteiro 8, **"Na Boca dos Povos"**, conheça o **cipó-mi
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/cipo_mil_homens1.jpg" alt="Cipó Milhomem Flor">
-            <figcaption class="legenda-item"> CIPÓ-MILHOMEM (Flor | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> CIPÓ-MILHOMEM (Flor | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/cipo_mil_homens2.jpg" alt="Cipó Milhomem planta toda">
-            <figcaption class="legenda-item"> CIPÓ-MILHOMEM (Planta toda | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> CIPÓ-MILHOMEM (Planta toda | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -205,12 +205,12 @@ O primeiro é o canteiro 9, do **Sistema Nervoso**. Aqui podemos conhecer o famo
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/guarana1.jpg" alt="Guaraná Fruto">
-            <figcaption class="legenda-item"> GUARANÁ (Fruto | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> GUARANÁ (Fruto | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/guarana2.jpg" alt="Guaraná planta toda">
-            <figcaption class="legenda-item"> GUARANÁ (Planta toda | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> GUARANÁ (Planta toda | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -225,12 +225,12 @@ Próximo, no canteiro 15 do **Sistema Respiratório**, você vai ver o **mandaca
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/erva_baleeira.jpg" alt="Erva-baleeira Flor">
-            <figcaption class="legenda-item"> ERVA-BALEEIRA (Flor | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> ERVA-BALEEIRA (Flor | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/mandacaru.jpg" alt="Mandacarú">
-            <figcaption class="legenda-item"> MANDACARÚ (Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> MANDACARÚ (Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -243,7 +243,7 @@ Finalmente, chegamos ao canteiro 22 do **Sistema Digestório**, e destacamos a f
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/espinheira_santa.jpg" alt="Espinheira-santa">
-            <figcaption class="legenda-item"> ESPINHEIRA-SANTA (Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> ESPINHEIRA-SANTA (Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -262,12 +262,12 @@ Um ótimo exemplo é a **ora-pro-nobis** (_Pereskia aculeata_), que está presen
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/ora_pro_nobis1.jpg" alt="Ora-pro-nobis (Pereskia aculeata)">
-            <figcaption class="legenda-item"> ORA-PRO-NOBIS (P. aculeata | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> ORA-PRO-NOBIS (P. aculeata | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/ora_pro_nobis2.jpg" alt="Ora-pro-nobis (Pereskia grandifolia)">
-            <figcaption class="legenda-item"> ORA-PRO-NOBIS (P. grandifolia | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> ORA-PRO-NOBIS (P. grandifolia | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -285,7 +285,7 @@ Ainda no fundo da coleção, ao lado da estufa, no canteiro 28, você verá a **
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/aroeira2.jpg" alt="Aroeira Fruto">
-            <figcaption class="legenda-item"> AROEIRA (Fruto | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> AROEIRA (Fruto | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -301,7 +301,7 @@ A **citronela** (_Cymbopogon winterianus_), no canteiro 30, é uma planta herbá
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/citronela.jpg" alt="Citronela">
-            <figcaption class="legenda-item"> CITRONELA (Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> CITRONELA (Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -314,12 +314,12 @@ A **pimenta-do-reino** (_Piper nigrum_), no canteiro 31, é uma trepadeira nativ
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/pimenta_preta1.jpg" alt="Pimenta-preta fruto verde">
-            <figcaption class="legenda-item"> PIMENTA-DO-REINO (Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> PIMENTA-DO-REINO (Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/pimenta_preta2.jpg" alt="Pimenta-preta Fruto">
-            <figcaption class="legenda-item"> PIMENTA-DO-REINO (Fruto | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> PIMENTA-DO-REINO (Fruto | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -334,12 +334,12 @@ A **pitanga** é um nome comum que se refere a diversas plantas, mas a espécie 
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/pitanga1.jpg" alt="Pitanga fruto">
-            <figcaption class="legenda-item"> PITANGA (Fruto | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> PITANGA (Fruto | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/pitanga2.jpg" alt="Pitanga flor">
-            <figcaption class="legenda-item"> PITANGA (Flor | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> PITANGA (Flor | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
@@ -352,12 +352,12 @@ Para fechar o passeio pelas plantas, ainda no canteiro 33, destacamos espécies 
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/caapi1.jpg" alt="Caapi">
-            <figcaption class="legenda-item"> CAAPI (Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> CAAPI (Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         <figure class="imagem-flex-item">
             <img src="{{ site.baseurl }}/assets/images/plantas/caapi2.jpg" alt="Caapi flor">
-            <figcaption class="legenda-item"> CAAPI (Flor | Fonseca-Kruel, K.)</figcaption>
+            <figcaption class="legenda-item"> CAAPI (Flor | Fonseca-Kruel, V.)</figcaption>
         </figure>
         
         </div>
