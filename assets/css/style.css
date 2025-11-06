@@ -153,49 +153,39 @@ header {
 
 @media (max-width: 768px) { 
     
-    /* 1. Container Principal do Cabeçalho (A barra verde) */
-    .main-header { /* Use a classe do seu container da barra verde */
+    /* 1. Container principal da barra verde (ajusta a coluna para logo e menu) */
+    .site-header, header { /* Tente 'header' se não souber a classe */
         display: flex;
         flex-direction: column; /* Coloca o logo e o menu um abaixo do outro */
-        align-items: center; /* Centraliza todo o conteúdo (logo e menu) */
-        padding: 15px 10px; /* Reduz o padding geral para economizar espaço */
+        align-items: center; 
+        padding: 15px 10px; 
     }
 
-    /* 2. O Logo do Grupo */
-    .logo-area { /* Se houver um container para o logo */
-        margin-bottom: 10px; /* Adiciona um pequeno espaço entre o logo e o menu */
-    }
-    
-    /* 3. O Menu de Navegação (a lista de links: Home, Sobre, Publicações...) */
-    .main-nav ul { /* Use o seletor da sua lista de links */
+    /* 2. O Menu de Navegação (a lista de links) */
+    .site-nav ul, nav ul { /* Tente 'nav ul' se não souber a classe */
         display: flex; 
-        flex-wrap: wrap; /* 💡 ESSENCIAL: Permite que os itens quebrem para a linha de baixo */
-        justify-content: center; /* Centraliza os links dentro do menu */
+        flex-wrap: wrap; /* 💡 ESSENCIAL: Permite a quebra de linha */
+        justify-content: center; /* Centraliza os grupos de links */
+        width: 100%; 
         padding: 0;
-        list-style: none;
-        width: 100%; /* Garante que o menu ocupe a largura total */
+        margin: 10px 0 0 0; /* Espaço entre o logo e o menu */
     }
     
-    /* 4. Os Itens Individuais do Menu */
-    .main-nav li { /* Use o seletor de cada item da lista (<li>) */
-        /* Garante que cada item tenha espaço uniforme e definido */
-        margin: 5px 8px; 
-        
-        /* Define a largura para que caiba, por exemplo, 3 ou 4 itens por linha */
-        /* Se você tem 6 itens, 33% daria 3 por linha. */
-        /* width: 30%; */ 
-        
-        text-align: center; 
+    /* 3. Os Itens Individuais do Menu (<li>) */
+    .site-nav li, nav li { /* Tente 'nav li' se não souber a classe */
+        /* Garante que os itens tenham espaçamento uniforme */
+        margin: 5px 6px; 
+        flex-basis: auto; /* Deixa o item crescer/diminuir naturalmente */
+        text-align: center;
     }
     
-    /* 5. Estilo dos Botões/Links (Se os links tiverem padding/borda) */
-    .main-nav a {
-        padding: 5px 8px; /* Reduz o padding interno do link para economizar espaço */
-        font-size: 0.9em; /* Reduz um pouco a fonte para caber mais */
+    /* 4. O Botão / Link (Para uniformizar o padding interno) */
+    .site-nav a, nav a {
+        padding: 8px 10px; /* Padding interno uniforme para todos os links */
+        font-size: 0.95em; 
         display: block;
     }
 }
-
 
 /* =========================== */
 /* ESTILO PARA O RODAPÉ
